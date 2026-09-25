@@ -589,6 +589,12 @@ function ProductInfo({ product, onAdd }: { product: Product; onAdd: (p: Product,
             <ShieldCheck className="size-4" /> Официальная лицензия
           </li>
         )}
+        {product.replica && (
+          <li className="flex items-start gap-2">
+            <span className="shrink-0 rounded-full bg-paper-ink px-2 py-0.5 text-xs font-semibold text-white">Реплика</span>
+            <span className="text-paper-muted">не LEGO и не лицензия команды</span>
+          </li>
+        )}
         <li className="flex items-center gap-2">
           <Truck className="size-4" /> Доставка {product.delivery[0]}–{product.delivery[1]} дней
         </li>
@@ -654,6 +660,7 @@ function MobileDetail({
             {product.title}
           </h2>
           <p className="mt-1 truncate text-sm text-paper-muted">
+            {product.replica ? "Реплика · " : ""}
             {product.subtitle}
             {product.scale ? ` · ${product.scale}` : ""}
           </p>

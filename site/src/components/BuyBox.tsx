@@ -4,7 +4,7 @@ import { useState } from "react";
 import { createPortal } from "react-dom";
 import { AnimatePresence, motion } from "motion/react";
 import { Package, Ruler, ShoppingBag, Truck, X } from "lucide-react";
-import { formatPrice, type Product } from "@/data/catalog";
+import { REPLICA_NOTE, formatPrice, type Product } from "@/data/catalog";
 
 export type CartOptions = { size?: string; color?: string };
 
@@ -184,6 +184,7 @@ function ProductDetails({ product, open, onClose }: { product: Product; open: "a
                     <p className="flex items-center gap-2 font-semibold">
                       <Truck className="size-4" /> Доставка {product.delivery[0]}–{product.delivery[1]} дней
                     </p>
+                    {product.replica && <p className="font-semibold">{REPLICA_NOTE}</p>}
                     {product.category === "model" && (
                       <p className="flex gap-2 text-paper-ink/80">
                         <Package className="mt-0.5 size-4 shrink-0" />

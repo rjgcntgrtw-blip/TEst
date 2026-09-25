@@ -92,6 +92,8 @@ export type Product = {
   scale?: string;
   brand: string;
   licensed: boolean;
+  /** Реплика: не оригинал и не лицензия. На сайте всегда показываем пометку «Реплика». */
+  replica?: boolean;
   price: number;
   oldPrice?: number | null;
   popularity: number;
@@ -293,6 +295,9 @@ export function applyFilters(filters: Filters, skip?: keyof Filters): Product[] 
       (skip === "year" || !filters.year || p.year === filters.year),
   ).sort((a, b) => b.popularity - a.popularity);
 }
+
+export const REPLICA_NOTE =
+  "Реплика. Конструктор не выпущен компанией LEGO и не лицензирован командой. Совместимость с деталями других производителей не гарантируется.";
 
 export const formatPrice = (value: number) =>
   new Intl.NumberFormat("ru-RU").format(value) + " ₽";
