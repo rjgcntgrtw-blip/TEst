@@ -14,17 +14,17 @@
    но прибыль ~1 740–1 840 ₽ с модели.
 5. **Готовых литых моделей 1:8–1:12 на AliExpress почти нет.** Единичные лоты, 0–13 заказов,
    есть подозрение на подделки. Масштаб 1:8 закрываем **лицензированными конструкторами**:
-   - CaDA Sauber C44 1:8 — 2 553 детали, ~10,6 тыс. ₽, ~500 заказов;
-   - Rastar Red Bull RB19 1:8 — ~13,7 тыс. ₽, ~400 заказов.
+   - CaDA Sauber C44 1:8 — 2 553 детали, ~25 тыс. ₽, ~500 заказов;
+   - Rastar Red Bull RB19 1:8 — ~30 тыс. ₽, ~400 заказов.
 6. **Оригинальный LEGO возить с AliExpress невыгодно.** Speed Champions F1 стоят там 4 000–4 700 ₽ —
    столько же, сколько в российских магазинах (~4 000 ₽ на Яндекс Маркете), а заказов всего десятки.
    Оригиналов Technic 42207 / 42206 не нашёл вообще.
 7. **Самые продаваемые «LEGO F1» — реплики.** Копии наборов 42207 / 42206 / 42171 на 1 361–1 642 детали и модели
-   Mould King стоят 1,4–3,6 тыс. ₽ и собирают 600–1 000+ заказов. Продаём их отдельным разделом
+   Mould King стоят 3,6–6,3 тыс. ₽ и собирают 600–1 000+ заказов. Продаём их отдельным разделом
    с пометкой «Реплика» — правила и риски в разделе [«Реплики конструкторов»](#реплики-конструкторов-раздел-реплики).
 8. **Лицензированная замена LEGO — CaDA** (официальные лицензии Kick Sauber и BWT Alpine):
-   - наборы 1:24 — 1 200–2 000 ₽, 70–340 заказов, рейтинг до 4.9;
-   - наборы 1:8 — ~10,6 тыс. ₽.
+   - наборы 1:24 — 3 600–6 700 ₽, 70–340 заказов, рейтинг до 4.9;
+   - наборы 1:8 — ~25 тыс. ₽.
 
 ## Стартовый набор: что брать первым
 
@@ -44,10 +44,10 @@
 | Средний чек 1:24 | Bburago 1:24 McLaren 2024 (Норрис) | 1 842 ₽ | 150 | 5.0 | 2 990 ₽ | 714 ₽ | [ru](https://aliexpress.ru/item/1005008619594051.html) |
 | Премиум 1:18 | Bburago 1:18 Red Bull RB19 2023 | 4 749 ₽ | 162 | 4.7 | 7 590 ₽ | 1 740 ₽ | [ru](https://aliexpress.ru/item/1005008058804835.html) |
 | Премиум 1:18 | Bburago 1:18 Ferrari SF25 | 4 839 ₽ | 61 | 4.9 | 7 790 ₽ | 1 821 ₽ | [ru](https://aliexpress.ru/item/1005010485156213.html) |
-| Конструктор 1:24 | CaDA Alpine A525 (лицензия) | 1 588 ₽ | 268 | 4.9 | 2 590 ₽ | 626 ₽ | [com](https://www.aliexpress.us/item/3256811986486740.html) |
-| Конструктор 1:24 | CaDA Kick Sauber C44 (лицензия) | 1 822 ₽ | 340 | 4.7 | 2 990 ₽ | 734 ₽ | [com](https://www.aliexpress.us/item/3256807694767657.html) |
-| Конструктор 1:8 | CaDA Kick Sauber C44, 2 553 детали (лицензия) | 10 614 ₽ | 494 | 4.5 | 14 390 ₽ | 1 689 ₽ | [com](https://www.aliexpress.us/item/3256808365507427.html) |
-| Конструктор 1:8 | Rastar Red Bull RB19, ≈2 500 деталей (лицензия) | 13 678 ₽ | 408 | 4.6 | 18 490 ₽ | 2 131 ₽ | [com](https://www.aliexpress.us/item/3256808411445969.html) |
+| Конструктор 1:24 | CaDA Alpine A525 (лицензия) | 4 524 ₽ | 268 | 4.9 | 7 290 ₽ | 1 709 ₽ | [com](https://www.aliexpress.us/item/3256811986486740.html) |
+| Конструктор 1:24 | CaDA Kick Sauber C44 (лицензия) | 6 648 ₽ | 340 | 4.7 | 10 690 ₽ | 2 492 ₽ | [com](https://www.aliexpress.us/item/3256807694767657.html) |
+| Конструктор 1:8 | CaDA Kick Sauber C44, 2 553 детали (лицензия) | 25 084 ₽ | 494 | 4.5 | 33 890 ₽ | 3 892 ₽ | [com](https://www.aliexpress.us/item/3256808365507427.html) |
+| Конструктор 1:8 | Rastar Red Bull RB19, ≈2 500 деталей (лицензия) | 30 177 ₽ | 408 | 4.6 | 40 790 ₽ | 4 698 ₽ | [com](https://www.aliexpress.us/item/3256808411445969.html) |
 
 **Итого 18 позиций.** Больше половины стоят до 1 500 ₽ и заказываются тысячами: на них держится оборот.
 Модели 1:18 и конструкторы 1:8 поднимают средний чек.
@@ -103,7 +103,7 @@
 |  | Bburago 1:18 Red Bull RB21 Япония GP 2025 | 4 839 ₽ | 30 | 4.7 | 7 790 ₽ | 1 821 ₽ | [ru](https://aliexpress.ru/item/1005012042921152.html) |
 
 В этом сегменте есть безбрендовые модели 1:18 за 2 000–2 300 ₽ с номерами и цветами команд (⚠️). Их не берём:
-лицензии нет, а на коробке нет производителя. Лот «Officially Licensed Red Bull RB19 1:18» за 317 ₽ с рейтингом 2.7 — приманка.
+лицензии нет, а на коробке нет производителя. Лот «Officially Licensed Red Bull RB19 1:18» с рейтингом 2.7 — приманка.
 
 ### Мини 1:64
 
@@ -111,13 +111,13 @@
 |---|---|---|---|---|---|---|---|
 | ✅ | Bburago 1:64 2025 F1 Alloy Car Model SF25 RB21 W16 MCL39 Red Bull Mercedes  | 1 225 ₽ | 2 000+ | 4.9 | 2 490 ₽ | 904 ₽ | [com](https://www.aliexpress.us/item/3256810055872520.html) |
 | ✅ | BBURAGO 1:64 McLaren F1 2025 модель автомобиля из металла | 979 ₽ | 1 249 | 4.9 | 1 990 ₽ | 722 ₽ | [ru](https://aliexpress.ru/item/1005010244584411.html) |
-| ✅ | MiniGT 1:64 Ayrton Senna F1 Toleman TG184 #19 MiniGT 1118/1193& Lotus 99T # | 1 137 ₽ | 500 | — | 2 290 ₽ | 821 ₽ | [com](https://www.aliexpress.us/item/3256809130452413.html) |
+| ✅ | MiniGT 1:64 Ayrton Senna F1 Toleman TG184 #19 MiniGT 1118/1193& Lotus 99T # | 2 063 ₽ | 500 | — | 3 390 ₽ | 835 ₽ | [com](https://www.aliexpress.us/item/3256809130452413.html) |
 | ✅ | Bburago 1:64 2025 F1 MCL39 RB21 W16 SF25 Гоночный литой автомобиль Модель F | 692 ₽ | 296 | 4.9 | 1 390 ₽ | 496 ₽ | [ru](https://aliexpress.ru/item/1005010303473367.html) |
 | ✅ | Hot Wheels 2026-H Series,Ferrari SF90 Raijin Express Audi RS6 Sauber F1 Por | 728 ₽ | 97 | — | 1 490 ₽ | 546 ₽ | [com](https://www.aliexpress.us/item/3256812014760080.html) |
 | ✅ | Bburago 1:64 RB21 F1 Car Model Verstappen 1# 2025 Red Bull Racing Formula D | 900 ₽ | 50 | — | 1 790 ₽ | 630 ₽ | [com](https://www.aliexpress.us/item/3256811887470948.html) |
-|  | New Hot Wheels Premium Gold Label Hrv11 1/64 F1 Diecast Model Car Team Live | 417 ₽ | 47 | — | 890 ₽ | 344 ₽ | [com](https://www.aliexpress.us/item/3256812645879621.html) |
+|  | New Hot Wheels Premium Gold Label Hrv11 1/64 F1 Diecast Model Car Team Live | 2 166 ₽ | 47 | — | 3 490 ₽ | 818 ₽ | [com](https://www.aliexpress.us/item/3256812645879621.html) |
 |  | Hot Wheels GMH39 Le Mans Garage Gulf Oil Livery Series,McLaren F1 Ford GT40 | 4 197 ₽ | 36 | — | 6 790 ₽ | 1 608 ₽ | [com](https://www.aliexpress.us/item/3256810409440120.html) |
-|  | MINIGT 1/64 Oracle Red Bull Racing RB19 #1 Max Verstappen MGT01194-CH Cars  | 1 622 ₽ | 32 | — | 2 590 ₽ | 592 ₽ | [com](https://www.aliexpress.us/item/3256812081629059.html) |
+|  | MINIGT 1/64 Oracle Red Bull Racing RB19 #1 Max Verstappen MGT01194-CH Cars  | 2 548 ₽ | 32 | — | 4 090 ₽ | 949 ₽ | [com](https://www.aliexpress.us/item/3256812081629059.html) |
 |  | New In Stock Minichamps 1:64 Mclaren F1 Mcl39 Abu Dhabi Gp 2025 Champion #4 | 6 041 ₽ | 25 | — | 9 690 ₽ | 2 244 ₽ | [com](https://www.aliexpress.us/item/3256809942803914.html) |
 
 ### Крупные масштабы 1:8–1:12
@@ -135,16 +135,13 @@
 
 | | Товар | Цена на Ali | Заказов | Рейтинг | Цена у нас | Прибыль с шт. | Лот |
 |---|---|---|---|---|---|---|---|
-|  | Cada Sauber F1 Team C44 Formula-1 Racing Car Building Blocks Set - Number 2 | 10 614 ₽ | 494 | 4.5 | 14 390 ₽ | 1 689 ₽ | [com](https://www.aliexpress.us/item/3256808365507427.html) |
-|  | RASTAR 2509PCS 1:8 Technik F1 Redbull RB19 1. Max. Verstappen 11 Perez Raci | 13 678 ₽ | 408 | 4.6 | 18 490 ₽ | 2 131 ₽ | [com](https://www.aliexpress.us/item/3256808411445969.html) |
-| ✅ | Cada MOC Sauber F1 Team C44 Formula-1 Racing Car Building Blocks Set Number | 1 822 ₽ | 340 | 4.7 | 2 990 ₽ | 734 ₽ | [com](https://www.aliexpress.us/item/3256807694767657.html) |
-| ✅ | CaDA Alpine F1 A525 Formula Racing Car No.43 Collectible Building Blocks, A | 1 588 ₽ | 268 | 4.9 | 2 590 ₽ | 626 ₽ | [com](https://www.aliexpress.us/item/3256811986486740.html) |
-| ✅ | CaDA 2024 MOC Sauber F1 Team C44 Formula 1 (F1) Racing Car Sports Car Build | 1 183 ₽ | 87 | 4.4 | 2 390 ₽ | 860 ₽ | [com](https://www.aliexpress.us/item/3256809817987072.html) |
-| ✅ | Cada KICK Sauber Team C44 F1 Technical Racing Car Number 24 Sports Car Buil | 1 994 ₽ | 72 | 4.7 | 3 190 ₽ | 733 ₽ | [com](https://www.aliexpress.us/item/3256808597623468.html) |
+|  | Cada Sauber F1 Team C44 Formula-1 Racing Car Building Blocks Set - Number 2 | 25 084 ₽ | 494 | 4.5 | 33 890 ₽ | 3 892 ₽ | [com](https://www.aliexpress.us/item/3256808365507427.html) |
+|  | RASTAR 2509PCS 1:8 Technik F1 Redbull RB19 1. Max. Verstappen 11 Perez Raci | 30 177 ₽ | 408 | 4.6 | 40 790 ₽ | 4 698 ₽ | [com](https://www.aliexpress.us/item/3256808411445969.html) |
+|  | Cada MOC Sauber F1 Team C44 Formula-1 Racing Car Building Blocks Set Number | 6 648 ₽ | 340 | 4.7 | 10 690 ₽ | 2 492 ₽ | [com](https://www.aliexpress.us/item/3256807694767657.html) |
+| ✅ | CaDA Alpine F1 A525 Formula Racing Car No.43 Collectible Building Blocks, A | 4 524 ₽ | 268 | 4.9 | 7 290 ₽ | 1 709 ₽ | [com](https://www.aliexpress.us/item/3256811986486740.html) |
+| ✅ | CaDA 2024 MOC Sauber F1 Team C44 Formula 1 (F1) Racing Car Sports Car Build | 3 592 ₽ | 87 | 4.4 | 5 790 ₽ | 1 358 ₽ | [com](https://www.aliexpress.us/item/3256809817987072.html) |
+|  | Cada KICK Sauber Team C44 F1 Technical Racing Car Number 24 Sports Car Buil | 5 317 ₽ | 72 | 4.7 | 8 590 ₽ | 2 027 ₽ | [com](https://www.aliexpress.us/item/3256808597623468.html) |
 |  | Cada Technical Drift Racing MOC F1 Champions Team C42 2022 Racing Car Build | 7 904 ₽ | 33 | — | 10 690 ₽ | 1 236 ₽ | [com](https://www.aliexpress.us/item/3256810294649537.html) |
-|  | Cada NEW Famous Supercar Alpine F1 A525 F1 Racing Car Number 43 Sports Car  | 2 744 ₽ | 18 | 2.7 | 4 390 ₽ | 1 009 ₽ | [com](https://www.aliexpress.us/item/3256811837004401.html) |
-|  | MOC F1 Bricks Cada C55024 300PCS Building Blocks Set A525 Alpine Sports Veh | 3 008 ₽ | 12 | — | 4 890 ₽ | 1 173 ₽ | [com](https://www.aliexpress.us/item/3256810571110578.html) |
-|  | Cada Technical Racing MOC F1 Champions Team C42 2022 Racing Car Building Bl | 10 167 ₽ | 2 | — | 13 790 ₽ | 1 623 ₽ | [com](https://www.aliexpress.us/item/3256812987735196.html) |
 
 Перед заказом проверь на странице лота, что это официальный магазин CaDA или Rastar и на коробке есть логотип лицензии.
 Лоты с рейтингом ниже 4.5 или с «MOC» в названии пропускаем.
@@ -153,9 +150,9 @@
 
 | | Товар | Цена на Ali | Заказов | Рейтинг | Цена у нас | Прибыль с шт. | Лот |
 |---|---|---|---|---|---|---|---|
-|  | LEGO 76919 Speed Champions 2023 McLaren Formula 1 Race Car Toy for Play and | 4 694 ₽ | 75 | 4.9 | 7 590 ₽ | 1 795 ₽ | [com](https://www.aliexpress.us/item/3256806985045521.html) |
-|  | LEGO 76919 Speed Champions 2023 McLaren Formula 1 Race Car Toy for Play and | 4 091 ₽ | 46 | 4.8 | 6 590 ₽ | 1 543 ₽ | [com](https://www.aliexpress.us/item/3256806818266451.html) |
-|  | LEGO 77243 Speed Champions Oracle Red Bull Racing RB20 F1 Race Car Model Ki | 4 292 ₽ | 42 | 4.7 | 6 890 ₽ | 1 599 ₽ | [com](https://www.aliexpress.us/item/3256808882416908.html) |
+| ✅ | LEGO 76919 Speed Champions 2023 McLaren Formula 1 Race Car Toy for Play and | 4 694 ₽ | 75 | 4.9 | 7 590 ₽ | 1 795 ₽ | [com](https://www.aliexpress.us/item/3256806985045521.html) |
+|  | LEGO 76919 Speed Champions 2023 McLaren Formula 1 Race Car Toy for Play and | 15 371 ₽ | 46 | 4.8 | 20 790 ₽ | 2 404 ₽ | [com](https://www.aliexpress.us/item/3256806818266451.html) |
+|  | LEGO 77243 Speed Champions Oracle Red Bull Racing RB20 F1 Race Car Model Ki | 9 930 ₽ | 42 | 4.7 | 13 490 ₽ | 1 604 ₽ | [com](https://www.aliexpress.us/item/3256808882416908.html) |
 |  | LEGO 77244 Speed Champions Mercedes-AMG F1 W15 Race Car Toy Building Set fo | 4 015 ₽ | 28 | — | 6 490 ₽ | 1 534 ₽ | [com](https://www.aliexpress.us/item/3256808882987488.html) |
 
 Вывод: оригиналы на AliExpress не дешевле российских магазинов, а доставка на 2–3 недели дольше.
@@ -164,19 +161,19 @@
 ### Реплики конструкторов (раздел «Реплики»)
 
 Решение: продаём реплики наборов LEGO и MOC-конструкторы **с явной пометкой «Реплика»**. Среди конструкторов
-1:8 у них самый большой спрос: 600–1 000+ заказов по 1,4–3,6 тыс. ₽.
+1:8 у них самый большой спрос: 600–1 000+ заказов по 3,6–6,3 тыс. ₽.
 
 | Что копирует | Товар | Цена на Ali | Заказов | Рейтинг | Цена у нас | Прибыль с шт. | Лот |
 |---|---|---|---|---|---|---|---|
-| Technic 42207 + 42206 | SF-24 / RB20 1:8, 1 361 / 1 639 деталей | 1 636 ₽ | 1 000+ | 4.7 | 2 690 ₽ | 664 ₽ | [com](https://www.aliexpress.us/item/3256812748054401.html) |
-| Technic 42207 + 42206 | SF-24 / RB20 1:8, другой продавец | 1 747 ₽ | 1 000+ | 4.9 | 2 790 ₽ | 638 ₽ | [com](https://www.aliexpress.us/item/3256812796303924.html) |
+| Technic 42207 + 42206 | SF-24 / RB20 1:8, 1 361 / 1 639 деталей | 4 866 ₽ | 1 000+ | 4.7 | 7 790 ₽ | 1 794 ₽ | [com](https://www.aliexpress.us/item/3256812748054401.html) |
+| Technic 42207 + 42206 | SF-24 / RB20 1:8, другой продавец | 5 118 ₽ | 1 000+ | 4.9 | 8 190 ₽ | 1 884 ₽ | [com](https://www.aliexpress.us/item/3256812796303924.html) |
 | Technic 42207 / 42206 + MCL39 | SF-24 / RB20 / MCL39 1:8, на выбор | 3 563 ₽ | 600 | 4.9 | 5 790 ₽ | 1 387 ₽ | [com](https://www.aliexpress.us/item/3256811400880844.html) |
-| Technic 42171 | Mercedes W14 1:8, 1 642 детали | 1 423 ₽ | 700 | — | 2 890 ₽ | 1 048 ₽ | [com](https://www.aliexpress.us/item/3256812921806170.html) |
-| Technic 42207 | Ferrari SF-24 1:8, 1 361 деталь | 2 657 ₽ | 164 | 4.9 | 4 290 ₽ | 1 011 ₽ | [com](https://www.aliexpress.us/item/3256812402668329.html) |
-| Доработка 42207 | Ferrari SF25 1:8, 1 915 деталей, хромированные детали | 2 180 ₽ | 446 | 4.6 | 3 490 ₽ | 804 ₽ | [com](https://www.aliexpress.us/item/3256812682211506.html) |
-| Свой дизайн Mould King | MK6025 — RB21 1:8, 1 900+ деталей | 2 006 ₽ | 1 000+ | 4.8 | 3 290 ₽ | 807 ₽ | [com](https://www.aliexpress.us/item/3256812605226634.html) |
+| Technic 42171 | Mercedes W14 1:8, 1 642 детали | 4 383 ₽ | 700 | — | 7 090 ₽ | 1 679 ₽ | [com](https://www.aliexpress.us/item/3256812921806170.html) |
+| Technic 42207 | Ferrari SF-24 1:8, 1 361 деталь | 6 326 ₽ | 164 | 4.9 | 10 190 ₽ | 2 386 ₽ | [com](https://www.aliexpress.us/item/3256812402668329.html) |
+| Доработка 42207 | Ferrari SF25 1:8, 1 915 деталей, хромированные детали | 5 967 ₽ | 446 | 4.6 | 9 590 ₽ | 2 232 ₽ | [com](https://www.aliexpress.us/item/3256812682211506.html) |
+| Свой дизайн Mould King | MK6025 — RB21 1:8, 1 900+ деталей | 5 708 ₽ | 1 000+ | 4.8 | 9 190 ₽ | 2 149 ₽ | [com](https://www.aliexpress.us/item/3256812605226634.html) |
 | Свой дизайн Mould King | MK6025 — RB21, другой продавец | 4 699 ₽ | 900 | 4.7 | 7 590 ₽ | 1 790 ₽ | [com](https://www.aliexpress.us/item/3256812310056041.html) |
-| Свой дизайн Mould King | MK6022 — Aston Martin AMR25 1:8, 1 912 деталей | 1 904 ₽ | 116 | — | 3 090 ₽ | 738 ₽ | [com](https://www.aliexpress.us/item/3256812956829803.html) |
+| Свой дизайн Mould King | MK6022 — Aston Martin AMR25 1:8, 1 912 деталей | 5 474 ₽ | 116 | — | 8 790 ₽ | 2 041 ₽ | [com](https://www.aliexpress.us/item/3256812956829803.html) |
 
 Копии Speed Champions F1 и коллекционных машинок 71049 с заметным числом заказов не нашлись.
 Весь список — в [data/models-list.md](data/models-list.md), раздел «Реплики».
@@ -218,6 +215,9 @@ Mould King продаёт свои модели в коробках со сво�
   Всего 524 лота, из них 385 про Формулу 1.
   - На aliexpress.ru после нескольких запросов появилась капча. Обходить её я не стал и перешёл на глобальную версию.
   - Цены с aliexpress.com пересчитаны по курсу ЦБ на 20.09.2026: 84,2 ₽ за доллар. На aliexpress.ru они могут отличаться.
+  - Если в выдаче aliexpress.com написано «New shoppers save $X», показанная цена — только для первого заказа нового покупателя.
+    В таблицах везде **обычная цена** (показанная + X). В первой версии отчёта здесь стояли цены для новичков — у конструкторов
+    они были в 2–3 раза ниже реальных. Исправлено 25.09.2026.
   - На aliexpress.com число заказов округлено: «1 000+».
   - Ссылки с пометкой **com** ведут на глобальную версию сайта. Если из России они не откроются,
     найди товар по названию на aliexpress.ru.

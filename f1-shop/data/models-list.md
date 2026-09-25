@@ -3,7 +3,7 @@
 Полный список из исследования от 25.09.2026 — выводы и рекомендации в [../11-aliexpress-research.md](../11-aliexpress-research.md).
 Внутри сегмента лоты отсортированы по числу заказов.
 
-- **Цена** — в выдаче поиска, обычно самый дешёвый вариант лота. У лотов **com** пересчитана по курсу 84,2 ₽/$.
+- **Цена** — в выдаче поиска, обычно самый дешёвый вариант лота. У лотов **com** пересчитана по курсу 84,2 ₽/$; это обычная цена, без скидки для новых покупателей.
 - **Заказов** — за всё время. «1 000+» — округление aliexpress.com.
 - ⚠️ — бренд не указан, скорее всего не лицензия.
 - Ссылки **ru** ведут на aliexpress.ru, **com** — на глобальную версию. Если лот com не открывается, ищи по названию.
@@ -26,10 +26,10 @@
 | Bburago 1:43 F1 2024 Формула 1 Коллекционная модель автомобиля | 1 169 ₽ | 346 | 4.9 | [ru](https://aliexpress.ru/item/1005009124365068.html) |
 | Burago 1:43 McLaren Racing MCL39 F1 модель авто | 1 379 ₽ | 340 | 4.8 | [ru](https://aliexpress.ru/item/1005010265695253.html) |
 | Bburago 1:43 Ferrari SF25 Miami Version F1 Модель автомобиля из металла | 1 501 ₽ | 290 | 4.9 | [ru](https://aliexpress.ru/item/1005011860193436.html) |
-| CCA MSZ 1:43 McLaren F1 Team 2023 MCL60 4# Lando Norris 81# Oscar Piastri alloy car model  ⚠️ | 444 ₽ | 275 | 4.8 | [com](https://www.aliexpress.us/item/3256808307444841.html) |
+| CCA MSZ 1:43 McLaren F1 Team 2023 MCL60 4# Lando Norris 81# Oscar Piastri alloy car model  ⚠️ | 2 916 ₽ | 275 | 4.8 | [com](https://www.aliexpress.us/item/3256808307444841.html) |
 | Bburago 1:43 Verstappen F1 Alloy Car Model Red Bull Racing RB16B RB19 RB20 RB21 Static Die | 884 ₽ | 248 | 4.8 | [com](https://www.aliexpress.us/item/3256811793550959.html) |
 | Модель автомобиля Bburago 1:43 Ферстаппен F1 | 1 501 ₽ | 176 | 4.8 | [ru](https://aliexpress.ru/item/1005011979865711.html) |
-| 2023 1:43 F1 Red Bull RB19 Racing Max Verstappen Alloy Metal Diecast Model Car Home Trendy ⚠️ | 92 ₽ | 149 | 4.7 | [com](https://www.aliexpress.us/item/3256810347624901.html) |
+| 2023 1:43 F1 Red Bull RB19 Racing Max Verstappen Alloy Metal Diecast Model Car Home Trendy ⚠️ | 783 ₽ | 149 | 4.7 | [com](https://www.aliexpress.us/item/3256810347624901.html) |
 | Bburago 1:43 2026 F1 Mercedes W17 E Performance Car Model Formula Racing Diecast Vehicles  | 1 546 ₽ | 138 | — | [com](https://www.aliexpress.us/item/3256812686619156.html) |
 | Bburago 1/43 Red Bull Racing RB13 RB15 RB16 B RB18 RB19 RB20 RB21 #33 #3 Ricciardo #1 Vers | 2 211 ₽ | 134 | 4.9 | [com](https://www.aliexpress.us/item/3256809424880638.html) |
 | Bburago 1:43 F1 McLaren MCL38 Гран-при Монако, Литая Модель Автомобиля Из Металлического С | 1 082 ₽ | 130 | 4.9 | [ru](https://aliexpress.ru/item/1005009138710796.html) |
@@ -85,15 +85,15 @@
 | Bburago 1:24 McLaren F1 2024 Lando Norris Die Cast Model | 1 842 ₽ | 150 | 5.0 | [ru](https://aliexpress.ru/item/1005008619594051.html) |
 | Burago 1:24 RedBull RB19 Модель автомобиля из металла | 2 351 ₽ | 150 | 4.9 | [ru](https://aliexpress.ru/item/1005008473294331.html) |
 | Bburago 1:24 2022~2025 Ferrari F1-75 75th 16#Leclerc 55#Sainz Formula1 Simulation Alloy Ca | 3 095 ₽ | 92 | — | [com](https://www.aliexpress.us/item/3256806149591396.html) |
-| rastar 1:24 Red Bull F1 RB19 alloy rally car model car ornaments collection with rich deta | 2 116 ₽ | 82 | 4.9 | [com](https://www.aliexpress.us/item/3256809074457848.html) |
+| rastar 1:24 Red Bull F1 RB19 alloy rally car model car ornaments collection with rich deta | 2 621 ₽ | 82 | 4.9 | [com](https://www.aliexpress.us/item/3256809074457848.html) |
 | Bburago 1:24 Серия F1 Ferrari SF23 2022-2025 Модель Автомобиля, Литая Металлическая Имитац | 2 359 ₽ | 78 | 4.9 | [ru](https://aliexpress.ru/item/1005010633502926.html) |
 | Bburago 1:24 Ferrari F1-75 75th Anniversary Diecast Model Car - Leclerc 55 # Сайнц 65 # Го | 2 519 ₽ | 74 | 4.8 | [ru](https://aliexpress.ru/item/1005010634967641.html) |
 | Bburago 1:24 2023 F1 Red Bull Racing RB19 Модель Автомобиля С Верстаппеном # 11 Фигурок По | 2 891 ₽ | 58 | 5.0 | [ru](https://aliexpress.ru/item/1005009158889548.html) |
 | Burago 1:24 F1 2023 Red Bull RB19 Alloy Car Model | 1 842 ₽ | 36 | 4.5 | [ru](https://aliexpress.ru/item/1005009012652495.html) |
-| 1: 24 Simulation Red Bull RB19 Model Car, Static Model Ornament, Collectible Gift ⚠️ | 1 902 ₽ | 33 | 4.9 | [com](https://www.aliexpress.us/item/3256810078911955.html) |
-| CCA MSZ 1:24 3 series 2023 McLaren F1 Team MCL60 4# Lando Norris 81# Oscar Piastri alloy c ⚠️ | 1 847 ₽ | 24 | — | [com](https://www.aliexpress.us/item/3256807620004677.html) |
-| CCA 1:24 McLaren MCL60 UK F1 Formula Racing Alloy Model Car Ornament Gift for Boys can be  ⚠️ | 2 174 ₽ | 17 | 4.3 | [com](https://www.aliexpress.us/item/3256809689195503.html) |
-| rastar 1:24 Red Bull F1 RB19 Formula 2023 Racing Alloy Car Model F1 Rally Racing Car suita | 2 152 ₽ | 11 | — | [com](https://www.aliexpress.us/item/3256809743095198.html) |
+| 1: 24 Simulation Red Bull RB19 Model Car, Static Model Ornament, Collectible Gift ⚠️ | 4 912 ₽ | 33 | 4.9 | [com](https://www.aliexpress.us/item/3256810078911955.html) |
+| CCA MSZ 1:24 3 series 2023 McLaren F1 Team MCL60 4# Lando Norris 81# Oscar Piastri alloy c ⚠️ | 5 205 ₽ | 24 | — | [com](https://www.aliexpress.us/item/3256807620004677.html) |
+| CCA 1:24 McLaren MCL60 UK F1 Formula Racing Alloy Model Car Ornament Gift for Boys can be  ⚠️ | 3 100 ₽ | 17 | 4.3 | [com](https://www.aliexpress.us/item/3256809689195503.html) |
+| rastar 1:24 Red Bull F1 RB19 Formula 2023 Racing Alloy Car Model F1 Rally Racing Car suita | 2 657 ₽ | 11 | — | [com](https://www.aliexpress.us/item/3256809743095198.html) |
 | Bburago 1:24 F1 Mercedes-AMG Team W14 Diecast Model | 3 571 ₽ | 3 | 5.0 | [ru](https://aliexpress.ru/item/1005009709533064.html) |
 | rastar 1/24 2023 F1 Red Bull RB19 #1 Max Verstappen Champion Car Model Formula 1 Racing Al | 2 858 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256807970217170.html) |
 | Коллекционные модели автомобилей Bburago Ferrari SF24 Leclerc 1:24 | 2 749 ₽ | 1 | 5.0 | [ru](https://aliexpress.ru/item/1005011529142703.html) |
@@ -114,7 +114,7 @@
 | 1:18 Aston Martin F1 No.14 Formula Mclaren F1 No.4 Alloy Metal Diecast Model Car Home Deco ⚠️ | 1 989 ₽ | 31 | 4.8 | [com](https://www.aliexpress.us/item/3256810420801971.html) |
 | Bburago 1:18 Red Bull RB21 Япония GP 2025 | 4 839 ₽ | 30 | 4.7 | [ru](https://aliexpress.ru/item/1005012042921152.html) |
 | 2025 SF25-#44 #16 Bburago 1:18 SF24 F1 Racing / SF23 F1 Ferrari Las Vegas #16 Sainz Static | 6 548 ₽ | 28 | — | [com](https://www.aliexpress.us/item/3256807955664658.html) |
-| 1:18 Officially Licensed Red Bull RB19 Formula 1 Racing Car Alloy Model, Simulated Metal S ⚠️ | 317 ₽ | 23 | 2.7 | [com](https://www.aliexpress.us/item/3256811704891723.html) |
+| 1:18 Officially Licensed Red Bull RB19 Formula 1 Racing Car Alloy Model, Simulated Metal S ⚠️ | 1 644 ₽ | 23 | 2.7 | [com](https://www.aliexpress.us/item/3256811704891723.html) |
 | Bburago 1:18 F1 2025 Red Bull Racing RB21 Япония | 5 525 ₽ | 20 | 4.6 | [ru](https://aliexpress.ru/item/1005011956376350.html) |
 | Bburago 1:18 F1 2025 Red Bull Racing RB21 Япония Верстаппен Yuki | 6 062 ₽ | 20 | 5.0 | [ru](https://aliexpress.ru/item/1005012056508382.html) |
 | Bburago Ferrari F1-75 Monza 1:18 металлическая модель автомобиля | 4 749 ₽ | 19 | 4.3 | [ru](https://aliexpress.ru/item/1005005020650516.html) |
@@ -126,7 +126,7 @@
 | 1:18 Aston Martin F1 AMR24 Alloy Metal Diecast Model Car No.14 Spanish Driver Fernando Alo ⚠️ | 2 276 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256811890745613.html) |
 | Bburago 1:18 2023 F1 Red Bull Racing RB19 1# Verstappen 11# Perez racing model simulation  | 6 347 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256807734987129.html) |
 | Minichamps 1:18 Mercedes Amg F1 W17 Race Car Model George Russell Australian Gp Winner Kim | 29 190 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256809690237547.html) |
-| Simulation 1:18 F1 Genuine Alloy Sports Car Model Ornament Collection Wholesale ⚠️ | 2 156 ₽ | 5 | — | [com](https://www.aliexpress.us/item/3256812094256649.html) |
+| Simulation 1:18 F1 Genuine Alloy Sports Car Model Ornament Collection Wholesale ⚠️ | 5 429 ₽ | 5 | — | [com](https://www.aliexpress.us/item/3256812094256649.html) |
 | Bburago 1:18 Multiple styles to choose from F1 Red Bull Austin Gp、Miami、Las Vegas Racing R | 6 921 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256811966620566.html) |
 | Коллекционная модель Ferrari SF25 Bburago 1:18 | 6 030 ₽ | 3 | 5.0 | [ru](https://aliexpress.ru/item/1005012153971857.html) |
 | In Stock Bburago 1/18 Red Bull Rb19 Austin Gp Alloy Red Bull Miami 、Las Vegas Rb19 F1 Diec | 6 489 ₽ | 3 | — | [com](https://www.aliexpress.us/item/3256811971118202.html) |
@@ -176,19 +176,19 @@
 |---|---|---|---|---|
 | Bburago 1:64 2025 F1 Alloy Car Model SF25 RB21 W16 MCL39 Red Bull Mercedes Ferrari McLaren | 1 225 ₽ | 2 000+ | 4.9 | [com](https://www.aliexpress.us/item/3256810055872520.html) |
 | BBURAGO 1:64 McLaren F1 2025 модель автомобиля из металла | 979 ₽ | 1 249 | 4.9 | [ru](https://aliexpress.ru/item/1005010244584411.html) |
-| MiniGT 1:64 Ayrton Senna F1 Toleman TG184 #19 MiniGT 1118/1193& Lotus 99T #12 Monaco Winne | 1 137 ₽ | 500 | — | [com](https://www.aliexpress.us/item/3256809130452413.html) |
+| MiniGT 1:64 Ayrton Senna F1 Toleman TG184 #19 MiniGT 1118/1193& Lotus 99T #12 Monaco Winne | 2 063 ₽ | 500 | — | [com](https://www.aliexpress.us/item/3256809130452413.html) |
 | Bburago 1:64 2025 F1 MCL39 RB21 W16 SF25 Гоночный литой автомобиль Модель Formula Гоночный | 692 ₽ | 296 | 4.9 | [ru](https://aliexpress.ru/item/1005010303473367.html) |
 | Hot Wheels 2026-H Series,Ferrari SF90 Raijin Express Audi RS6 Sauber F1 Porsche 928S Bens, | 728 ₽ | 97 | — | [com](https://www.aliexpress.us/item/3256812014760080.html) |
 | Bburago 1:64 RB21 F1 Car Model Verstappen 1# 2025 Red Bull Racing Formula Diecast Vehicles | 900 ₽ | 50 | — | [com](https://www.aliexpress.us/item/3256811887470948.html) |
-| New Hot Wheels Premium Gold Label Hrv11 1/64 F1 Diecast Model Car Team Livery Formula Raci | 417 ₽ | 47 | — | [com](https://www.aliexpress.us/item/3256812645879621.html) |
+| New Hot Wheels Premium Gold Label Hrv11 1/64 F1 Diecast Model Car Team Livery Formula Raci | 2 166 ₽ | 47 | — | [com](https://www.aliexpress.us/item/3256812645879621.html) |
 | Hot Wheels GMH39 Le Mans Garage Gulf Oil Livery Series,McLaren F1 Ford GT40 1:64 Diecast A | 4 197 ₽ | 36 | — | [com](https://www.aliexpress.us/item/3256810409440120.html) |
-| MINIGT 1/64 Oracle Red Bull Racing RB19 #1 Max Verstappen MGT01194-CH Cars Alloy Diecast M | 1 622 ₽ | 32 | — | [com](https://www.aliexpress.us/item/3256812081629059.html) |
+| MINIGT 1/64 Oracle Red Bull Racing RB19 #1 Max Verstappen MGT01194-CH Cars Alloy Diecast M | 2 548 ₽ | 32 | — | [com](https://www.aliexpress.us/item/3256812081629059.html) |
 | New In Stock Minichamps 1:64 Mclaren F1 Mcl39 Abu Dhabi Gp 2025 Champion #4 Simulation All | 6 041 ₽ | 25 | — | [com](https://www.aliexpress.us/item/3256809942803914.html) |
-| MINICHAMPS 1:64 2026F1 W17 Kimi W16E #63 G.RUSSELL SINGAPORE GP 2025 W FIGURINE DIECAST MO | 3 445 ₽ | 20 | — | [com](https://www.aliexpress.us/item/3256812492834204.html) |
+| MINICHAMPS 1:64 2026F1 W17 Kimi W16E #63 G.RUSSELL SINGAPORE GP 2025 W FIGURINE DIECAST MO | 3 950 ₽ | 20 | — | [com](https://www.aliexpress.us/item/3256812492834204.html) |
 | Mercedes-AMG Minichamps 1:64 W17 F1 2026 Chinese GP #12 Kimi Antonelli 640260212 Collectib | 4 479 ₽ | 18 | — | [com](https://www.aliexpress.us/item/3256812785855659.html) |
-| Spark 1:64 F1 Racing Team, Cast Aluminum Model Car, Boys' Toy, Adult Collectible, Festival | 2 691 ₽ | 15 | — | [com](https://www.aliexpress.us/item/3256812571241104.html) |
+| Spark 1:64 F1 Racing Team, Cast Aluminum Model Car, Boys' Toy, Adult Collectible, Festival | 7 235 ₽ | 15 | — | [com](https://www.aliexpress.us/item/3256812571241104.html) |
 | Limited edition for the 2026 Beijing Auto Show, MINICHAMPS 1:64 McLaren F1 MCL39, the 2025 | 5 629 ₽ | 13 | — | [com](https://www.aliexpress.us/item/3256811979355585.html) |
-| MINICHAMPS 1:64 F1 Series Cast Alloy Car Model, Racing Car Limited Edition, Adult Collecti | 4 154 ₽ | 8 | — | [com](https://www.aliexpress.us/item/3256812606831581.html) |
+| MINICHAMPS 1:64 F1 Series Cast Alloy Car Model, Racing Car Limited Edition, Adult Collecti | 9 318 ₽ | 8 | — | [com](https://www.aliexpress.us/item/3256812606831581.html) |
 | Fuelme TOC 1:64 812 Competizione FE812C Green Blu Tour De France Rosso Fuoco F1 with Decal ⚠️ | 2 704 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256808998922346.html) |
 | MINICHAMPS 1:64 MCL39L Norris #4 F1 533258804/533258884 Diecast Car Model World Champion 2 | 3 147 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256812961387851.html) |
 | Minichamps 1:64 Mercedes-Amg F1 W16 Kimi Antonelli 2025 Replica Malaysia Diecast Expo 2026 | 6 222 ₽ | 5 | — | [com](https://www.aliexpress.us/item/3256812164390860.html) |
@@ -214,29 +214,29 @@
 
 | Товар | Цена | Заказов | ★ | Лот |
 |---|---|---|---|---|
-| F1 Formula Racing Car 1:64 RC Car mini 2.4G APP Control Alloy Remote Control Car with Ligh ⚠️ | 533 ₽ | 1 000+ | 4.7 | [com](https://www.aliexpress.us/item/3256809698380566.html) |
-| 2.4G RC Car 1/64 Mini Alloy Formula Racing Car Remote Control Car Vehicle Toy Lights Radio ⚠️ | 1 098 ₽ | 43 | 4.6 | [com](https://www.aliexpress.us/item/3256810554706096.html) |
+| F1 Formula Racing Car 1:64 RC Car mini 2.4G APP Control Alloy Remote Control Car with Ligh ⚠️ | 2 919 ₽ | 1 000+ | 4.7 | [com](https://www.aliexpress.us/item/3256809698380566.html) |
+| 2.4G RC Car 1/64 Mini Alloy Formula Racing Car Remote Control Car Vehicle Toy Lights Radio ⚠️ | 3 539 ₽ | 43 | 4.6 | [com](https://www.aliexpress.us/item/3256810554706096.html) |
 | New In Stock Maisto 1:10 Las Vegas Rb19 Monza Ferrari Sf23 F1 Rtr Rc Car Alloy Miniature M | 19 455 ₽ | 13 | 4.8 | [com](https://www.aliexpress.us/item/3256809840109855.html) |
 
 ## Конструкторы с лицензией (CaDA, Rastar) — 16
 
 | Товар | Цена | Заказов | ★ | Лот |
 |---|---|---|---|---|
-| Cada Sauber F1 Team C44 Formula-1 Racing Car Building Blocks Set - Number 24 Sports Car Ci | 10 614 ₽ | 494 | 4.5 | [com](https://www.aliexpress.us/item/3256808365507427.html) |
-| RASTAR 2509PCS 1:8 Technik F1 Redbull RB19 1. Max. Verstappen 11 Perez Racing Formula Baus | 13 678 ₽ | 408 | 4.6 | [com](https://www.aliexpress.us/item/3256808411445969.html) |
-| Cada MOC Sauber F1 Team C44 Formula-1 Racing Car Building Blocks Set Number 24 Sports Car  | 1 822 ₽ | 340 | 4.7 | [com](https://www.aliexpress.us/item/3256807694767657.html) |
-| CaDA Alpine F1 A525 Formula Racing Car No.43 Collectible Building Blocks, Assembly Toys fo | 1 588 ₽ | 268 | 4.9 | [com](https://www.aliexpress.us/item/3256811986486740.html) |
-| 2025 new（Excluding building blocks） 4 Tyre 4410 Compatible 42171 42141 F1 CADA Car MOC Bui | 584 ₽ | 134 | 4.7 | [com](https://www.aliexpress.us/item/3256808793223544.html) |
-| NEW IN STOCK 4 Tyre 4410 81.6x44mm Compatible With LEGO 42171 42141 F1 CADA Car MOC Buildi | 1 916 ₽ | 106 | 4.9 | [com](https://www.aliexpress.us/item/3256807125614243.html) |
-| CaDA 2024 MOC Sauber F1 Team C44 Formula 1 (F1) Racing Car Sports Car Building Blocks Holi | 1 183 ₽ | 87 | 4.4 | [com](https://www.aliexpress.us/item/3256809817987072.html) |
-| Cada KICK Sauber Team C44 F1 Technical Racing Car Number 24 Sports Car Building Blocks Car | 1 994 ₽ | 72 | 4.7 | [com](https://www.aliexpress.us/item/3256808597623468.html) |
+| Cada Sauber F1 Team C44 Formula-1 Racing Car Building Blocks Set - Number 24 Sports Car Ci | 25 084 ₽ | 494 | 4.5 | [com](https://www.aliexpress.us/item/3256808365507427.html) |
+| RASTAR 2509PCS 1:8 Technik F1 Redbull RB19 1. Max. Verstappen 11 Perez Racing Formula Baus | 30 177 ₽ | 408 | 4.6 | [com](https://www.aliexpress.us/item/3256808411445969.html) |
+| Cada MOC Sauber F1 Team C44 Formula-1 Racing Car Building Blocks Set Number 24 Sports Car  | 6 648 ₽ | 340 | 4.7 | [com](https://www.aliexpress.us/item/3256807694767657.html) |
+| CaDA Alpine F1 A525 Formula Racing Car No.43 Collectible Building Blocks, Assembly Toys fo | 4 524 ₽ | 268 | 4.9 | [com](https://www.aliexpress.us/item/3256811986486740.html) |
+| 2025 new（Excluding building blocks） 4 Tyre 4410 Compatible 42171 42141 F1 CADA Car MOC Bui | 2 855 ₽ | 134 | 4.7 | [com](https://www.aliexpress.us/item/3256808793223544.html) |
+| NEW IN STOCK 4 Tyre 4410 81.6x44mm Compatible With LEGO 42171 42141 F1 CADA Car MOC Buildi | 2 848 ₽ | 106 | 4.9 | [com](https://www.aliexpress.us/item/3256807125614243.html) |
+| CaDA 2024 MOC Sauber F1 Team C44 Formula 1 (F1) Racing Car Sports Car Building Blocks Holi | 3 592 ₽ | 87 | 4.4 | [com](https://www.aliexpress.us/item/3256809817987072.html) |
+| Cada KICK Sauber Team C44 F1 Technical Racing Car Number 24 Sports Car Building Blocks Car | 5 317 ₽ | 72 | 4.7 | [com](https://www.aliexpress.us/item/3256808597623468.html) |
 | New 4 Tyre 4410 Compatible 42171 42141 F1 CADA Car Wheels 15038 49294 81.6x44mm MOC Buildi | 1 487 ₽ | 33 | 4.8 | [com](https://www.aliexpress.us/item/3256809507324120.html) |
 | Cada Technical Drift Racing MOC F1 Champions Team C42 2022 Racing Car Building Blocks Spor | 7 904 ₽ | 33 | — | [com](https://www.aliexpress.us/item/3256810294649537.html) |
 | Cada NEW Famous Supercar Alpine F1 A525 F1 Racing Car Number 43 Sports Car Building Blocks | 2 744 ₽ | 18 | 2.7 | [com](https://www.aliexpress.us/item/3256811837004401.html) |
 | NEW IN STOCK 4410 Tyre 81.6×44mm MOC Compatible With LEGO 42171 42141 CADA F1 Car Technolo | 2 582 ₽ | 13 | — | [com](https://www.aliexpress.us/item/3256808962382050.html) |
 | MOC F1 Bricks Cada C55024 300PCS Building Blocks Set A525 Alpine Sports Vehicle Model Toys | 3 008 ₽ | 12 | — | [com](https://www.aliexpress.us/item/3256810571110578.html) |
-| Cada Technical Racing MOC F1 Champions Team C42 2022 Racing Car Building Blocks Sports Car | 10 167 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812987735196.html) |
-| Double Eagle Cada1: 8 Moc Sauber F1 Team C44 Formula Racing Car Building Block Model Gift | 11 859 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256810076621534.html) |
+| Cada Technical Racing MOC F1 Champions Team C42 2022 Racing Car Building Blocks Sports Car | 23 389 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812987735196.html) |
+| Double Eagle Cada1: 8 Moc Sauber F1 Team C44 Formula Racing Car Building Block Model Gift | 24 560 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256810076621534.html) |
 | Cada Sauber F1 Team C44 Formula-1 Racing Car Building Blocks Set - Number 24 Sports Car Ci | 8 171 ₽ | 0 | — | [com](https://www.aliexpress.us/item/3256813044840075.html) |
 
 ## Оригинальный LEGO — 4
@@ -244,148 +244,148 @@
 | Товар | Цена | Заказов | ★ | Лот |
 |---|---|---|---|---|
 | LEGO 76919 Speed Champions 2023 McLaren Formula 1 Race Car Toy for Play and Display, Build | 4 694 ₽ | 75 | 4.9 | [com](https://www.aliexpress.us/item/3256806985045521.html) |
-| LEGO 76919 Speed Champions 2023 McLaren Formula 1 Race Car Toy for Play and Display, Build | 4 091 ₽ | 46 | 4.8 | [com](https://www.aliexpress.us/item/3256806818266451.html) |
-| LEGO 77243 Speed Champions Oracle Red Bull Racing RB20 F1 Race Car Model Kits - Building S | 4 292 ₽ | 42 | 4.7 | [com](https://www.aliexpress.us/item/3256808882416908.html) |
+| LEGO 76919 Speed Champions 2023 McLaren Formula 1 Race Car Toy for Play and Display, Build | 15 371 ₽ | 46 | 4.8 | [com](https://www.aliexpress.us/item/3256806818266451.html) |
+| LEGO 77243 Speed Champions Oracle Red Bull Racing RB20 F1 Race Car Model Kits - Building S | 9 930 ₽ | 42 | 4.7 | [com](https://www.aliexpress.us/item/3256808882416908.html) |
 | LEGO 77244 Speed Champions Mercedes-AMG F1 W15 Race Car Toy Building Set for Kids Toy Car  | 4 015 ₽ | 28 | — | [com](https://www.aliexpress.us/item/3256808882987488.html) |
 
 ## Реплики LEGO и MOC-конструкторы — 201
 
 | Товар | Цена | Заказов | ★ | Лот |
 |---|---|---|---|---|
-| Technical 1361/1639PCS RB20 SF-24 1:8 Scale Racing Car Mechanical Group Kit MOC Collectibl ⚠️ | 1 636 ₽ | 1 000+ | 4.7 | [com](https://www.aliexpress.us/item/3256812748054401.html) |
-| Technical 1361/1639PCS 1:8 Scale SF24 RB20 Race Car Model Assembly Advanced Construction M ⚠️ | 1 747 ₽ | 1 000+ | 4.9 | [com](https://www.aliexpress.us/item/3256812796303924.html) |
-| 2026 NEW MK6025 Technical Classic Performance 1900+Pcs RB21 White Sports Car Building Bloc ⚠️ | 2 006 ₽ | 1 000+ | 4.8 | [com](https://www.aliexpress.us/item/3256812605226634.html) |
 | Formula Racing Building Block Car Kit Aerodynamic Design Functional Steering Mechanical Br ⚠️ | 2 009 ₽ | 1 000+ | 4.9 | [com](https://www.aliexpress.us/item/3256808746278404.html) |
+| Technical 1361/1639PCS RB20 SF-24 1:8 Scale Racing Car Mechanical Group Kit MOC Collectibl ⚠️ | 4 866 ₽ | 1 000+ | 4.7 | [com](https://www.aliexpress.us/item/3256812748054401.html) |
+| Technical 1361/1639PCS 1:8 Scale SF24 RB20 Race Car Model Assembly Advanced Construction M ⚠️ | 5 118 ₽ | 1 000+ | 4.9 | [com](https://www.aliexpress.us/item/3256812796303924.html) |
+| 2026 NEW MK6025 Technical Classic Performance 1900+Pcs RB21 White Sports Car Building Bloc ⚠️ | 5 708 ₽ | 1 000+ | 4.8 | [com](https://www.aliexpress.us/item/3256812605226634.html) |
 | NEW MK6025 Technical Classic Performance 1900+Pcs RB21 White Sports Car Building Blocks MO ⚠️ | 4 699 ₽ | 900 | 4.7 | [com](https://www.aliexpress.us/item/3256812310056041.html) |
-| 1642PCS Technical 1:8 Scale W14 E Racing Car Model Advanced Construction MOC Craft Replica ⚠️ | 1 423 ₽ | 700 | — | [com](https://www.aliexpress.us/item/3256812921806170.html) |
+| 1642PCS Technical 1:8 Scale W14 E Racing Car Model Advanced Construction MOC Craft Replica ⚠️ | 4 383 ₽ | 700 | — | [com](https://www.aliexpress.us/item/3256812921806170.html) |
 | New 1361/1639/1675 pieces of RB20 SF24 MCL39 racing kits, 1:8 scale, DIY, collectible, ass ⚠️ | 3 563 ₽ | 600 | 4.9 | [com](https://www.aliexpress.us/item/3256811400880844.html) |
-| NEW MK6025 Technical Classic Performance 1900+Pcs RB21 White Sports Car Building Blocks MO ⚠️ | 2 001 ₽ | 480 | 4.7 | [com](https://www.aliexpress.us/item/3256812744366640.html) |
-| NEW Electroplated SF25 Car Blocks Upgrade SF24 42207 Technic Compatible 1915Pcs 1:8 Superc ⚠️ | 2 180 ₽ | 446 | 4.6 | [com](https://www.aliexpress.us/item/3256812682211506.html) |
-| NEW Electroplated SF25 Car Blocks Upgrade SF24 42207 Technic Compatible 1915Pcs 1:8 Superc ⚠️ | 2 252 ₽ | 442 | 4.2 | [com](https://www.aliexpress.us/item/3256812735011926.html) |
-| 1:8 Technical Classic Performance RB21 White Bull Sports Car Building Blocks Model Set Gif | 918 ₽ | 266 | 4.3 | [com](https://www.aliexpress.us/item/3256812495096506.html) |
-| F1 Racing Car Building Blocks 8-Grid Racing Champion Vehicle (With Stickers) Children's Bi ⚠️ | 1 708 ₽ | 218 | 4.6 | [com](https://www.aliexpress.us/item/3256810010101291.html) |
-| 1361PCS Technical 1:8 Scale SF-24 Red Racing Car Building Blocks Set - MOC Supercar Model  ⚠️ | 2 657 ₽ | 164 | 4.9 | [com](https://www.aliexpress.us/item/3256812402668329.html) |
-| MOC Racing Sports Car Vehicle City Speed Racer Technique Model Building Blocks Brick Set S ⚠️ | 159 ₽ | 157 | 4.8 | [com](https://www.aliexpress.us/item/3256805211460819.html) |
-| 1361PCS Technical 1:8 Scale SF-24 Red Racing Car Building Blocks Set - MOC Supercar Model  ⚠️ | 2 802 ₽ | 155 | 4.6 | [com](https://www.aliexpress.us/item/3256811562165045.html) |
-| 1:8 Technical Classic Performance RB21 White Bull Sports Car Building Blocks Model Set Gif | 919 ₽ | 136 | 4.9 | [com](https://www.aliexpress.us/item/3256812495260677.html) |
-| MOC Technical JKC7205 Racing 1:8 Racing Driver 27 Building Block Remote Control Lighting R ⚠️ | 2 908 ₽ | 136 | 3.9 | [com](https://www.aliexpress.us/item/3256808211053970.html) |
+| NEW MK6025 Technical Classic Performance 1900+Pcs RB21 White Sports Car Building Blocks MO ⚠️ | 5 695 ₽ | 480 | 4.7 | [com](https://www.aliexpress.us/item/3256812744366640.html) |
+| NEW Electroplated SF25 Car Blocks Upgrade SF24 42207 Technic Compatible 1915Pcs 1:8 Superc ⚠️ | 5 967 ₽ | 446 | 4.6 | [com](https://www.aliexpress.us/item/3256812682211506.html) |
+| NEW Electroplated SF25 Car Blocks Upgrade SF24 42207 Technic Compatible 1915Pcs 1:8 Superc ⚠️ | 6 126 ₽ | 442 | 4.2 | [com](https://www.aliexpress.us/item/3256812735011926.html) |
+| 1:8 Technical Classic Performance RB21 White Bull Sports Car Building Blocks Model Set Gif | 2 847 ₽ | 266 | 4.3 | [com](https://www.aliexpress.us/item/3256812495096506.html) |
+| F1 Racing Car Building Blocks 8-Grid Racing Champion Vehicle (With Stickers) Children's Bi ⚠️ | 2 976 ₽ | 218 | 4.6 | [com](https://www.aliexpress.us/item/3256810010101291.html) |
+| 1361PCS Technical 1:8 Scale SF-24 Red Racing Car Building Blocks Set - MOC Supercar Model  ⚠️ | 6 326 ₽ | 164 | 4.9 | [com](https://www.aliexpress.us/item/3256812402668329.html) |
+| MOC Racing Sports Car Vehicle City Speed Racer Technique Model Building Blocks Brick Set S ⚠️ | 664 ₽ | 157 | 4.8 | [com](https://www.aliexpress.us/item/3256805211460819.html) |
+| 1361PCS Technical 1:8 Scale SF-24 Red Racing Car Building Blocks Set - MOC Supercar Model  ⚠️ | 7 037 ₽ | 155 | 4.6 | [com](https://www.aliexpress.us/item/3256811562165045.html) |
+| 1:8 Technical Classic Performance RB21 White Bull Sports Car Building Blocks Model Set Gif | 2 849 ₽ | 136 | 4.9 | [com](https://www.aliexpress.us/item/3256812495260677.html) |
+| MOC Technical JKC7205 Racing 1:8 Racing Driver 27 Building Block Remote Control Lighting R ⚠️ | 7 112 ₽ | 136 | 3.9 | [com](https://www.aliexpress.us/item/3256808211053970.html) |
 | 971Pcs Formula Racing Vehicle Steering Wheel MOC Blocks Super Car Model Building Toys Gift ⚠️ | 2 336 ₽ | 119 | 4.9 | [com](https://www.aliexpress.us/item/3256811838009274.html) |
-| MK6022 1912PCS 1:8 New Technic Martin Aramco AMR25 Building Blocks MOC F1 Car DIY Assembly ⚠️ | 1 904 ₽ | 116 | — | [com](https://www.aliexpress.us/item/3256812956829803.html) |
-| 1:24 Scale Vehicle Model Set/Sports Car Building Blocks/Maserati/Citroën C4/Mazda/Sauber F ⚠️ | 1 144 ₽ | 111 | 4.8 | [com](https://www.aliexpress.us/item/3256809810599127.html) |
-| NEW 1:8 Scale MOC Technical SF-25 Racing Car 42206 42207 Mechanical Group 1915PCS Construc ⚠️ | 4 274 ₽ | 100 | — | [com](https://www.aliexpress.us/item/3256812740602916.html) |
+| MK6022 1912PCS 1:8 New Technic Martin Aramco AMR25 Building Blocks MOC F1 Car DIY Assembly ⚠️ | 5 474 ₽ | 116 | — | [com](https://www.aliexpress.us/item/3256812956829803.html) |
+| 1:24 Scale Vehicle Model Set/Sports Car Building Blocks/Maserati/Citroën C4/Mazda/Sauber F ⚠️ | 3 510 ₽ | 111 | 4.8 | [com](https://www.aliexpress.us/item/3256809810599127.html) |
+| NEW 1:8 Scale MOC Technical SF-25 Racing Car 42206 42207 Mechanical Group 1915PCS Construc ⚠️ | 9 558 ₽ | 100 | — | [com](https://www.aliexpress.us/item/3256812740602916.html) |
 | 2025 Speed Rally Racing City Champions F1 Building Blocks Vehicle Set FIA Classic Hot Spor ⚠️ | 955 ₽ | 92 | 4.8 | [com](https://www.aliexpress.us/item/3256807563544047.html) |
-| 2026 NEW MK6025 Technical Classic Performance 1900+Pcs RB21 White Sports Car Building Bloc ⚠️ | 3 986 ₽ | 83 | — | [com](https://www.aliexpress.us/item/3256812378401680.html) |
+| 2026 NEW MK6025 Technical Classic Performance 1900+Pcs RB21 White Sports Car Building Bloc ⚠️ | 9 763 ₽ | 83 | — | [com](https://www.aliexpress.us/item/3256812378401680.html) |
 | 1:8 Scale New 1432/1915PCS Technical Performance SF-25 RB20 Building Blocks Car Assembly R ⚠️ | 3 044 ₽ | 75 | — | [com](https://www.aliexpress.us/item/3256812722545307.html) |
-| 1280pcs Technical Formula Racing Car Building Blocks Red F1 Supercar City Vehicle MOC Set  ⚠️ | 2 234 ₽ | 71 | 4.4 | [com](https://www.aliexpress.us/item/3256810011077892.html) |
-| Technical 1:8 New Martin Aramco AMR25 Building Blocks Sports Car DIY Model Set Toy Gifts D | 930 ₽ | 67 | 3.8 | [com](https://www.aliexpress.us/item/3256812495552833.html) |
-| 1361/1639PCS Technical RB20 SF-24 1:8 Scale Racing Car MOC Collectible Assembly Building B ⚠️ | 1 758 ₽ | 64 | — | [com](https://www.aliexpress.us/item/3256813008369182.html) |
-| 2000pcs Formula Racing Car Building Blocks, 1:8 Super Speed Car Model Kit,STEM Toys for Ad ⚠️ | 4 461 ₽ | 59 | 4.9 | [com](https://www.aliexpress.us/item/3256811519209516.html) |
+| 1280pcs Technical Formula Racing Car Building Blocks Red F1 Supercar City Vehicle MOC Set  ⚠️ | 5 590 ₽ | 71 | 4.4 | [com](https://www.aliexpress.us/item/3256810011077892.html) |
+| Technical 1:8 New Martin Aramco AMR25 Building Blocks Sports Car DIY Model Set Toy Gifts D | 2 872 ₽ | 67 | 3.8 | [com](https://www.aliexpress.us/item/3256812495552833.html) |
+| 1361/1639PCS Technical RB20 SF-24 1:8 Scale Racing Car MOC Collectible Assembly Building B ⚠️ | 4 815 ₽ | 64 | — | [com](https://www.aliexpress.us/item/3256813008369182.html) |
+| 2000pcs Formula Racing Car Building Blocks, 1:8 Super Speed Car Model Kit,STEM Toys for Ad ⚠️ | 10 796 ₽ | 59 | 4.9 | [com](https://www.aliexpress.us/item/3256811519209516.html) |
 | Speed Racing Car Model MOC Building Bricks R25 Formula Racing Modular Technology Children  ⚠️ | 2 506 ₽ | 51 | 3.9 | [com](https://www.aliexpress.us/item/3256808819267307.html) |
 | Technical STEM Learning Formula Racing Car MOC Building Blocks Bricks Sports Vehical Creat ⚠️ | 5 110 ₽ | 51 | 4.2 | [com](https://www.aliexpress.us/item/3256808984849439.html) |
-| 1:8 Technical Classic Performance RB21 White Bull Sports Car Building Blocks Model Set Gif | 929 ₽ | 48 | 4.1 | [com](https://www.aliexpress.us/item/3256812501021269.html) |
-| KAVOWORLD 1768pcs 27 Inches Large MOC Sports Race Car Building Blocks Set DIY Formula Red  ⚠️ | 1 784 ₽ | 48 | 4.9 | [com](https://www.aliexpress.us/item/3256812815650650.html) |
-| MOC Car Speed Super Racer Police Vehicle Diy Model Building Block Famous F1 Sports Brick K ⚠️ | 92 ₽ | 45 | 4.7 | [com](https://www.aliexpress.us/item/2255800121204074.html) |
-| 1152pcs High-Tech F1 Racing Car Building Blocks Set - Super Technical Models Creative Toy  ⚠️ | 2 377 ₽ | 45 | 4.8 | [com](https://www.aliexpress.us/item/3256809602058789.html) |
-| 1:8 Technical JKC7205 Racing Driver 27 Building Block Supercar Remote Control Lighting Rac ⚠️ | 2 452 ₽ | 42 | 4.8 | [com](https://www.aliexpress.us/item/3256812040914509.html) |
-| lage formula car Pull back car Building Block formula Cartoon Character lega toys For Chil ⚠️ | 92 ₽ | 41 | — | [com](https://www.aliexpress.us/item/3256811877912535.html) |
+| 1:8 Technical Classic Performance RB21 White Bull Sports Car Building Blocks Model Set Gif | 2 868 ₽ | 48 | 4.1 | [com](https://www.aliexpress.us/item/3256812501021269.html) |
+| KAVOWORLD 1768pcs 27 Inches Large MOC Sports Race Car Building Blocks Set DIY Formula Red  ⚠️ | 9 541 ₽ | 48 | 4.9 | [com](https://www.aliexpress.us/item/3256812815650650.html) |
+| MOC Car Speed Super Racer Police Vehicle Diy Model Building Block Famous F1 Sports Brick K ⚠️ | 370 ₽ | 45 | 4.7 | [com](https://www.aliexpress.us/item/2255800121204074.html) |
+| 1152pcs High-Tech F1 Racing Car Building Blocks Set - Super Technical Models Creative Toy  ⚠️ | 6 779 ₽ | 45 | 4.8 | [com](https://www.aliexpress.us/item/3256809602058789.html) |
+| 1:8 Technical JKC7205 Racing Driver 27 Building Block Supercar Remote Control Lighting Rac ⚠️ | 6 511 ₽ | 42 | 4.8 | [com](https://www.aliexpress.us/item/3256812040914509.html) |
+| lage formula car Pull back car Building Block formula Cartoon Character lega toys For Chil ⚠️ | 521 ₽ | 41 | — | [com](https://www.aliexpress.us/item/3256811877912535.html) |
 | MOC Racing Model Building Block Assembly City Sports Car F1 Boy Collection Toys DIY Gifts ⚠️ | 8 915 ₽ | 41 | 4.7 | [com](https://www.aliexpress.us/item/3256804707901411.html) |
-| 1200+PCS Racing Car Building Blocks Set, 1:10 Scale Formula Model Kit / Collectible DIY To ⚠️ | 2 460 ₽ | 37 | 3.2 | [com](https://www.aliexpress.us/item/3256809406780879.html) |
+| 1200+PCS Racing Car Building Blocks Set, 1:10 Scale Formula Model Kit / Collectible DIY To ⚠️ | 6 179 ₽ | 37 | 3.2 | [com](https://www.aliexpress.us/item/3256809406780879.html) |
 | KEJI MOC-70614 John Player Special F1 Racing Sports Car Formula 1 1:8 Model Building Block ⚠️ | 8 602 ₽ | 34 | 4.4 | [com](https://www.aliexpress.us/item/3256802177601002.html) |
-| Technical F1 Team Formula Racing Car C42 Model Building Blocks City 1:24 Speed Vehicle MOC ⚠️ | 1 841 ₽ | 32 | — | [com](https://www.aliexpress.us/item/3256806646088701.html) |
-| KAVOWORLD 1:8 Scale Formula Style Racing Car Building Blocks Set Steerable DIY Technical B ⚠️ | 2 513 ₽ | 32 | — | [com](https://www.aliexpress.us/item/3256812686751741.html) |
+| Technical F1 Team Formula Racing Car C42 Model Building Blocks City 1:24 Speed Vehicle MOC ⚠️ | 2 394 ₽ | 32 | — | [com](https://www.aliexpress.us/item/3256806646088701.html) |
+| KAVOWORLD 1:8 Scale Formula Style Racing Car Building Blocks Set Steerable DIY Technical B ⚠️ | 7 563 ₽ | 32 | — | [com](https://www.aliexpress.us/item/3256812686751741.html) |
 | Formula Racing Building Block Car Kit Aerodynamic Design Functional Steering Mechanical Br ⚠️ | 744 ₽ | 31 | 4.7 | [com](https://www.aliexpress.us/item/3256812346782852.html) |
-| 1361PCS Technical 1:8 Red SF-24 Racing Car Building Blocks Set MOC Formula Race Car Model  ⚠️ | 3 610 ₽ | 31 | — | [com](https://www.aliexpress.us/item/3256812507082264.html) |
-| Technical Formula Racing Car Building Block 1:8 Scale Model Sets Alpines A525 Vehicle Cons ⚠️ | 3 023 ₽ | 30 | — | [com](https://www.aliexpress.us/item/3256811835679150.html) |
-| Classic Speed Silvia S14 City MOC Car Racing Model Building Block Ideas Super Race F1 Tech ⚠️ | 1 164 ₽ | 28 | 4.8 | [com](https://www.aliexpress.us/item/3256806926453395.html) |
-| Technical 1639PCS RB20 SF-24 1:8 Scale Racing Car Kits MOC Collectible Assembly Building B ⚠️ | 3 950 ₽ | 28 | 4.8 | [com](https://www.aliexpress.us/item/3256812646473747.html) |
-| AMG Petronas W15 Performance Building Set，Racing Car Toy for Kids & Adults, Compatible wit | 92 ₽ | 26 | 4.3 | [com](https://www.aliexpress.us/item/3256811609137669.html) |
+| 1361PCS Technical 1:8 Red SF-24 Racing Car Building Blocks Set MOC Formula Race Car Model  ⚠️ | 8 757 ₽ | 31 | — | [com](https://www.aliexpress.us/item/3256812507082264.html) |
+| Technical Formula Racing Car Building Block 1:8 Scale Model Sets Alpines A525 Vehicle Cons ⚠️ | 6 300 ₽ | 30 | — | [com](https://www.aliexpress.us/item/3256811835679150.html) |
+| Classic Speed Silvia S14 City MOC Car Racing Model Building Block Ideas Super Race F1 Tech ⚠️ | 1 670 ₽ | 28 | 4.8 | [com](https://www.aliexpress.us/item/3256806926453395.html) |
+| Technical 1639PCS RB20 SF-24 1:8 Scale Racing Car Kits MOC Collectible Assembly Building B ⚠️ | 9 281 ₽ | 28 | 4.8 | [com](https://www.aliexpress.us/item/3256812646473747.html) |
+| AMG Petronas W15 Performance Building Set，Racing Car Toy for Kids & Adults, Compatible wit | 1 250 ₽ | 26 | 4.3 | [com](https://www.aliexpress.us/item/3256811609137669.html) |
 | 1:24 Scale Vehicle Building Block Alfa C43 ORLEN F1 Racing Car Formula 1 Champion Model Ra ⚠️ | 2 214 ₽ | 23 | 4.3 | [com](https://www.aliexpress.us/item/3256807630387653.html) |
 | 1280PCS Technical MOC Formula Racing Car Building Blocks DIY Red Supercar City Sports Vehi ⚠️ | 2 966 ₽ | 22 | — | [com](https://www.aliexpress.us/item/3256810498066581.html) |
-| 2026 NEW 735Pcs F2004 Racing Car Building Blocks,Mechanical Group Assembly Formula Speed R ⚠️ | 1 745 ₽ | 19 | 4.8 | [com](https://www.aliexpress.us/item/3256812143622357.html) |
-| 2000pcs Formula Racing Car Building Blocks Set Toy, 1:8 Scale High Precision Model Kit for ⚠️ | 3 105 ₽ | 19 | 4.8 | [com](https://www.aliexpress.us/item/3256809618931243.html) |
-| KAVOWORLD 1:10 Large Sports Racing Car Building Blocks Toy Set 1137pcs MOC Formula DIY Rac ⚠️ | 2 454 ₽ | 18 | 4.9 | [com](https://www.aliexpress.us/item/3256812781553895.html) |
+| 2026 NEW 735Pcs F2004 Racing Car Building Blocks,Mechanical Group Assembly Formula Speed R ⚠️ | 4 687 ₽ | 19 | 4.8 | [com](https://www.aliexpress.us/item/3256812143622357.html) |
+| 2000pcs Formula Racing Car Building Blocks Set Toy, 1:8 Scale High Precision Model Kit for ⚠️ | 8 023 ₽ | 19 | 4.8 | [com](https://www.aliexpress.us/item/3256809618931243.html) |
+| KAVOWORLD 1:10 Large Sports Racing Car Building Blocks Toy Set 1137pcs MOC Formula DIY Rac ⚠️ | 6 914 ₽ | 18 | 4.9 | [com](https://www.aliexpress.us/item/3256812781553895.html) |
 | NEW Technical Iron Knight Racing Truck Building Blocks Model DIY Racing Car Formula F-1 Br ⚠️ | 4 685 ₽ | 16 | — | [com](https://www.aliexpress.us/item/3256810012452159.html) |
 | MOC Speed Vehicles Future GPX Cyber Formula Asurada AKF-11 Sports Car Technical Sets Build ⚠️ | 1 458 ₽ | 14 | 4.5 | [com](https://www.aliexpress.us/item/3256806407925336.html) |
-| Technical APP Remote Control Moter Power Sport Car Building Blocks Bricks F1 Formula Speed ⚠️ | 2 322 ₽ | 14 | — | [com](https://www.aliexpress.us/item/3256806809997813.html) |
-| 1642PCS New Technical F1 W14 E Performance Speed Race Car Building Blocks Brick Compatible ⚠️ | 3 116 ₽ | 14 | — | [com](https://www.aliexpress.us/item/3256812746488295.html) |
-| LYBMTWF LED 42171 set is suitable for AMG F1 W14 E Performance building blocks (only inclu ⚠️ | 1 921 ₽ | 13 | — | [com](https://www.aliexpress.us/item/3256807896381150.html) |
+| Technical APP Remote Control Moter Power Sport Car Building Blocks Bricks F1 Formula Speed ⚠️ | 5 979 ₽ | 14 | — | [com](https://www.aliexpress.us/item/3256806809997813.html) |
+| 1642PCS New Technical F1 W14 E Performance Speed Race Car Building Blocks Brick Compatible ⚠️ | 8 064 ₽ | 14 | — | [com](https://www.aliexpress.us/item/3256812746488295.html) |
 | MOC-222983 Building Blocks F1 Small Car T p34 1:27 Racing Car Assembly Model 176 Pieces Bi ⚠️ | 2 383 ₽ | 13 | — | [com](https://www.aliexpress.us/item/3256809974593352.html) |
-| Reobrix 11038 Retro Formula 500 Racing Building Block Toy 1809 PCS Children's Educational  ⚠️ | 4 797 ₽ | 13 | 3.8 | [com](https://www.aliexpress.us/item/3256810170329740.html) |
-| 1:8 Technical Classic Performance RB21 White Bull Sports Car Building Blocks Model Set Gif | 930 ₽ | 12 | — | [com](https://www.aliexpress.us/item/3256812495288652.html) |
-| 3 Types 1:8 Technical APXGP AMR25 W15 Super Formula Car Building Blocks Racing Constructio ⚠️ | 2 734 ₽ | 12 | — | [com](https://www.aliexpress.us/item/3256811375687997.html) |
+| LYBMTWF LED 42171 set is suitable for AMG F1 W14 E Performance building blocks (only inclu ⚠️ | 7 354 ₽ | 13 | — | [com](https://www.aliexpress.us/item/3256807896381150.html) |
+| Reobrix 11038 Retro Formula 500 Racing Building Block Toy 1809 PCS Children's Educational  ⚠️ | 11 526 ₽ | 13 | 3.8 | [com](https://www.aliexpress.us/item/3256810170329740.html) |
+| 1:8 Technical Classic Performance RB21 White Bull Sports Car Building Blocks Model Set Gif | 2 870 ₽ | 12 | — | [com](https://www.aliexpress.us/item/3256812495288652.html) |
 | New Technology Products: 1361/1639/1675 PCS RB20 SF24 Racing Car Assembly Home Decoration  ⚠️ | 3 719 ₽ | 12 | — | [com](https://www.aliexpress.us/item/3256812775718702.html) |
-| The 2026 new MOC technology SF-25 red/white racing car assembly figurines, totaling 1915 p ⚠️ | 3 870 ₽ | 12 | — | [com](https://www.aliexpress.us/item/3256812552961496.html) |
-| New 1361/1639/1675 pieces of RB20 SF24 MCL39 racing kits, 1:8 scale, DIY, collectible, ass ⚠️ | 3 165 ₽ | 11 | — | [com](https://www.aliexpress.us/item/3256812516546088.html) |
-| 1361 PCS 1:8 Scale Red Formula Racing Car Technical Mechanical Model DIY Assembly Building ⚠️ | 3 611 ₽ | 11 | — | [com](https://www.aliexpress.us/item/3256812758645779.html) |
+| 3 Types 1:8 Technical APXGP AMR25 W15 Super Formula Car Building Blocks Racing Constructio ⚠️ | 6 611 ₽ | 12 | — | [com](https://www.aliexpress.us/item/3256811375687997.html) |
+| The 2026 new MOC technology SF-25 red/white racing car assembly figurines, totaling 1915 p ⚠️ | 9 308 ₽ | 12 | — | [com](https://www.aliexpress.us/item/3256812552961496.html) |
 | Tamiya 20060 1/20 F1 Car Model Kit John Player Team Lotus Type 79 '78 M.Andretti | 4 804 ₽ | 11 | — | [com](https://www.aliexpress.us/item/3256804913974638.html) |
+| New 1361/1639/1675 pieces of RB20 SF24 MCL39 racing kits, 1:8 scale, DIY, collectible, ass ⚠️ | 7 809 ₽ | 11 | — | [com](https://www.aliexpress.us/item/3256812516546088.html) |
+| 1361 PCS 1:8 Scale Red Formula Racing Car Technical Mechanical Model DIY Assembly Building ⚠️ | 8 577 ₽ | 11 | — | [com](https://www.aliexpress.us/item/3256812758645779.html) |
 | High-quality MOC 202525 High-Tech Speed Sprots Vechiel 42172 F1 GTR 1:8 Model Building Blo ⚠️ | 12 723 ₽ | 11 | — | [com](https://www.aliexpress.us/item/3256809852432078.html) |
-| 1642PCS Technical F1 W14 E Performance Speed Race Car Building Blocks Brick Compatible MOC ⚠️ | 3 164 ₽ | 10 | — | [com](https://www.aliexpress.us/item/3256812465458840.html) |
 | Vonado LED 42171 set is suitable for AMG F1 W14 E Performance building blocks (only includ ⚠️ | 3 915 ₽ | 10 | — | [com](https://www.aliexpress.us/item/3256806572871904.html) |
-| Technicial AMR25 Super Racing Car Building BlocksF one Champion Sport Vehicle Brick Model  ⚠️ | 5 217 ₽ | 10 | — | [com](https://www.aliexpress.us/item/3256810478397797.html) |
+| 1642PCS Technical F1 W14 E Performance Speed Race Car Building Blocks Brick Compatible MOC ⚠️ | 8 167 ₽ | 10 | — | [com](https://www.aliexpress.us/item/3256812465458840.html) |
+| Technicial AMR25 Super Racing Car Building BlocksF one Champion Sport Vehicle Brick Model  ⚠️ | 11 921 ₽ | 10 | — | [com](https://www.aliexpress.us/item/3256810478397797.html) |
 | 540pcs MOC F1 Pit Lane And Garage City Champions Model Building Blocks Creative Gift DIY D ⚠️ | 3 190 ₽ | 9 | — | [com](https://www.aliexpress.us/item/3256811753528840.html) |
 | Technical 1:8 Scale Formula Vehicle Building Block BWT Alpines A525 Super Racing Car Model ⚠️ | 3 566 ₽ | 9 | — | [com](https://www.aliexpress.us/item/3256811839064898.html) |
 | Minichamps 1:64 F1 W17 2026 Chinese Grand Prix Model Kit Car Set Automobile Model Static D | 4 902 ₽ | 9 | — | [com](https://www.aliexpress.us/item/3256812345077952.html) |
-| ROKR 3D Wooden Puzzle Formula Racing Car Mechanical Model Building Kit 1:18 Scale 241-piec ⚠️ | 2 204 ₽ | 8 | — | [com](https://www.aliexpress.us/item/3256812815566861.html) |
-| 1:10 Scale Black Gold F1 Formula 1 Racing Car Building Blocks Technical Mechanical Race Ca ⚠️ | 1 740 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256812627127752.html) |
+| ROKR 3D Wooden Puzzle Formula Racing Car Mechanical Model Building Kit 1:18 Scale 241-piec ⚠️ | 6 194 ₽ | 8 | — | [com](https://www.aliexpress.us/item/3256812815566861.html) |
 | 2026 New Technical Formula Racing Car Building Blocks, 1675pcs Simulated Track Sports Vehi ⚠️ | 2 561 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256813054613788.html) |
-| KAVOWORLD 1:8 Pink-blue Formula Racing Car Building Block Kit 1768pcs Technical Mechanical ⚠️ | 3 249 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256812546243333.html) |
-| Formula Racing Car Building Blocks Set 1:8 Scale Mechanical Speed Race Car Model DIY Assem ⚠️ | 3 578 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256812882615535.html) |
-| 1639PCS Technical 1:8 RB20 Performance Racing Car Building Blocks MOC Formula Race Car Mod ⚠️ | 3 679 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256812624000963.html) |
+| 1:10 Scale Black Gold F1 Formula 1 Racing Car Building Blocks Technical Mechanical Race Ca ⚠️ | 4 778 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256812627127752.html) |
+| Formula Racing Car Building Blocks Set 1:8 Scale Mechanical Speed Race Car Model DIY Assem ⚠️ | 8 507 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256812882615535.html) |
 | Moc Technical 1:8 Historical Formula 1 Racing Models Building Blocks DIY Creative Educatio ⚠️ | 8 687 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256812265248168.html) |
+| 1639PCS Technical 1:8 RB20 Performance Racing Car Building Blocks MOC Formula Race Car Mod ⚠️ | 8 902 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256812624000963.html) |
+| KAVOWORLD 1:8 Pink-blue Formula Racing Car Building Block Kit 1768pcs Technical Mechanical ⚠️ | 8 939 ₽ | 7 | — | [com](https://www.aliexpress.us/item/3256812546243333.html) |
 | 186pcs MOC F1 Ferari 641 F1-90 City Champions Model Building Blocks Toys Construction Chri ⚠️ | 1 586 ₽ | 5 | — | [com](https://www.aliexpress.us/item/3256812720424817.html) |
 | 1:10 Scale Green Aston Martin F1 Formula 1 Racing Car Building Blocks Technical Mechanical ⚠️ | 2 352 ₽ | 5 | — | [com](https://www.aliexpress.us/item/3256812620236902.html) |
 | Technical Mechanical Formula Racing Car Building Blocks,1547pcs Green Track Competition Ve ⚠️ | 2 683 ₽ | 5 | — | [com](https://www.aliexpress.us/item/3256813043674596.html) |
 | 2863pcs MOC McLarened F1 MP4 6 1 8 Scale Technical Model Building Blocks Christmas Gift To ⚠️ | 14 454 ₽ | 5 | — | [com](https://www.aliexpress.us/item/3256812719243909.html) |
-| Technical New 1361/1639PCS RB20 SF24 Racing Car Kits 1:8 Scale DIY Collectible Assembly Bu ⚠️ | 2 913 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812507230695.html) |
-| Technical F1 W14 E Performance Race Car Building Blocks Model Car Bricks Birthday Toys Gif ⚠️ | 3 046 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256807108624460.html) |
-| Technical 1642PCS 1:8 Scale W14 Racing Car Performance Speed Champions Detailed Building B ⚠️ | 3 309 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812799384249.html) |
-| The 2026 new MOC technology SF-25 red/white racing car assembly figurines, totaling 1915 p ⚠️ | 3 962 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812784847701.html) |
-| 1547PCS 1:8 MOC Formula‑Style Racing Car Technical Building Blocks Adult DIY Assembly Mode ⚠️ | 4 231 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812899351859.html) |
+| Technical F1 W14 E Performance Race Car Building Blocks Model Car Bricks Birthday Toys Gif ⚠️ | 3 552 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256807108624460.html) |
 | Technical 1361/1639PCS RB20 SF-24 1:8 Scale Racing Car Kits MOC Collectible Assembly Build ⚠️ | 4 442 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812914944759.html) |
 | NEW Electroplated SF25 Car Blocks Upgrade SF24 42207 Technic Compatible 1915Pcs 1:8 Superc ⚠️ | 4 572 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812862051417.html) |
-| Technic 1:8 MCL39 McLaren F1 2025 Formula 1 Race Car Building Blocks Set 2055PCS ⚠️ | 4 618 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812564748213.html) |
+| Technical New 1361/1639PCS RB20 SF24 Racing Car Kits 1:8 Scale DIY Collectible Assembly Bu ⚠️ | 6 837 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812507230695.html) |
+| Technical 1642PCS 1:8 Scale W14 Racing Car Performance Speed Champions Detailed Building B ⚠️ | 8 115 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812799384249.html) |
+| The 2026 new MOC technology SF-25 red/white racing car assembly figurines, totaling 1915 p ⚠️ | 9 503 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812784847701.html) |
 | 1774PCS MOC City Champions Super Car Racing 640 F1 89 Scale 1 8 Model Technology DIY Creat ⚠️ | 9 774 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812175231585.html) |
+| 1547PCS 1:8 MOC Formula‑Style Racing Car Technical Building Blocks Adult DIY Assembly Mode ⚠️ | 9 898 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812899351859.html) |
+| Technic 1:8 MCL39 McLaren F1 2025 Formula 1 Race Car Building Blocks Set 2055PCS ⚠️ | 20 400 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812564748213.html) |
 | 171pcs MOC City Champions F Errari F300 - F1 Season Model Building Blocks Toy Christmas Gi ⚠️ | 1 431 ₽ | 3 | — | [com](https://www.aliexpress.us/item/3256812728391921.html) |
 | New MOC Speed ​​Series Championship RB18 Racing Car Model Building Blocks DIY Modular Car  ⚠️ | 1 668 ₽ | 3 | — | [com](https://www.aliexpress.us/item/3256812707894453.html) |
-| 1642PCS Technical F1 W14 E Performance Speed Race Car Building Blocks Brick Compatible MOC ⚠️ | 3 440 ₽ | 3 | — | [com](https://www.aliexpress.us/item/3256812434398999.html) |
 | 977pcs MOC City Champions F1 Scuderia Ferrrari Formula One Pit Garage 2025v2 Model Buildin ⚠️ | 5 476 ₽ | 3 | — | [com](https://www.aliexpress.us/item/3256812771456421.html) |
-| 2800PCS Formula Racing Car Building Blocks V12 Engine Model Bricks Desktop Ornament Collec ⚠️ | 6 061 ₽ | 3 | — | [com](https://www.aliexpress.us/item/3256811562634840.html) |
 | McLaren F1 MCL39 - Premium High-Difficulty Building Blocks Model / Perfect Birthday Gift f ⚠️ | 6 693 ₽ | 3 | — | [com](https://www.aliexpress.us/item/3256811968159898.html) |
+| 1642PCS Technical F1 W14 E Performance Speed Race Car Building Blocks Brick Compatible MOC ⚠️ | 8 220 ₽ | 3 | — | [com](https://www.aliexpress.us/item/3256812434398999.html) |
 | MOC Technology Racing Model Building Block Assembly City Formula Sports Car Boy Collection ⚠️ | 8 564 ₽ | 3 | — | [com](https://www.aliexpress.us/item/3256804726129419.html) |
+| 2800PCS Formula Racing Car Building Blocks V12 Engine Model Bricks Desktop Ornament Collec ⚠️ | 15 189 ₽ | 3 | — | [com](https://www.aliexpress.us/item/3256811562634840.html) |
 | 219pcs MOC City Champions F1 SF16-H Model Building Blocks Christmas Gift Construction Crea ⚠️ | 1 696 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812720456412.html) |
 | Hot MOC Sale GT2 RS Bricks Speed City Supercar Vehicle Technique F1 Auto Toys Children's B ⚠️ | 2 045 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256806827257820.html) |
-| Technology 1:8 scale F1 W14 racing machinery group building blocks car Dodge charger kit M ⚠️ | 2 760 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812582669746.html) |
-| 2026 New Technology 1361/1639 PCS RB20 SF24 Racing Car Kit 1:8 Scale DIY Collectible Assem ⚠️ | 3 080 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812794649084.html) |
-| 2026 New Technology 1:8 SF24 RB20 Sports Car Building Blocks DIY Classic Assembly Racing M ⚠️ | 3 753 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812803038262.html) |
-| The popular racing series RB21 White Racing Car – 1900 pieces – large assembly figurine –  ⚠️ | 3 760 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812775782750.html) |
 | New Technology Products: 1361/1639/1675 PCS RB20 SF24 Racing Car Assembly Home Decoration  ⚠️ | 3 761 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812851714475.html) |
 | 3 Types 1:8 Technical APXGP AMR25 W15 Super Formula Car Building Blocks Racing Constructio ⚠️ | 4 218 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812851898915.html) |
+| Technology 1:8 scale F1 W14 racing machinery group building blocks car Dodge charger kit M ⚠️ | 6 803 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812582669746.html) |
+| 2026 New Technology 1361/1639 PCS RB20 SF24 Racing Car Kit 1:8 Scale DIY Collectible Assem ⚠️ | 7 470 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812794649084.html) |
+| 2026 New Technology 1:8 SF24 RB20 Sports Car Building Blocks DIY Classic Assembly Racing M ⚠️ | 8 871 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812803038262.html) |
+| The popular racing series RB21 White Racing Car – 1900 pieces – large assembly figurine –  ⚠️ | 8 887 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812775782750.html) |
 | Desk Decor Eikee Y18013 Technical 1:8 Sports Speed Vehicle F1 W16 Metallic Building Blocks ⚠️ | 12 260 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812511390807.html) |
-| 3828pcs GULY 10662 Creative 1: 8 Remote Control Sports Car Building Blocks Set City F1 Rac ⚠️ | 16 464 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812390562178.html) |
-| MOC F1 Style Formula Racing Car 333PCS 8 Stud Wide Small Bricks Building Blocks Model Asse ⚠️ | 92 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812867091876.html) |
+| 3828pcs GULY 10662 Creative 1: 8 Remote Control Sports Car Building Blocks Set City F1 Rac ⚠️ | 16 970 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812390562178.html) |
 | 171pcs MOC City Champions F Errari F300 - F1 Season Model Building Blocks Architecture Chr ⚠️ | 1 494 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812710636934.html) |
+| MOC F1 Style Formula Racing Car 333PCS 8 Stud Wide Small Bricks Building Blocks Model Asse ⚠️ | 1 627 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812867091876.html) |
 | 206pcs MOC City Champions Tiny Mercedesees W12 F1 & AMG ONE Stickerless Model Building Blo ⚠️ | 1 705 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812709066063.html) |
 | 175pcs MOC RB22 Redbull F1 Car City Champions Model Building Blocks Architecture Creative  ⚠️ | 1 736 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256813055526075.html) |
 | MOC Technical Car Speed Vehicles F1 Racing Classic Formula 1 Sports Car Sets MCL38 W15 SF2 ⚠️ | 1 747 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256809716413848.html) |
 | New black F1 Formula One racing building blocks technical mechanical racing model bricks a ⚠️ | 1 861 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812986137128.html) |
-| 2026 High Sales Helmet Series Building Blocks Editions F1 884 Pcs Bricks Suitable for Birt ⚠️ | 1 967 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812853185486.html) |
 | NEW 1915PCS Technical RB20 SF-25 1:8 Scale Racing Car MOC Collectible Assembly Building Bl ⚠️ | 1 988 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256813047769583.html) |
 | 290pcs MOC F1 Hotrod Mercedes City Champions Car Model Building Blocks Room Decor Home Dec ⚠️ | 2 181 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812474226495.html) |
 | 1912 PCS AMR 25 F1 Racing Car Building Set 1:8 Scale Collectible Race Car Model Kit for Ad ⚠️ | 2 193 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812819184357.html) |
-| 2026 Hot 1547pcs Large Technical Formula Style Racing Vehicle Building Block Puzzle Model  ⚠️ | 3 079 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812881270287.html) |
-| 2026 New Technical Formula Racing Car Building Blocks, 1675pcs Simulated Track Sports Vehi ⚠️ | 3 107 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812964076011.html) |
 | 2026 New 1642PCS Technology W14 1:8 High-Performance Speed Racing Building Blocks Compatib ⚠️ | 3 111 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256813006602490.html) |
-| Technical Mechanical Formula Racing Car Building Blocks,1547pcs Green Track Competition Ve ⚠️ | 3 152 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812964066030.html) |
 | 3 Types 1:8 Technical APXGP AMR25 W15 Super Formula Car Building Blocks Racing Constructio ⚠️ | 3 187 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256813045376653.html) |
 | Technic 1:8 Pearl Paint F1 RaceCar Building Blocks Set MOC Collectible Boys Gift ⚠️ | 3 344 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256813027960085.html) |
 | 609pcs MOC F1 British Sports Car Japanese Auto MP4 4 Set10330 Model Building Blocks Constr ⚠️ | 3 715 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812619996485.html) |
-| Spot Technical DIY 1547pcs 1:8 Martin Amr25 Building Blocks Moc Sports Car Assembly Set To ⚠️ | 4 122 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812829844745.html) |
-| 1:8 Technical Formula Race Car Building Blocks Kit Assembly Racing Bricks Model STEM Toy f ⚠️ | 4 509 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812789153946.html) |
-| 1480PCS MouldKing 13208 Technische MCL Racing Car Building Blocks Formula Sports Car Model ⚠️ | 5 465 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812484132245.html) |
-| 1810PCS Technical RB20 Building Blocks Kits MOC Sports Car Mould King 13207 Construction T | 6 078 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812666729087.html) |
+| 2026 High Sales Helmet Series Building Blocks Editions F1 884 Pcs Bricks Suitable for Birt ⚠️ | 6 602 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812853185486.html) |
 | MOC-1234 Formula Racing Science Education Puzzle Building Blocks Fun Toys Birthday Holiday ⚠️ | 6 956 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812587887825.html) |
+| Technical Mechanical Formula Racing Car Building Blocks,1547pcs Green Track Competition Ve ⚠️ | 8 505 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812964066030.html) |
+| 2026 Hot 1547pcs Large Technical Formula Style Racing Vehicle Building Block Puzzle Model  ⚠️ | 8 742 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812881270287.html) |
+| 2026 New Technical Formula Racing Car Building Blocks, 1675pcs Simulated Track Sports Vehi ⚠️ | 8 867 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812964076011.html) |
+| Spot Technical DIY 1547pcs 1:8 Martin Amr25 Building Blocks Moc Sports Car Assembly Set To ⚠️ | 9 255 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812829844745.html) |
 | Mould King 13207 MOC Building Bricks Kits RB20 Sports Car Educational Toys 1810PCS Constru | 9 323 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256810540161994.html) |
+| 1:8 Technical Formula Race Car Building Blocks Kit Assembly Racing Bricks Model STEM Toy f ⚠️ | 10 901 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812789153946.html) |
+| 1480PCS MouldKing 13208 Technische MCL Racing Car Building Blocks Formula Sports Car Model ⚠️ | 12 014 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812484132245.html) |
 | Tamiya 12046 static assembled model 1/12 scale For F1 TEAM LOTUS TYPE 72D 1972 With Etched | 13 421 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256807806065997.html) |
+| 1810PCS Technical RB20 Building Blocks Kits MOC Sports Car Mould King 13207 Construction T | 15 531 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812666729087.html) |
 | 3180pcs MOC Technical Audied F1 Team Concept 1 8 Scale Model Building Blocks Christmas Gif ⚠️ | 17 242 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812718869458.html) |
 | 3418pcs MOC Technical Racing F1 RB21 1 8 Scale Model Building Blocks Architecture Art DIY  ⚠️ | 18 377 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812766860156.html) |
 | 3418pcs MOC Racing F1 RB21 Japanese GP Livery 1 8 Scale Technical Model Building Blocks Ch ⚠️ | 18 420 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812770800332.html) |
@@ -458,17 +458,17 @@
 
 | Товар | Цена | Заказов | ★ | Лот |
 |---|---|---|---|---|
-| 3 Generation F1 Portugal Hot Black Samurai Racing Car Auto Metal Model Booste Cars ⚠️ | 92 ₽ | 35 | — | [com](https://www.aliexpress.us/item/3256812189151626.html) |
+| 3 Generation F1 Portugal Hot Black Samurai Racing Car Auto Metal Model Booste Cars ⚠️ | 896 ₽ | 35 | — | [com](https://www.aliexpress.us/item/3256812189151626.html) |
 | Matchbox 30782 Diecast Alloy Model Car Mclaren F1 Gt Mazda Sports Car Collectible Scale Mo ⚠️ | 1 064 ₽ | 16 | — | [com](https://www.aliexpress.us/item/3256812348012805.html) |
-| 1:60 F1 Racing Car Static Simulation pull back model set of 6 children's Diecast Alloy Mod ⚠️ | 92 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812008371663.html) |
-| Genuine Licensed Boxed Aston Martin F1 Formula Racing Car Die-cast Alloy Model Exquisite S ⚠️ | 354 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812220068580.html) |
 | Hot Wheels Alloy Sports Car McLaren F1 Simulation Non-Radio Controlled Model Toy Collectio | 1 490 ₽ | 4 | 2.5 | [com](https://www.aliexpress.us/item/3256808908253104.html) |
+| 1:60 F1 Racing Car Static Simulation pull back model set of 6 children's Diecast Alloy Mod ⚠️ | 2 055 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812008371663.html) |
+| Genuine Licensed Boxed Aston Martin F1 Formula Racing Car Die-cast Alloy Model Exquisite S ⚠️ | 2 784 ₽ | 4 | — | [com](https://www.aliexpress.us/item/3256812220068580.html) |
 | 【Spot Goods】NewAge NA H42 Shean Mirage Legends Scale Transformable Figure F1 Racing Car Mo ⚠️ | 4 319 ₽ | 2 | — | [com](https://www.aliexpress.us/item/3256812421985484.html) |
-| 1:36 F1 Sports Car Alloy Car Diecasts Toy Vehicles Metal Toy Car Model Collection Toy Gift ⚠️ | 92 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812521083368.html) |
 | Hotwheels Alloy Car Model Simulation Toy F1 Vehicle Collectible 25MF40 Non-Radio Controlle | 861 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256809812656165.html) |
-| rastar 1:32 simulation Red Bull RB19 Formula F1 alloy car model static decorations collect | 1 771 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812698200080.html) |
-| rastar simulation 1:32 Red Bull F1 RB19 Alloy Formula Racing F1 Car Model static desktop c | 1 813 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256810568104588.html) |
+| 1:36 F1 Sports Car Alloy Car Diecasts Toy Vehicles Metal Toy Car Model Collection Toy Gift ⚠️ | 1 368 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812521083368.html) |
 | Hotwheels F1 Formula 1 Racing Car Model Alloy Diecast Ferrari Mclaren Mercedes Collectible | 2 001 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812613671599.html) |
+| rastar 1:32 simulation Red Bull RB19 Formula F1 alloy car model static decorations collect | 2 276 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812698200080.html) |
+| rastar simulation 1:32 Red Bull F1 RB19 Alloy Formula Racing F1 Car Model static desktop c | 2 318 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256810568104588.html) |
 | rastar 1:32 simulation Red Bull RB19 F1 Formula rally car alloy model rich details, fine w | 2 321 ₽ | 1 | — | [com](https://www.aliexpress.us/item/3256812036902879.html) |
 | Hot Wheels Diecast Vehicle C4982, 26M Batch Ferrari F1 Mercedes Audi Toyota Racing Alloy M | 998 ₽ | 0 | — | [com](https://www.aliexpress.us/item/3256812702545498.html) |
 | Original Hot Wheels Premium F1 Racing Car Gold Label Car Model Collection Diecast Ferrari  | 1 464 ₽ | 0 | — | [com](https://www.aliexpress.us/item/3256812969966847.html) |
