@@ -1,69 +1,73 @@
 [
   {
-    "slug": "ferrari-f2004-schumacher-1-18",
-    "status": "placeholder",
-    "title": "Ferrari F2004",
-    "subtitle": "Михаэль Шумахер · 2004",
+    "slug": "alpine-a525-colapinto-monaco-1-43",
+    "status": "draft",
+    "title": "Alpine A525 · Колапинто",
+    "subtitle": "Франко Колапинто #43 · сезон 2025 · ГП Монако",
     "category": "model",
     "kind": "ready",
-    "team": "ferrari",
-    "year": 2004,
-    "driver": "Михаэль Шумахер",
-    "scale": "1:18",
-    "brand": "Bburago",
-    "licensed": true,
-    "price": 8490,
+    "team": "alpine",
+    "year": 2025,
+    "driver": "Франко Колапинто",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1790,
     "oldPrice": null,
-    "popularity": 85,
+    "popularity": 78,
     "delivery": [
-      14,
+      12,
       22
     ],
-    "story": "ferrari-2004",
+    "story": "alpine-2025",
     "art": {
       "type": "car",
       "colors": [
-        "#C80000",
-        "#FFFFFF",
-        "#111111"
+        "#0A5DA8",
+        "#F25CBA",
+        "#FFFFFF"
       ],
-      "number": "1"
+      "number": "43"
     },
     "description": {
-      "lead": "Ferrari, на которой Михаэль Шумахер выиграл 13 гонок за сезон и седьмой титул.",
+      "lead": "Alpine A525 Франко Колапинто в масштабе 1:43 — модель длиной около 13 см.",
       "body": [
-        "Масштаб 1:18 — около 25 см в длину. Крупная модель одной из самых успешных машин в истории Формулы 1.",
-        "Литой металлический корпус, аэродинамика из пластика. Официальная лицензия Ferrari."
+        "Версия Гран-при Монако.",
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
       ],
       "inBox": [
-        "Модель Ferrari F2004, масштаб 1:18",
-        "Заводская коробка Bburago"
+        "Модель Alpine A525, масштаб 1:43",
+        "Заводская коробка"
       ]
     },
     "specs": [
       {
         "label": "Масштаб",
-        "value": "1:18"
+        "value": "1:43"
       },
       {
         "label": "Длина",
-        "value": "≈ 25 см"
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Франко Колапинто, #43"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "ГП Монако"
       },
       {
         "label": "Материал",
         "value": "металл (diecast) и пластик"
       },
       {
-        "label": "Производитель",
-        "value": "Bburago"
-      },
-      {
-        "label": "Лицензия",
-        "value": "Scuderia Ferrari"
-      },
-      {
         "label": "Возраст",
-        "value": "14+"
+        "value": "14+, коллекционная модель"
       },
       {
         "label": "Упаковка",
@@ -71,39 +75,424 @@
       }
     ],
     "seo": {
-      "title": "Модель Ferrari F2004 Шумахер 1:18 Bburago",
-      "description": "Литая модель Ferrari F2004 Михаэля Шумахера, сезон 2004, масштаб 1:18. Болид седьмого титула. Доставка по России."
-    },
-    "images": {
-      "main": "/products/ferrari-f2004-schumacher-1-18/main.webp",
-      "thumb": "/products/ferrari-f2004-schumacher-1-18/thumb.webp",
-      "gallery": [
-        "/products/ferrari-f2004-schumacher-1-18/01.webp",
-        "/products/ferrari-f2004-schumacher-1-18/02.webp",
-        "/products/ferrari-f2004-schumacher-1-18/03.webp"
-      ],
-      "box": "/products/ferrari-f2004-schumacher-1-18/box.webp",
-      "withBox": "/products/ferrari-f2004-schumacher-1-18/with-box.webp"
+      "title": "Модель Alpine A525 Колапинто 1:43 — ГП Монако",
+      "description": "Литая модель Alpine A525 Франко Колапинто, сезон 2025, масштаб 1:43, ГП Монако. Доставка по России."
     }
   },
   {
-    "slug": "ferrari-sf-24-leclerc-1-18",
-    "status": "placeholder",
-    "title": "Ferrari SF-24",
-    "subtitle": "Шарль Леклер · 2024",
+    "slug": "alpine-a525-gasly-monaco-1-43",
+    "status": "draft",
+    "title": "Alpine A525 · Гасли",
+    "subtitle": "Пьер Гасли #10 · сезон 2025 · ГП Монако",
+    "category": "model",
+    "kind": "ready",
+    "team": "alpine",
+    "year": 2025,
+    "driver": "Пьер Гасли",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1790,
+    "oldPrice": null,
+    "popularity": 78,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "alpine-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#0A5DA8",
+        "#F25CBA",
+        "#FFFFFF"
+      ],
+      "number": "10"
+    },
+    "description": {
+      "lead": "Alpine A525 Пьера Гасли в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Версия Гран-при Монако.",
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Alpine A525, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Пьер Гасли, #10"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "ГП Монако"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Alpine A525 Гасли 1:43 — ГП Монако",
+      "description": "Литая модель Alpine A525 Пьера Гасли, сезон 2025, масштаб 1:43, ГП Монако. Доставка по России."
+    }
+  },
+  {
+    "slug": "aston-amr25-alonso-1-24",
+    "status": "draft",
+    "title": "Aston Martin AMR25 · Алонсо",
+    "subtitle": "Фернандо Алонсо #14 · сезон 2025",
+    "category": "model",
+    "kind": "ready",
+    "team": "aston",
+    "year": 2025,
+    "driver": "Фернандо Алонсо",
+    "scale": "1:24",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 4290,
+    "oldPrice": null,
+    "popularity": 58,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "aston-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#00594F",
+        "#C8F000",
+        "#FFFFFF"
+      ],
+      "number": "14"
+    },
+    "description": {
+      "lead": "Aston Martin AMR25 Фернандо Алонсо в масштабе 1:24 — модель длиной около 23 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
+      ],
+      "inBox": [
+        "Модель Aston Martin AMR25, масштаб 1:24",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:24"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 23 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Фернандо Алонсо, #14"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Aston Martin AMR25 Алонсо 1:24",
+      "description": "Литая модель Aston Martin AMR25 Фернандо Алонсо, сезон 2025, масштаб 1:24. Доставка по России."
+    }
+  },
+  {
+    "slug": "aston-amr25-alonso-1-43",
+    "status": "draft",
+    "title": "Aston Martin AMR25 · Алонсо",
+    "subtitle": "Фернандо Алонсо #14 · сезон 2025",
+    "category": "model",
+    "kind": "ready",
+    "team": "aston",
+    "year": 2025,
+    "driver": "Фернандо Алонсо",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1790,
+    "oldPrice": null,
+    "popularity": 78,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "aston-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#00594F",
+        "#C8F000",
+        "#FFFFFF"
+      ],
+      "number": "14"
+    },
+    "description": {
+      "lead": "Aston Martin AMR25 Фернандо Алонсо в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Aston Martin AMR25, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Фернандо Алонсо, #14"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Aston Martin AMR25 Алонсо 1:43",
+      "description": "Литая модель Aston Martin AMR25 Фернандо Алонсо, сезон 2025, масштаб 1:43. Доставка по России."
+    }
+  },
+  {
+    "slug": "aston-amr25-stroll-1-24",
+    "status": "draft",
+    "title": "Aston Martin AMR25 · Стролл",
+    "subtitle": "Лэнс Стролл #18 · сезон 2025",
+    "category": "model",
+    "kind": "ready",
+    "team": "aston",
+    "year": 2025,
+    "driver": "Лэнс Стролл",
+    "scale": "1:24",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 3890,
+    "oldPrice": null,
+    "popularity": 58,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "aston-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#00594F",
+        "#C8F000",
+        "#FFFFFF"
+      ],
+      "number": "18"
+    },
+    "description": {
+      "lead": "Aston Martin AMR25 Лэнса Стролла в масштабе 1:24 — модель длиной около 23 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
+      ],
+      "inBox": [
+        "Модель Aston Martin AMR25, масштаб 1:24",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:24"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 23 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Лэнс Стролл, #18"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Aston Martin AMR25 Стролл 1:24",
+      "description": "Литая модель Aston Martin AMR25 Лэнса Стролла, сезон 2025, масштаб 1:24. Доставка по России."
+    }
+  },
+  {
+    "slug": "aston-amr25-stroll-1-43",
+    "status": "draft",
+    "title": "Aston Martin AMR25 · Стролл",
+    "subtitle": "Лэнс Стролл #18 · сезон 2025",
+    "category": "model",
+    "kind": "ready",
+    "team": "aston",
+    "year": 2025,
+    "driver": "Лэнс Стролл",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1790,
+    "oldPrice": null,
+    "popularity": 78,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "aston-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#00594F",
+        "#C8F000",
+        "#FFFFFF"
+      ],
+      "number": "18"
+    },
+    "description": {
+      "lead": "Aston Martin AMR25 Лэнса Стролла в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Aston Martin AMR25, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Лэнс Стролл, #18"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Aston Martin AMR25 Стролл 1:43",
+      "description": "Литая модель Aston Martin AMR25 Лэнса Стролла, сезон 2025, масштаб 1:43. Доставка по России."
+    }
+  },
+  {
+    "slug": "ferrari-sf-24-leclerc-1-24",
+    "status": "draft",
+    "title": "Ferrari SF-24 · Леклер",
+    "subtitle": "Шарль Леклер #16 · сезон 2024",
     "category": "model",
     "kind": "ready",
     "team": "ferrari",
     "year": 2024,
     "driver": "Шарль Леклер",
-    "scale": "1:18",
-    "brand": "Bburago",
-    "licensed": true,
-    "price": 7990,
+    "scale": "1:24",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 3890,
     "oldPrice": null,
-    "popularity": 95,
+    "popularity": 58,
     "delivery": [
-      14,
+      12,
       22
     ],
     "story": "ferrari-2024",
@@ -112,45 +501,48 @@
       "colors": [
         "#C80000",
         "#FFD200",
-        "#111111"
+        "#FFFFFF"
       ],
       "number": "16"
     },
     "description": {
-      "lead": "Ferrari, с которой Шарль Леклер выиграл домашний Гран-при Монако — первым из монегасков с 1931 года.",
+      "lead": "Ferrari SF-24 Шарля Леклера в масштабе 1:24 — модель длиной около 23 см.",
       "body": [
-        "Масштаб 1:18 — около 31 см в длину. Крупная модель: на ней хорошо видны антикрылья, подвеска и детали ливреи.",
-        "Литой металлический корпус, аэродинамика из пластика. Официальная лицензия Scuderia Ferrari."
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
       ],
       "inBox": [
-        "Модель Ferrari SF-24, масштаб 1:18",
-        "Заводская коробка Bburago"
+        "Модель Ferrari SF-24, масштаб 1:24",
+        "Заводская коробка"
       ]
     },
     "specs": [
       {
         "label": "Масштаб",
-        "value": "1:18"
+        "value": "1:24"
       },
       {
         "label": "Длина",
-        "value": "≈ 31 см"
+        "value": "≈ 23 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Шарль Леклер, #16"
+      },
+      {
+        "label": "Сезон",
+        "value": "2024"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
       },
       {
         "label": "Материал",
         "value": "металл (diecast) и пластик"
       },
       {
-        "label": "Производитель",
-        "value": "Bburago"
-      },
-      {
-        "label": "Лицензия",
-        "value": "Scuderia Ferrari"
-      },
-      {
         "label": "Возраст",
-        "value": "14+"
+        "value": "14+, коллекционная модель"
       },
       {
         "label": "Упаковка",
@@ -158,310 +550,666 @@
       }
     ],
     "seo": {
-      "title": "Модель Ferrari SF-24 Леклер 1:18 Bburago",
-      "description": "Литая модель Ferrari SF-24 Шарля Леклера, сезон 2024, масштаб 1:18, около 31 см. Официальная лицензия. Доставка по России."
-    },
-    "images": {
-      "main": "/products/ferrari-sf-24-leclerc-1-18/main.webp",
-      "thumb": "/products/ferrari-sf-24-leclerc-1-18/thumb.webp",
-      "gallery": [
-        "/products/ferrari-sf-24-leclerc-1-18/01.webp",
-        "/products/ferrari-sf-24-leclerc-1-18/02.webp",
-        "/products/ferrari-sf-24-leclerc-1-18/03.webp"
-      ],
-      "box": "/products/ferrari-sf-24-leclerc-1-18/box.webp",
-      "withBox": "/products/ferrari-sf-24-leclerc-1-18/with-box.webp"
+      "title": "Модель Ferrari SF-24 Леклер 1:24",
+      "description": "Литая модель Ferrari SF-24 Шарля Леклера, сезон 2024, масштаб 1:24. Доставка по России."
     }
   },
   {
-    "slug": "ferrari-team-tee-2024",
-    "status": "placeholder",
-    "title": "Футболка Ferrari · сезон 2024",
-    "subtitle": "Реплика командной формы",
-    "category": "merch",
-    "kind": "tshirt",
+    "slug": "ferrari-sf-24-leclerc-lettering-1-24",
+    "status": "draft",
+    "title": "Ferrari SF-24 · Леклер",
+    "subtitle": "Шарль Леклер #16 · сезон 2024 · с надписью Leclerc",
+    "category": "model",
+    "kind": "ready",
     "team": "ferrari",
     "year": 2024,
     "driver": "Шарль Леклер",
-    "brand": "Реплика",
+    "scale": "1:24",
+    "brand": "литая модель",
     "licensed": false,
-    "replica": true,
-    "price": 1990,
+    "price": 4290,
     "oldPrice": null,
-    "popularity": 80,
+    "popularity": 76,
     "delivery": [
       12,
       22
     ],
     "story": "ferrari-2024",
     "art": {
-      "type": "tshirt",
+      "type": "car",
       "colors": [
         "#C80000",
         "#FFD200",
         "#FFFFFF"
-      ],
-      "print": "16"
-    },
-    "colors": [
-      {
-        "id": "red",
-        "name": "Красный",
-        "hex": "#C80000"
-      }
-    ],
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "sizeChart": {
-      "columns": [
-        "Размер",
-        "Ширина груди, см",
-        "Длина, см",
-        "Рост, см"
-      ],
-      "rows": [
-        [
-          "S",
-          "50",
-          "70",
-          "165–172"
-        ],
-        [
-          "M",
-          "53",
-          "72",
-          "172–178"
-        ],
-        [
-          "L",
-          "56",
-          "74",
-          "178–184"
-        ],
-        [
-          "XL",
-          "59",
-          "76",
-          "184–190"
-        ],
-        [
-          "XXL",
-          "62",
-          "78",
-          "190–196"
-        ]
-      ],
-      "note": "Меряй свою любимую футболку, разложив её ровно: ширина — от подмышки до подмышки."
-    },
-    "description": {
-      "lead": "Футболка в стиле командной формы Ferrari сезона 2024, с номером Шарля Леклера.",
-      "body": [
-        "Красный цвет Scuderia, номер 16 на груди, лёгкая быстросохнущая ткань.",
-        "Это реплика: футболка не выпущена командой и не лицензирована ею."
-      ],
-      "inBox": []
-    },
-    "specs": [
-      {
-        "label": "Состав",
-        "value": "полиэстер — уточнить у продавца"
-      },
-      {
-        "label": "Крой",
-        "value": "прямой"
-      },
-      {
-        "label": "Оригинал",
-        "value": "нет, реплика"
-      },
-      {
-        "label": "Уход",
-        "value": "стирка 30°, наизнанку, не гладить по принту"
-      }
-    ],
-    "seo": {
-      "title": "Футболка Ferrari 2024 — реплика командной формы",
-      "description": "Футболка в стиле командной формы Ferrari сезона 2024 с номером Леклера. Реплика, не лицензия. Размеры S–XXL. Доставка по России."
-    }
-  },
-  {
-    "slug": "lego-technic-ferrari-sf-24",
-    "status": "placeholder",
-    "title": "Ferrari SF-24 · LEGO Technic",
-    "subtitle": "Набор 42207 · 2024",
-    "category": "model",
-    "kind": "kit",
-    "team": "ferrari",
-    "year": 2024,
-    "driver": "Шарль Леклер",
-    "scale": "≈ 1:8",
-    "brand": "LEGO",
-    "licensed": true,
-    "price": 19990,
-    "oldPrice": null,
-    "popularity": 89,
-    "delivery": [
-      14,
-      24
-    ],
-    "story": "ferrari-2024",
-    "art": {
-      "type": "kit",
-      "colors": [
-        "#C80000",
-        "#FFD200",
-        "#111111"
       ],
       "number": "16"
     },
     "description": {
-      "lead": "Официальный набор LEGO Technic 42207: 1 361 деталь и болид Ferrari длиной около 61 см.",
+      "lead": "Ferrari SF-24 Шарля Леклера в масштабе 1:24 — модель длиной около 23 см.",
       "body": [
-        "Внутри — рабочее рулевое управление, двухступенчатая коробка передач и регулируемое заднее антикрыло.",
-        "Набор для взрослых фанатов: собирается вдумчиво, а потом занимает на полке место главного экспоната."
+        "Версия с надписью Leclerc.",
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
       ],
       "inBox": [
-        "Детали LEGO Technic (1 361 шт.)",
-        "Инструкция по сборке",
-        "Коробка LEGO"
+        "Модель Ferrari SF-24, масштаб 1:24",
+        "Заводская коробка"
       ]
     },
     "specs": [
       {
-        "label": "Набор",
-        "value": "LEGO Technic 42207"
+        "label": "Масштаб",
+        "value": "1:24"
       },
       {
-        "label": "Деталей",
-        "value": "1 361"
+        "label": "Длина",
+        "value": "≈ 23 см"
       },
       {
-        "label": "Длина в сборе",
-        "value": "≈ 61 см"
+        "label": "Пилот",
+        "value": "Шарль Леклер, #16"
+      },
+      {
+        "label": "Сезон",
+        "value": "2024"
+      },
+      {
+        "label": "Ливрея",
+        "value": "с надписью Leclerc"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
       },
       {
         "label": "Возраст",
-        "value": "18+"
+        "value": "14+, коллекционная модель"
       },
       {
-        "label": "Производитель",
-        "value": "LEGO"
+        "label": "Упаковка",
+        "value": "заводская коробка"
       }
     ],
     "seo": {
-      "title": "LEGO Technic Ferrari SF-24 42207",
-      "description": "Оригинальный набор LEGO Technic 42207 Ferrari SF-24: 1 361 деталь, длина около 61 см, для взрослых 18+. Доставка по России."
-    },
-    "images": {
-      "main": "/products/lego-technic-ferrari-sf-24/main.webp",
-      "thumb": "/products/lego-technic-ferrari-sf-24/thumb.webp",
-      "gallery": [
-        "/products/lego-technic-ferrari-sf-24/01.webp",
-        "/products/lego-technic-ferrari-sf-24/02.webp",
-        "/products/lego-technic-ferrari-sf-24/03.webp"
-      ],
-      "box": "/products/lego-technic-ferrari-sf-24/box.webp",
-      "withBox": "/products/lego-technic-ferrari-sf-24/with-box.webp"
+      "title": "Модель Ferrari SF-24 Леклер 1:24 — с надписью Leclerc",
+      "description": "Литая модель Ferrari SF-24 Шарля Леклера, сезон 2024, масштаб 1:24, с надписью Leclerc. Доставка по России."
     }
   },
   {
-    "slug": "mclaren-cap-2024",
-    "status": "placeholder",
-    "title": "Кепка McLaren 2024",
-    "subtitle": "Реплика командной формы",
-    "category": "merch",
-    "kind": "cap",
-    "team": "mclaren",
+    "slug": "ferrari-sf-24-sainz-1-24",
+    "status": "draft",
+    "title": "Ferrari SF-24 · Сайнс",
+    "subtitle": "Карлос Сайнс #55 · сезон 2024",
+    "category": "model",
+    "kind": "ready",
+    "team": "ferrari",
     "year": 2024,
-    "brand": "Реплика",
+    "driver": "Карлос Сайнс",
+    "scale": "1:24",
+    "brand": "литая модель",
     "licensed": false,
-    "price": 1990,
+    "price": 3990,
     "oldPrice": null,
-    "popularity": 75,
+    "popularity": 58,
     "delivery": [
       12,
-      20
+      22
     ],
-    "story": "mclaren-2024",
+    "story": "ferrari-2024",
     "art": {
-      "type": "cap",
+      "type": "car",
       "colors": [
-        "#FF7A00",
-        "#2B2B2E",
+        "#C80000",
+        "#FFD200",
         "#FFFFFF"
-      ]
-    },
-    "colors": [
-      {
-        "id": "papaya",
-        "name": "Папайя",
-        "hex": "#FF7A00"
-      }
-    ],
-    "sizes": [
-      "Один размер"
-    ],
-    "sizeChart": {
-      "columns": [
-        "Размер",
-        "Обхват головы, см"
       ],
-      "rows": [
-        [
-          "Один размер",
-          "56–60, регулируется"
-        ]
-      ],
-      "note": "Застёжка сзади регулирует обхват."
+      "number": "55"
     },
     "description": {
-      "lead": "Кепка в стиле командной формы McLaren сезона 2024 — года, когда команда вернула себе Кубок конструкторов.",
+      "lead": "Ferrari SF-24 Карлоса Сайнса в масштабе 1:24 — модель длиной около 23 см.",
       "body": [
-        "Папайя и антрацит, изогнутый козырёк, регулируемая застёжка.",
-        "Это реплика: кепка не выпущена командой и не лицензирована ею."
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
       ],
-      "inBox": []
+      "inBox": [
+        "Модель Ferrari SF-24, масштаб 1:24",
+        "Заводская коробка"
+      ]
     },
     "specs": [
       {
-        "label": "Размер",
-        "value": "один, регулируется"
+        "label": "Масштаб",
+        "value": "1:24"
       },
       {
-        "label": "Оригинал",
-        "value": "нет, реплика"
+        "label": "Длина",
+        "value": "≈ 23 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Карлос Сайнс, #55"
+      },
+      {
+        "label": "Сезон",
+        "value": "2024"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
       }
     ],
     "seo": {
-      "title": "Кепка McLaren 2024 — реплика командной формы",
-      "description": "Кепка в стиле командной формы McLaren сезона 2024 в цвете папайя. Реплика, не лицензия. Регулируемый размер. Доставка по России."
-    },
-    "replica": true
+      "title": "Модель Ferrari SF-24 Сайнс 1:24",
+      "description": "Литая модель Ferrari SF-24 Карлоса Сайнса, сезон 2024, масштаб 1:24. Доставка по России."
+    }
   },
   {
-    "slug": "mclaren-mcl38-norris-1-43",
-    "status": "placeholder",
-    "title": "McLaren MCL38",
-    "subtitle": "Ландо Норрис · 2024",
+    "slug": "ferrari-sf-25-hamilton-1-43",
+    "status": "draft",
+    "title": "Ferrari SF-25 · Хэмилтон",
+    "subtitle": "Льюис Хэмилтон #44 · сезон 2025",
+    "category": "model",
+    "kind": "ready",
+    "team": "ferrari",
+    "year": 2025,
+    "driver": "Льюис Хэмилтон",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1790,
+    "oldPrice": null,
+    "popularity": 78,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "ferrari-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#C80000",
+        "#FFD200",
+        "#FFFFFF"
+      ],
+      "number": "44"
+    },
+    "description": {
+      "lead": "Ferrari SF-25 Льюиса Хэмилтона в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Ferrari SF-25, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Льюис Хэмилтон, #44"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Ferrari SF-25 Хэмилтон 1:43",
+      "description": "Литая модель Ferrari SF-25 Льюиса Хэмилтона, сезон 2025, масштаб 1:43. Доставка по России."
+    }
+  },
+  {
+    "slug": "ferrari-sf-25-hamilton-miami-1-43",
+    "status": "draft",
+    "title": "Ferrari SF-25 · Хэмилтон",
+    "subtitle": "Льюис Хэмилтон #44 · сезон 2025 · ГП Майами",
+    "category": "model",
+    "kind": "ready",
+    "team": "ferrari",
+    "year": 2025,
+    "driver": "Льюис Хэмилтон",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1590,
+    "oldPrice": null,
+    "popularity": 86,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "ferrari-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#C80000",
+        "#FFD200",
+        "#FFFFFF"
+      ],
+      "number": "44"
+    },
+    "description": {
+      "lead": "Ferrari SF-25 Льюиса Хэмилтона в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Специальная ливрея, в которой Ferrari выступила на Гран-при Майами.",
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Ferrari SF-25, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Льюис Хэмилтон, #44"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "ГП Майами"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Ferrari SF-25 Хэмилтон 1:43 — ГП Майами",
+      "description": "Литая модель Ferrari SF-25 Льюиса Хэмилтона, сезон 2025, масштаб 1:43, ГП Майами. Доставка по России."
+    }
+  },
+  {
+    "slug": "ferrari-sf-25-leclerc-1-43",
+    "status": "draft",
+    "title": "Ferrari SF-25 · Леклер",
+    "subtitle": "Шарль Леклер #16 · сезон 2025",
+    "category": "model",
+    "kind": "ready",
+    "team": "ferrari",
+    "year": 2025,
+    "driver": "Шарль Леклер",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1590,
+    "oldPrice": null,
+    "popularity": 86,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "ferrari-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#C80000",
+        "#FFD200",
+        "#FFFFFF"
+      ],
+      "number": "16"
+    },
+    "description": {
+      "lead": "Ferrari SF-25 Шарля Леклера в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Ferrari SF-25, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Шарль Леклер, #16"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Ferrari SF-25 Леклер 1:43",
+      "description": "Литая модель Ferrari SF-25 Шарля Леклера, сезон 2025, масштаб 1:43. Доставка по России."
+    }
+  },
+  {
+    "slug": "ferrari-sf-25-leclerc-miami-1-43",
+    "status": "draft",
+    "title": "Ferrari SF-25 · Леклер",
+    "subtitle": "Шарль Леклер #16 · сезон 2025 · ГП Майами",
+    "category": "model",
+    "kind": "ready",
+    "team": "ferrari",
+    "year": 2025,
+    "driver": "Шарль Леклер",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1590,
+    "oldPrice": null,
+    "popularity": 86,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "ferrari-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#C80000",
+        "#FFD200",
+        "#FFFFFF"
+      ],
+      "number": "16"
+    },
+    "description": {
+      "lead": "Ferrari SF-25 Шарля Леклера в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Специальная ливрея, в которой Ferrari выступила на Гран-при Майами.",
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Ferrari SF-25, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Шарль Леклер, #16"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "ГП Майами"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Ferrari SF-25 Леклер 1:43 — ГП Майами",
+      "description": "Литая модель Ferrari SF-25 Шарля Леклера, сезон 2025, масштаб 1:43, ГП Майами. Доставка по России."
+    }
+  },
+  {
+    "slug": "ferrari-sf-26-hamilton-1-43",
+    "status": "draft",
+    "title": "Ferrari SF-26 · Хэмилтон",
+    "subtitle": "Льюис Хэмилтон #44 · сезон 2026",
+    "category": "model",
+    "kind": "ready",
+    "team": "ferrari",
+    "year": 2026,
+    "driver": "Льюис Хэмилтон",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 2990,
+    "oldPrice": null,
+    "popularity": 63,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "ferrari-2026",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#C80000",
+        "#FFD200",
+        "#FFFFFF"
+      ],
+      "number": "44"
+    },
+    "description": {
+      "lead": "Ferrari SF-26 Льюиса Хэмилтона в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона.",
+        "Новинка сезона 2026 — первого года нового технического регламента."
+      ],
+      "inBox": [
+        "Модель Ferrari SF-26, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Льюис Хэмилтон, #44"
+      },
+      {
+        "label": "Сезон",
+        "value": "2026"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Ferrari SF-26 Хэмилтон 1:43",
+      "description": "Литая модель Ferrari SF-26 Льюиса Хэмилтона, сезон 2026, масштаб 1:43. Доставка по России."
+    }
+  },
+  {
+    "slug": "ferrari-sf-26-leclerc-1-43",
+    "status": "draft",
+    "title": "Ferrari SF-26 · Леклер",
+    "subtitle": "Шарль Леклер #16 · сезон 2026",
+    "category": "model",
+    "kind": "ready",
+    "team": "ferrari",
+    "year": 2026,
+    "driver": "Шарль Леклер",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 2990,
+    "oldPrice": null,
+    "popularity": 63,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "ferrari-2026",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#C80000",
+        "#FFD200",
+        "#FFFFFF"
+      ],
+      "number": "16"
+    },
+    "description": {
+      "lead": "Ferrari SF-26 Шарля Леклера в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона.",
+        "Новинка сезона 2026 — первого года нового технического регламента."
+      ],
+      "inBox": [
+        "Модель Ferrari SF-26, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Шарль Леклер, #16"
+      },
+      {
+        "label": "Сезон",
+        "value": "2026"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Ferrari SF-26 Леклер 1:43",
+      "description": "Литая модель Ferrari SF-26 Шарля Леклера, сезон 2026, масштаб 1:43. Доставка по России."
+    }
+  },
+  {
+    "slug": "mclaren-mcl38-norris-1-24",
+    "status": "draft",
+    "title": "McLaren MCL38 · Норрис",
+    "subtitle": "Ландо Норрис #4 · сезон 2024",
     "category": "model",
     "kind": "ready",
     "team": "mclaren",
     "year": 2024,
     "driver": "Ландо Норрис",
-    "scale": "1:43",
-    "brand": "Bburago",
-    "licensed": true,
-    "price": 2490,
+    "scale": "1:24",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 2990,
     "oldPrice": null,
-    "popularity": 97,
+    "popularity": 67,
     "delivery": [
       12,
-      20
+      22
     ],
     "story": "mclaren-2024",
     "art": {
@@ -469,19 +1217,176 @@
       "colors": [
         "#FF7A00",
         "#2B2B2E",
-        "#4FC3F7"
+        "#FFFFFF"
       ],
       "number": "4"
     },
     "description": {
-      "lead": "Машина, на которой Ландо Норрис одержал первую победу в карьере, а McLaren впервые с 1998 года выиграла Кубок конструкторов.",
+      "lead": "McLaren MCL38 Ландо Норриса в масштабе 1:24 — модель длиной около 23 см.",
       "body": [
-        "Литая модель Bburago в масштабе 1:43 — около 13 см в длину, в фирменной папайе McLaren.",
-        "Корпус из металла, мелкие детали из пластика. Официальная лицензия команды."
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
       ],
       "inBox": [
-        "Модель McLaren MCL38, масштаб 1:43",
-        "Заводская коробка Bburago"
+        "Модель McLaren MCL38, масштаб 1:24",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:24"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 23 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Ландо Норрис, #4"
+      },
+      {
+        "label": "Сезон",
+        "value": "2024"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель McLaren MCL38 Норрис 1:24",
+      "description": "Литая модель McLaren MCL38 Ландо Норриса, сезон 2024, масштаб 1:24. Доставка по России."
+    }
+  },
+  {
+    "slug": "mclaren-mcl38-piastri-1-24",
+    "status": "draft",
+    "title": "McLaren MCL38 · Пиастри",
+    "subtitle": "Оскар Пиастри #81 · сезон 2024",
+    "category": "model",
+    "kind": "ready",
+    "team": "mclaren",
+    "year": 2024,
+    "driver": "Оскар Пиастри",
+    "scale": "1:24",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 4090,
+    "oldPrice": null,
+    "popularity": 76,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mclaren-2024",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#FF7A00",
+        "#2B2B2E",
+        "#FFFFFF"
+      ],
+      "number": "81"
+    },
+    "description": {
+      "lead": "McLaren MCL38 Оскара Пиастри в масштабе 1:24 — модель длиной около 23 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
+      ],
+      "inBox": [
+        "Модель McLaren MCL38, масштаб 1:24",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:24"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 23 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Оскар Пиастри, #81"
+      },
+      {
+        "label": "Сезон",
+        "value": "2024"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель McLaren MCL38 Пиастри 1:24",
+      "description": "Литая модель McLaren MCL38 Оскара Пиастри, сезон 2024, масштаб 1:24. Доставка по России."
+    }
+  },
+  {
+    "slug": "mclaren-mcl39-norris-1-43",
+    "status": "draft",
+    "title": "McLaren MCL39 · Норрис",
+    "subtitle": "Ландо Норрис #4 · сезон 2025",
+    "category": "model",
+    "kind": "ready",
+    "team": "mclaren",
+    "year": 2025,
+    "driver": "Ландо Норрис",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1790,
+    "oldPrice": null,
+    "popularity": 81,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mclaren-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#FF7A00",
+        "#2B2B2E",
+        "#FFFFFF"
+      ],
+      "number": "4"
+    },
+    "description": {
+      "lead": "McLaren MCL39 Ландо Норриса в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель McLaren MCL39, масштаб 1:43",
+        "Заводская коробка"
       ]
     },
     "specs": [
@@ -494,20 +1399,24 @@
         "value": "≈ 13 см"
       },
       {
+        "label": "Пилот",
+        "value": "Ландо Норрис, #4"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
         "label": "Материал",
         "value": "металл (diecast) и пластик"
       },
       {
-        "label": "Производитель",
-        "value": "Bburago"
-      },
-      {
-        "label": "Лицензия",
-        "value": "McLaren Formula 1 Team"
-      },
-      {
         "label": "Возраст",
-        "value": "14+"
+        "value": "14+, коллекционная модель"
       },
       {
         "label": "Упаковка",
@@ -515,60 +1424,48 @@
       }
     ],
     "seo": {
-      "title": "Модель McLaren MCL38 Норрис 1:43 Bburago",
-      "description": "Литая модель McLaren MCL38 Ландо Норриса, сезон 2024, масштаб 1:43. Болид, вернувший McLaren Кубок конструкторов. Доставка по России."
-    },
-    "images": {
-      "main": "/products/mclaren-mcl38-norris-1-43/main.webp",
-      "thumb": "/products/mclaren-mcl38-norris-1-43/thumb.webp",
-      "gallery": [
-        "/products/mclaren-mcl38-norris-1-43/01.webp",
-        "/products/mclaren-mcl38-norris-1-43/02.webp",
-        "/products/mclaren-mcl38-norris-1-43/03.webp"
-      ],
-      "box": "/products/mclaren-mcl38-norris-1-43/box.webp",
-      "withBox": "/products/mclaren-mcl38-norris-1-43/with-box.webp"
+      "title": "Модель McLaren MCL39 Норрис 1:43",
+      "description": "Литая модель McLaren MCL39 Ландо Норриса, сезон 2025, масштаб 1:43. Доставка по России."
     }
   },
   {
-    "slug": "mclaren-mp4-4-senna-1-43",
-    "status": "placeholder",
-    "title": "McLaren MP4/4",
-    "subtitle": "Айртон Сенна · 1988",
+    "slug": "mclaren-mcl39-piastri-1-43",
+    "status": "draft",
+    "title": "McLaren MCL39 · Пиастри",
+    "subtitle": "Оскар Пиастри #81 · сезон 2025",
     "category": "model",
     "kind": "ready",
     "team": "mclaren",
-    "year": 1988,
-    "driver": "Айртон Сенна",
+    "year": 2025,
+    "driver": "Оскар Пиастри",
     "scale": "1:43",
-    "brand": "Minichamps",
-    "licensed": true,
-    "price": 8990,
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1790,
     "oldPrice": null,
-    "popularity": 88,
+    "popularity": 78,
     "delivery": [
-      14,
-      24
+      12,
+      22
     ],
-    "story": "mclaren-1988",
+    "story": "mclaren-2025",
     "art": {
       "type": "car",
       "colors": [
-        "#F4F4F4",
-        "#E4002B",
-        "#F2C200"
+        "#FF7A00",
+        "#2B2B2E",
+        "#FFFFFF"
       ],
-      "number": "12"
+      "number": "81"
     },
     "description": {
-      "lead": "Легенда: 15 побед в 16 гонках и первый чемпионский титул Айртона Сенны.",
+      "lead": "McLaren MCL39 Оскара Пиастри в масштабе 1:43 — модель длиной около 13 см.",
       "body": [
-        "Коллекционная модель Minichamps в масштабе 1:43 — около 10 см в длину. Для тех, кто собирает историю Формулы 1.",
-        "Высокая детализация, характерная для коллекционной серии Minichamps."
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
       ],
       "inBox": [
-        "Модель McLaren MP4/4, масштаб 1:43",
-        "Заводская упаковка Minichamps"
+        "Модель McLaren MCL39, масштаб 1:43",
+        "Заводская коробка"
       ]
     },
     "specs": [
@@ -578,76 +1475,234 @@
       },
       {
         "label": "Длина",
-        "value": "≈ 10 см"
+        "value": "≈ 13 см"
       },
       {
-        "label": "Производитель",
-        "value": "Minichamps"
+        "label": "Пилот",
+        "value": "Оскар Пиастри, #81"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
       },
       {
         "label": "Возраст",
-        "value": "14+"
+        "value": "14+, коллекционная модель"
       },
       {
         "label": "Упаковка",
-        "value": "заводская"
+        "value": "заводская коробка"
       }
     ],
     "seo": {
-      "title": "Модель McLaren MP4/4 Сенна 1:43 Minichamps",
-      "description": "Коллекционная модель McLaren MP4/4 Айртона Сенны, сезон 1988, масштаб 1:43, Minichamps. Доставка по России."
-    },
-    "images": {
-      "main": "/products/mclaren-mp4-4-senna-1-43/main.webp",
-      "thumb": "/products/mclaren-mp4-4-senna-1-43/thumb.webp",
-      "gallery": [
-        "/products/mclaren-mp4-4-senna-1-43/01.webp",
-        "/products/mclaren-mp4-4-senna-1-43/02.webp",
-        "/products/mclaren-mp4-4-senna-1-43/03.webp"
-      ],
-      "box": "/products/mclaren-mp4-4-senna-1-43/box.webp",
-      "withBox": "/products/mclaren-mp4-4-senna-1-43/with-box.webp"
+      "title": "Модель McLaren MCL39 Пиастри 1:43",
+      "description": "Литая модель McLaren MCL39 Оскара Пиастри, сезон 2025, масштаб 1:43. Доставка по России."
     }
   },
   {
-    "slug": "mercedes-w11-hamilton-1-43",
-    "status": "placeholder",
-    "title": "Mercedes W11",
-    "subtitle": "Льюис Хэмилтон · 2020",
+    "slug": "mercedes-w15-hamilton-1-24",
+    "status": "draft",
+    "title": "Mercedes W15 · Хэмилтон",
+    "subtitle": "Льюис Хэмилтон #44 · сезон 2024",
     "category": "model",
     "kind": "ready",
     "team": "mercedes",
-    "year": 2020,
+    "year": 2024,
     "driver": "Льюис Хэмилтон",
-    "scale": "1:43",
-    "brand": "Bburago",
-    "licensed": true,
-    "price": 2290,
+    "scale": "1:24",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 4090,
     "oldPrice": null,
-    "popularity": 90,
+    "popularity": 76,
     "delivery": [
       12,
-      20
+      22
     ],
-    "story": "mercedes-2020",
+    "story": "mercedes-2024",
     "art": {
       "type": "car",
       "colors": [
         "#1A1A1D",
         "#00C8B4",
-        "#C9CDD2"
+        "#C0C4C8"
       ],
       "number": "44"
     },
     "description": {
-      "lead": "Чёрная Mercedes, на которой Льюис Хэмилтон взял седьмой титул и обошёл Шумахера по числу побед.",
+      "lead": "Mercedes W15 Льюиса Хэмилтона в масштабе 1:24 — модель длиной около 23 см.",
       "body": [
-        "Литая модель Bburago в масштабе 1:43 — около 13 см в длину, в чёрной ливрее сезона 2020.",
-        "Корпус из металла, мелкие детали из пластика. Официальная лицензия команды."
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
       ],
       "inBox": [
-        "Модель Mercedes W11, масштаб 1:43",
-        "Заводская коробка Bburago"
+        "Модель Mercedes W15, масштаб 1:24",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:24"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 23 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Льюис Хэмилтон, #44"
+      },
+      {
+        "label": "Сезон",
+        "value": "2024"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Mercedes W15 Хэмилтон 1:24",
+      "description": "Литая модель Mercedes W15 Льюиса Хэмилтона, сезон 2024, масштаб 1:24. Доставка по России."
+    }
+  },
+  {
+    "slug": "mercedes-w15-russell-1-24",
+    "status": "draft",
+    "title": "Mercedes W15 · Рассел",
+    "subtitle": "Джордж Рассел #63 · сезон 2024",
+    "category": "model",
+    "kind": "ready",
+    "team": "mercedes",
+    "year": 2024,
+    "driver": "Джордж Рассел",
+    "scale": "1:24",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 4090,
+    "oldPrice": null,
+    "popularity": 76,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mercedes-2024",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#1A1A1D",
+        "#00C8B4",
+        "#C0C4C8"
+      ],
+      "number": "63"
+    },
+    "description": {
+      "lead": "Mercedes W15 Джорджа Рассела в масштабе 1:24 — модель длиной около 23 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
+      ],
+      "inBox": [
+        "Модель Mercedes W15, масштаб 1:24",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:24"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 23 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Джордж Рассел, #63"
+      },
+      {
+        "label": "Сезон",
+        "value": "2024"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Mercedes W15 Рассел 1:24",
+      "description": "Литая модель Mercedes W15 Джорджа Рассела, сезон 2024, масштаб 1:24. Доставка по России."
+    }
+  },
+  {
+    "slug": "mercedes-w16-antonelli-1-43",
+    "status": "draft",
+    "title": "Mercedes W16 · Антонелли",
+    "subtitle": "Кими Антонелли #12 · сезон 2025",
+    "category": "model",
+    "kind": "ready",
+    "team": "mercedes",
+    "year": 2025,
+    "driver": "Кими Антонелли",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1790,
+    "oldPrice": null,
+    "popularity": 78,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mercedes-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#1A1A1D",
+        "#00C8B4",
+        "#C0C4C8"
+      ],
+      "number": "12"
+    },
+    "description": {
+      "lead": "Mercedes W16 Кими Антонелли в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Mercedes W16, масштаб 1:43",
+        "Заводская коробка"
       ]
     },
     "specs": [
@@ -660,20 +1715,24 @@
         "value": "≈ 13 см"
       },
       {
+        "label": "Пилот",
+        "value": "Кими Антонелли, #12"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
         "label": "Материал",
         "value": "металл (diecast) и пластик"
       },
       {
-        "label": "Производитель",
-        "value": "Bburago"
-      },
-      {
-        "label": "Лицензия",
-        "value": "Mercedes-AMG Petronas F1 Team"
-      },
-      {
         "label": "Возраст",
-        "value": "14+"
+        "value": "14+, коллекционная модель"
       },
       {
         "label": "Упаковка",
@@ -681,84 +1740,78 @@
       }
     ],
     "seo": {
-      "title": "Модель Mercedes W11 Хэмилтон 1:43 Bburago",
-      "description": "Литая модель Mercedes W11 Льюиса Хэмилтона, сезон 2020, масштаб 1:43. Болид седьмого титула. Доставка по России."
-    },
-    "images": {
-      "main": "/products/mercedes-w11-hamilton-1-43/main.webp",
-      "thumb": "/products/mercedes-w11-hamilton-1-43/thumb.webp",
-      "gallery": [
-        "/products/mercedes-w11-hamilton-1-43/01.webp",
-        "/products/mercedes-w11-hamilton-1-43/02.webp",
-        "/products/mercedes-w11-hamilton-1-43/03.webp"
-      ],
-      "box": "/products/mercedes-w11-hamilton-1-43/box.webp",
-      "withBox": "/products/mercedes-w11-hamilton-1-43/with-box.webp"
+      "title": "Модель Mercedes W16 Антонелли 1:43",
+      "description": "Литая модель Mercedes W16 Кими Антонелли, сезон 2025, масштаб 1:43. Доставка по России."
     }
   },
   {
-    "slug": "rastar-red-bull-rb19-1-8",
-    "status": "placeholder",
-    "title": "Red Bull RB19 · 1:8",
-    "subtitle": "Конструктор, ≈ 2 500 деталей",
+    "slug": "mercedes-w16-russell-1-43",
+    "status": "draft",
+    "title": "Mercedes W16 · Рассел",
+    "subtitle": "Джордж Рассел #63 · сезон 2025",
     "category": "model",
-    "kind": "kit",
-    "team": "redbull",
-    "year": 2023,
-    "driver": "Макс Ферстаппен",
-    "scale": "1:8",
-    "brand": "Rastar",
-    "licensed": true,
-    "price": 14990,
+    "kind": "ready",
+    "team": "mercedes",
+    "year": 2025,
+    "driver": "Джордж Рассел",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1790,
     "oldPrice": null,
-    "popularity": 92,
+    "popularity": 78,
     "delivery": [
-      14,
-      24
+      12,
+      22
     ],
-    "story": "redbull-2023",
+    "story": "mercedes-2025",
     "art": {
-      "type": "kit",
+      "type": "car",
       "colors": [
-        "#1B2A5C",
-        "#E3263B",
-        "#F2C200"
+        "#1A1A1D",
+        "#00C8B4",
+        "#C0C4C8"
       ],
-      "number": "1"
+      "number": "63"
     },
     "description": {
-      "lead": "Собери RB19 своими руками: около 2 500 деталей и болид длиной около 70 см — главный экспонат любой коллекции.",
+      "lead": "Mercedes W16 Джорджа Рассела в масштабе 1:43 — модель длиной около 13 см.",
       "body": [
-        "Официально лицензированный набор Rastar в масштабе 1:8. Статичная версия, без мотора — для витрины.",
-        "Сборка займёт не один вечер. Отличный проект на выходные и подарок фанату, который любит собирать сам."
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
       ],
       "inBox": [
-        "Детали конструктора (≈ 2 500 шт.)",
-        "Инструкция по сборке",
-        "Наклейки ливреи",
-        "Заводская коробка Rastar"
+        "Модель Mercedes W16, масштаб 1:43",
+        "Заводская коробка"
       ]
     },
     "specs": [
       {
         "label": "Масштаб",
-        "value": "1:8"
+        "value": "1:43"
       },
       {
-        "label": "Деталей",
-        "value": "≈ 2 500"
+        "label": "Длина",
+        "value": "≈ 13 см"
       },
       {
-        "label": "Длина в сборе",
-        "value": "≈ 70 см (по масштабу)"
+        "label": "Пилот",
+        "value": "Джордж Рассел, #63"
       },
       {
-        "label": "Производитель",
-        "value": "Rastar"
+        "label": "Сезон",
+        "value": "2025"
       },
       {
-        "label": "Лицензия",
-        "value": "Oracle Red Bull Racing"
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
       },
       {
         "label": "Упаковка",
@@ -766,297 +1819,2761 @@
       }
     ],
     "seo": {
-      "title": "Конструктор Red Bull RB19 1:8 Rastar",
-      "description": "Лицензированный конструктор Rastar Red Bull RB19 в масштабе 1:8: около 2 500 деталей, длина около 70 см. Доставка по России."
-    },
-    "images": {
-      "main": "/products/rastar-red-bull-rb19-1-8/main.webp",
-      "thumb": "/products/rastar-red-bull-rb19-1-8/thumb.webp",
-      "gallery": [
-        "/products/rastar-red-bull-rb19-1-8/01.webp",
-        "/products/rastar-red-bull-rb19-1-8/02.webp",
-        "/products/rastar-red-bull-rb19-1-8/03.webp"
-      ],
-      "box": "/products/rastar-red-bull-rb19-1-8/box.webp",
-      "withBox": "/products/rastar-red-bull-rb19-1-8/with-box.webp"
+      "title": "Модель Mercedes W16 Рассел 1:43",
+      "description": "Литая модель Mercedes W16 Джорджа Рассела, сезон 2025, масштаб 1:43. Доставка по России."
     }
   },
   {
-    "slug": "red-bull-rb19-verstappen-1-43",
-    "status": "placeholder",
-    "title": "Red Bull RB19",
-    "subtitle": "Макс Ферстаппен · 2023",
+    "slug": "mercedes-w17-antonelli-1-43",
+    "status": "draft",
+    "title": "Mercedes W17 · Антонелли",
+    "subtitle": "Кими Антонелли #12 · сезон 2026",
+    "category": "model",
+    "kind": "ready",
+    "team": "mercedes",
+    "year": 2026,
+    "driver": "Кими Антонелли",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 2990,
+    "oldPrice": null,
+    "popularity": 60,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mercedes-2026",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#1A1A1D",
+        "#00C8B4",
+        "#C0C4C8"
+      ],
+      "number": "12"
+    },
+    "description": {
+      "lead": "Mercedes W17 Кими Антонелли в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона.",
+        "Новинка сезона 2026 — первого года нового технического регламента."
+      ],
+      "inBox": [
+        "Модель Mercedes W17, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Кими Антонелли, #12"
+      },
+      {
+        "label": "Сезон",
+        "value": "2026"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Mercedes W17 Антонелли 1:43",
+      "description": "Литая модель Mercedes W17 Кими Антонелли, сезон 2026, масштаб 1:43. Доставка по России."
+    }
+  },
+  {
+    "slug": "mercedes-w17-russell-1-43",
+    "status": "draft",
+    "title": "Mercedes W17 · Рассел",
+    "subtitle": "Джордж Рассел #63 · сезон 2026",
+    "category": "model",
+    "kind": "ready",
+    "team": "mercedes",
+    "year": 2026,
+    "driver": "Джордж Рассел",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 2990,
+    "oldPrice": null,
+    "popularity": 60,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mercedes-2026",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#1A1A1D",
+        "#00C8B4",
+        "#C0C4C8"
+      ],
+      "number": "63"
+    },
+    "description": {
+      "lead": "Mercedes W17 Джорджа Рассела в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона.",
+        "Новинка сезона 2026 — первого года нового технического регламента."
+      ],
+      "inBox": [
+        "Модель Mercedes W17, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Джордж Рассел, #63"
+      },
+      {
+        "label": "Сезон",
+        "value": "2026"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Mercedes W17 Рассел 1:43",
+      "description": "Литая модель Mercedes W17 Джорджа Рассела, сезон 2026, масштаб 1:43. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-brawn-bgp001",
+    "status": "draft",
+    "title": "Постер Brawn BGP001",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": null,
+    "year": 2009,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "brawn-2009",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#F4F4F4",
+        "#D7FF3C",
+        "#111111"
+      ],
+      "print": "BGP001"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Brawn BGP001 на холсте. Brawn GP провела в Формуле 1 один сезон и выиграла оба чемпионата.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Brawn BGP001 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Brawn BGP001 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-ferrari-312t",
+    "status": "draft",
+    "title": "Постер Ferrari 312T",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "ferrari",
+    "year": 1975,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "ferrari-1975",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#C80000",
+        "#FFFFFF",
+        "#111111"
+      ],
+      "print": "312T"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Ferrari 312T на холсте. Ники Лауда стал чемпионом мира.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Ferrari 312T — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Ferrari 312T на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-ferrari-643",
+    "status": "draft",
+    "title": "Постер Ferrari 643",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "ferrari",
+    "year": 1991,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "ferrari-1991",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#C80000",
+        "#FFFFFF",
+        "#111111"
+      ],
+      "print": "643"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Ferrari 643 на холсте. Трёхкратный чемпион Ален Прост выступал на 643 во второй половине сезона.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Ferrari 643 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Ferrari 643 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-ferrari-f2007",
+    "status": "draft",
+    "title": "Постер Ferrari F2007",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "ferrari",
+    "year": 2007,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "ferrari-2007",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#C80000",
+        "#FFFFFF",
+        "#111111"
+      ],
+      "print": "F2007"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Ferrari F2007 на холсте. Кими Райкконен стал чемпионом в первый же сезон за Ferrari.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Ferrari F2007 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Ferrari F2007 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-jordan-191",
+    "status": "draft",
+    "title": "Постер Jordan 191",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": null,
+    "year": 1991,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "jordan-1991",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#0F7A3C",
+        "#1E6FD9",
+        "#FFFFFF"
+      ],
+      "print": "191"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Jordan 191 на холсте. Первый сезон Jordan в Формуле 1 — и сразу пятое место в Кубке конструкторов.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Jordan 191 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Jordan 191 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-lotus-98t",
+    "status": "draft",
+    "title": "Постер Lotus 98T",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": null,
+    "year": 1986,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "lotus-1986",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#111111",
+        "#C9A45C",
+        "#C9A45C"
+      ],
+      "print": "98T"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Lotus 98T на холсте. Айртон Сенна взял на 98T восемь поул-позиций за сезон.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Lotus 98T — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Lotus 98T на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-lotus-99t",
+    "status": "draft",
+    "title": "Постер Lotus 99T",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": null,
+    "year": 1987,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "lotus-1987",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#F2C200",
+        "#1E4FA0",
+        "#111111"
+      ],
+      "print": "99T"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Lotus 99T на холсте. Одна из первых машин с активной подвеской, которая сама держала высоту кузова.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Lotus 99T — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Lotus 99T на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-mclaren-m23",
+    "status": "draft",
+    "title": "Постер McLaren M23",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "mclaren",
+    "year": 1974,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mclaren-m23",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#F4F4F4",
+        "#D40000",
+        "#111111"
+      ],
+      "print": "M23"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "McLaren M23 на холсте. На M23 McLaren в 1974 году впервые выиграла Кубок конструкторов.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер McLaren M23 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом McLaren M23 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-mclaren-mcl34",
+    "status": "draft",
+    "title": "Постер McLaren MCL34",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "mclaren",
+    "year": 2019,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mclaren-2019",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#FF7A00",
+        "#1E6FD9",
+        "#111111"
+      ],
+      "print": "MCL34"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "McLaren MCL34 на холсте. McLaren стала четвёртой в Кубке конструкторов — лучший результат с 2012 года.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер McLaren MCL34 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом McLaren MCL34 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-mclaren-mp4-23",
+    "status": "draft",
+    "title": "Постер McLaren MP4-23",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "mclaren",
+    "year": 2008,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mclaren-2008",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#C0C4C8",
+        "#D40000",
+        "#111111"
+      ],
+      "print": "MP4-23"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "McLaren MP4-23 на холсте. Льюис Хэмилтон стал чемпионом во втором сезоне — тогда самым молодым в истории.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер McLaren MP4-23 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом McLaren MP4-23 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-mclaren-mp4-4",
+    "status": "draft",
+    "title": "Постер McLaren MP4/4",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "mclaren",
+    "year": 1988,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mclaren-1988",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#F4F4F4",
+        "#D40000",
+        "#111111"
+      ],
+      "print": "MP4/4"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "McLaren MP4/4 на холсте. 15 побед из 16: McLaren MP4/4 — один из самых доминирующих болидов в истории.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер McLaren MP4/4 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом McLaren MP4/4 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-mclaren-mp4-5b",
+    "status": "draft",
+    "title": "Постер McLaren MP4/5B",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "mclaren",
+    "year": 1990,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mclaren-1990",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#F4F4F4",
+        "#D40000",
+        "#111111"
+      ],
+      "print": "MP4/5B"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "McLaren MP4/5B на холсте. Айртон Сенна стал чемпионом мира во второй раз.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер McLaren MP4/5B — холст, 20×30–50×70 см",
+      "description": "Постер с болидом McLaren MP4/5B на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-mclaren-mp4-6",
+    "status": "draft",
+    "title": "Постер McLaren MP4/6",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "mclaren",
+    "year": 1991,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mclaren-1991",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#F4F4F4",
+        "#D40000",
+        "#111111"
+      ],
+      "print": "MP4/6"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "McLaren MP4/6 на холсте. Айртон Сенна выиграл третий и последний чемпионат.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер McLaren MP4/6 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом McLaren MP4/6 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-mercedes-w10",
+    "status": "draft",
+    "title": "Постер Mercedes W10",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "mercedes",
+    "year": 2019,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "mercedes-2019",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#C0C4C8",
+        "#00C8B4",
+        "#111111"
+      ],
+      "print": "W10"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Mercedes W10 на холсте. Mercedes шестой год подряд выиграла оба чемпионата.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Mercedes W10 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Mercedes W10 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-red-bull-rb16",
+    "status": "draft",
+    "title": "Постер Red Bull RB16",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "redbull",
+    "year": 2020,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "redbull-2020",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#1B2A5C",
+        "#E3263B",
+        "#FFD200"
+      ],
+      "print": "RB16"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Red Bull RB16 на холсте. Макс Ферстаппен выиграл Гран-при 70-летия Формулы 1.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Red Bull RB16 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Red Bull RB16 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-red-bull-rb7",
+    "status": "draft",
+    "title": "Постер Red Bull RB7",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "redbull",
+    "year": 2011,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "redbull-2011",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#1B2A5C",
+        "#E3263B",
+        "#FFD200"
+      ],
+      "print": "RB7"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Red Bull RB7 на холсте. Себастьян Феттель стал самым молодым двукратным чемпионом.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Red Bull RB7 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Red Bull RB7 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-renault-r25",
+    "status": "draft",
+    "title": "Постер Renault R25",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": null,
+    "year": 2005,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "renault-2005",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#1E4FA0",
+        "#FFD200",
+        "#FFFFFF"
+      ],
+      "print": "R25"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Renault R25 на холсте. Фернандо Алонсо в 24 года стал самым молодым чемпионом на тот момент.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Renault R25 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Renault R25 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-schumacher-ferrari-japan",
+    "status": "draft",
+    "title": "Постер Шумахер, Ferrari — японский стиль",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": "ferrari",
+    "year": 2004,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "ferrari-2004",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#C80000",
+        "#FFFFFF",
+        "#111111"
+      ],
+      "print": "SCHUMI"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Шумахер, Ferrari — японский стиль на холсте. Михаэль Шумахер и Ferrari: пять титулов подряд, 2000–2004.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Шумахер, Ferrari — японский стиль — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Шумахер, Ferrari — японский стиль на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-toleman-tg184",
+    "status": "draft",
+    "title": "Постер Toleman TG184",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": null,
+    "year": 1984,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "toleman-1984",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#F4F4F4",
+        "#1E4FA0",
+        "#D40000"
+      ],
+      "print": "TG184"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Toleman TG184 на холсте. На TG184 выступал новичок Айртон Сенна.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Toleman TG184 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Toleman TG184 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-toro-rosso-str14",
+    "status": "draft",
+    "title": "Постер Toro Rosso STR14",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": null,
+    "year": 2019,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "tororosso-2019",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#1B2A5C",
+        "#E3263B",
+        "#FFFFFF"
+      ],
+      "print": "STR14"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Toro Rosso STR14 на холсте. Даниил Квят финишировал третьим на хаотичном Гран-при Германии.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Toro Rosso STR14 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Toro Rosso STR14 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "poster-toro-rosso-str3",
+    "status": "draft",
+    "title": "Постер Toro Rosso STR3",
+    "subtitle": "Холст, без рамки",
+    "category": "merch",
+    "kind": "poster",
+    "team": null,
+    "year": 2008,
+    "brand": "Постер",
+    "licensed": false,
+    "price": 1090,
+    "oldPrice": null,
+    "popularity": 61,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "tororosso-2008",
+    "art": {
+      "type": "poster",
+      "colors": [
+        "#1B2A5C",
+        "#E3263B",
+        "#FFD200"
+      ],
+      "print": "STR3"
+    },
+    "sizes": [
+      "20×30 см",
+      "30×40 см",
+      "40×60 см",
+      "50×70 см"
+    ],
+    "sizePrices": {
+      "20×30 см": 1090,
+      "30×40 см": 1290,
+      "40×60 см": 1890,
+      "50×70 см": 2190
+    },
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Цена",
+        "Куда подойдёт"
+      ],
+      "rows": [
+        [
+          "20×30 см",
+          "1 090 ₽",
+          "на стол или полку"
+        ],
+        [
+          "30×40 см",
+          "1 290 ₽",
+          "над рабочим столом"
+        ],
+        [
+          "40×60 см",
+          "1 890 ₽",
+          "на стену в комнате"
+        ],
+        [
+          "50×70 см",
+          "2 190 ₽",
+          "главная стена, крупно"
+        ]
+      ],
+      "note": "Постер без рамки: его можно оформить в любую раму нужного размера."
+    },
+    "description": {
+      "lead": "Toro Rosso STR3 на холсте. Себастьян Феттель выиграл Гран-при Италии под дождём со старта с поула.",
+      "body": [
+        "Печать на холсте, без рамки.",
+        "Четыре размера — от небольшого на полку до крупного на всю стену."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Материал",
+        "value": "холст"
+      },
+      {
+        "label": "Рамка",
+        "value": "нет"
+      },
+      {
+        "label": "Размеры",
+        "value": "20×30 см, 30×40 см, 40×60 см, 50×70 см"
+      }
+    ],
+    "seo": {
+      "title": "Постер Toro Rosso STR3 — холст, 20×30–50×70 см",
+      "description": "Постер с болидом Toro Rosso STR3 на холсте. Размеры от 20×30 до 50×70 см. Доставка по России."
+    }
+  },
+  {
+    "slug": "redbull-rb19-verstappen-usa-1-24",
+    "status": "draft",
+    "title": "Red Bull RB19 · Ферстаппен",
+    "subtitle": "Макс Ферстаппен #1 · сезон 2023 · ГП США",
     "category": "model",
     "kind": "ready",
     "team": "redbull",
     "year": 2023,
     "driver": "Макс Ферстаппен",
-    "scale": "1:43",
-    "brand": "Bburago",
-    "licensed": true,
-    "price": 2490,
-    "oldPrice": null,
-    "popularity": 98,
-    "delivery": [
-      12,
-      20
-    ],
-    "story": "redbull-2023",
-    "art": {
-      "type": "car",
-      "colors": [
-        "#1B2A5C",
-        "#E3263B",
-        "#F2C200"
-      ],
-      "number": "1"
-    },
-    "description": {
-      "lead": "Болид, который выиграл 21 гонку из 22. На RB19 Макс Ферстаппен взял третий титул подряд, а Red Bull провела самый доминирующий сезон в истории Формулы 1.",
-      "body": [
-        "Литая модель Bburago в масштабе 1:43 — около 13 см в длину. Удобный размер, чтобы собрать на одной полке весь пелотон сезона.",
-        "Корпус из металла, тонкие аэродинамические элементы из пластика. Модель продаётся по официальной лицензии команды."
-      ],
-      "inBox": [
-        "Модель Red Bull RB19, масштаб 1:43",
-        "Заводская коробка Bburago"
-      ]
-    },
-    "specs": [
-      {
-        "label": "Масштаб",
-        "value": "1:43"
-      },
-      {
-        "label": "Длина",
-        "value": "≈ 13 см"
-      },
-      {
-        "label": "Материал",
-        "value": "металл (diecast) и пластик"
-      },
-      {
-        "label": "Производитель",
-        "value": "Bburago"
-      },
-      {
-        "label": "Лицензия",
-        "value": "Oracle Red Bull Racing"
-      },
-      {
-        "label": "Возраст",
-        "value": "14+"
-      },
-      {
-        "label": "Упаковка",
-        "value": "заводская коробка"
-      }
-    ],
-    "seo": {
-      "title": "Модель Red Bull RB19 Ферстаппен 1:43 Bburago",
-      "description": "Литая модель Red Bull RB19 Макса Ферстаппена, сезон 2023, масштаб 1:43, Bburago. Официальная лицензия. Доставка по России."
-    },
-    "images": {
-      "main": "/products/red-bull-rb19-verstappen-1-43/main.webp",
-      "thumb": "/products/red-bull-rb19-verstappen-1-43/thumb.webp",
-      "gallery": [
-        "/products/red-bull-rb19-verstappen-1-43/01.webp",
-        "/products/red-bull-rb19-verstappen-1-43/02.webp",
-        "/products/red-bull-rb19-verstappen-1-43/03.webp"
-      ],
-      "box": "/products/red-bull-rb19-verstappen-1-43/box.webp",
-      "withBox": "/products/red-bull-rb19-verstappen-1-43/with-box.webp"
-    }
-  },
-  {
-    "slug": "red-bull-team-hoodie-2023",
-    "status": "placeholder",
-    "title": "Худи Red Bull Racing · сезон 2023",
-    "subtitle": "Реплика командной формы",
-    "category": "merch",
-    "kind": "sweatshirt",
-    "team": "redbull",
-    "year": 2023,
-    "driver": "Макс Ферстаппен",
-    "brand": "Реплика",
+    "scale": "1:24",
+    "brand": "литая модель",
     "licensed": false,
-    "replica": true,
-    "price": 3990,
+    "price": 4290,
     "oldPrice": null,
-    "popularity": 72,
+    "popularity": 76,
     "delivery": [
       12,
       22
     ],
     "story": "redbull-2023",
     "art": {
-      "type": "hoodie",
+      "type": "car",
       "colors": [
         "#1B2A5C",
         "#E3263B",
         "#FFD200"
       ],
-      "print": "1"
-    },
-    "colors": [
-      {
-        "id": "navy",
-        "name": "Тёмно-синий",
-        "hex": "#1B2A5C"
-      }
-    ],
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "sizeChart": {
-      "columns": [
-        "Размер",
-        "Ширина груди, см",
-        "Длина, см",
-        "Рост, см"
-      ],
-      "rows": [
-        [
-          "S",
-          "50",
-          "70",
-          "165–172"
-        ],
-        [
-          "M",
-          "53",
-          "72",
-          "172–178"
-        ],
-        [
-          "L",
-          "56",
-          "74",
-          "178–184"
-        ],
-        [
-          "XL",
-          "59",
-          "76",
-          "184–190"
-        ],
-        [
-          "XXL",
-          "62",
-          "78",
-          "190–196"
-        ]
-      ],
-      "note": "Меряй своё худи, разложив его ровно: ширина — от подмышки до подмышки."
+      "number": "1"
     },
     "description": {
-      "lead": "Худи в стиле командной формы Red Bull Racing сезона 2023 — года, когда команда выиграла 21 гонку из 22.",
+      "lead": "Red Bull RB19 Макса Ферстаппена в масштабе 1:24 — модель длиной около 23 см.",
       "body": [
-        "Тёмно-синий цвет команды, номер 1 Макса Ферстаппена, капюшон и карман-кенгуру.",
-        "Это реплика: худи не выпущено командой и не лицензировано ею."
-      ],
-      "inBox": []
-    },
-    "specs": [
-      {
-        "label": "Состав",
-        "value": "хлопок с полиэстером — уточнить у продавца"
-      },
-      {
-        "label": "Крой",
-        "value": "прямой, капюшон"
-      },
-      {
-        "label": "Оригинал",
-        "value": "нет, реплика"
-      },
-      {
-        "label": "Уход",
-        "value": "стирка 30°, наизнанку"
-      }
-    ],
-    "seo": {
-      "title": "Худи Red Bull Racing 2023 — реплика командной формы",
-      "description": "Худи в стиле командной формы Red Bull Racing сезона 2023 с номером Ферстаппена. Реплика, не лицензия. Размеры S–XXL. Доставка по России."
-    }
-  },
-  {
-    "slug": "replica-ferrari-sf-24-1-8",
-    "status": "placeholder",
-    "title": "Ferrari SF-24 · реплика 1:8",
-    "subtitle": "Конструктор, 1 361 деталь",
-    "category": "model",
-    "kind": "kit",
-    "team": "ferrari",
-    "year": 2024,
-    "driver": "Шарль Леклер",
-    "scale": "1:8",
-    "brand": "Реплика",
-    "licensed": false,
-    "replica": true,
-    "price": 2690,
-    "oldPrice": null,
-    "popularity": 91,
-    "delivery": [
-      14,
-      24
-    ],
-    "story": "ferrari-2024",
-    "art": {
-      "type": "kit",
-      "colors": [
-        "#C80000",
-        "#FFD200",
-        "#111111"
-      ],
-      "number": "16"
-    },
-    "description": {
-      "lead": "Большой болид Ferrari SF-24 длиной около 60 см, который собирается своими руками: 1 361 деталь.",
-      "body": [
-        "Это реплика: конструктор не выпущен компанией LEGO и не лицензирован командой. Зато стоит в несколько раз дешевле оригинального набора.",
-        "Приезжает в коробке с инструкцией. Сборка займёт не один вечер."
+        "Специальная ливрея Гран-при США в Остине, которую придумали болельщики.",
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
       ],
       "inBox": [
-        "Детали конструктора (1 361 шт.)",
-        "Инструкция по сборке",
-        "Наклейки",
-        "Коробка"
+        "Модель Red Bull RB19, масштаб 1:24",
+        "Заводская коробка"
       ]
     },
     "specs": [
       {
         "label": "Масштаб",
-        "value": "1:8"
+        "value": "1:24"
       },
       {
-        "label": "Деталей",
-        "value": "1 361"
+        "label": "Длина",
+        "value": "≈ 23 см"
       },
       {
-        "label": "Длина в сборе",
-        "value": "≈ 60 см"
+        "label": "Пилот",
+        "value": "Макс Ферстаппен, #1"
       },
       {
-        "label": "Оригинал",
-        "value": "нет, реплика"
+        "label": "Сезон",
+        "value": "2023"
+      },
+      {
+        "label": "Ливрея",
+        "value": "ГП США"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
       },
       {
         "label": "Возраст",
-        "value": "14+"
+        "value": "14+, коллекционная модель"
       },
       {
         "label": "Упаковка",
-        "value": "коробка — проверить вариант «с коробкой» у продавца"
+        "value": "заводская коробка"
       }
     ],
     "seo": {
-      "title": "Конструктор-реплика Ferrari SF-24 1:8",
-      "description": "Конструктор-реплика болида Ferrari SF-24 в масштабе 1:8: 1 361 деталь, длина около 60 см. Не оригинал, не лицензия. Доставка по России."
+      "title": "Модель Red Bull RB19 Ферстаппен 1:24 — ГП США",
+      "description": "Литая модель Red Bull RB19 Макса Ферстаппена, сезон 2023, масштаб 1:24, ГП США. Доставка по России."
+    }
+  },
+  {
+    "slug": "redbull-rb20-perez-1-24",
+    "status": "draft",
+    "title": "Red Bull RB20 · Перес",
+    "subtitle": "Серхио Перес #11 · сезон 2024",
+    "category": "model",
+    "kind": "ready",
+    "team": "redbull",
+    "year": 2024,
+    "driver": "Серхио Перес",
+    "scale": "1:24",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 3690,
+    "oldPrice": null,
+    "popularity": 76,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "redbull-2024",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#1B2A5C",
+        "#E3263B",
+        "#FFD200"
+      ],
+      "number": "11"
+    },
+    "description": {
+      "lead": "Red Bull RB20 Серхио Переса в масштабе 1:24 — модель длиной около 23 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
+      ],
+      "inBox": [
+        "Модель Red Bull RB20, масштаб 1:24",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:24"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 23 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Серхио Перес, #11"
+      },
+      {
+        "label": "Сезон",
+        "value": "2024"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Red Bull RB20 Перес 1:24",
+      "description": "Литая модель Red Bull RB20 Серхио Переса, сезон 2024, масштаб 1:24. Доставка по России."
+    }
+  },
+  {
+    "slug": "redbull-rb20-verstappen-1-24",
+    "status": "draft",
+    "title": "Red Bull RB20 · Ферстаппен",
+    "subtitle": "Макс Ферстаппен #1 · сезон 2024",
+    "category": "model",
+    "kind": "ready",
+    "team": "redbull",
+    "year": 2024,
+    "driver": "Макс Ферстаппен",
+    "scale": "1:24",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 3890,
+    "oldPrice": null,
+    "popularity": 58,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "redbull-2024",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#1B2A5C",
+        "#E3263B",
+        "#FFD200"
+      ],
+      "number": "1"
+    },
+    "description": {
+      "lead": "Red Bull RB20 Макса Ферстаппена в масштабе 1:24 — модель длиной около 23 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Крупный масштаб: хорошо видны детали ливреи и аэродинамики."
+      ],
+      "inBox": [
+        "Модель Red Bull RB20, масштаб 1:24",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:24"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 23 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Макс Ферстаппен, #1"
+      },
+      {
+        "label": "Сезон",
+        "value": "2024"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Red Bull RB20 Ферстаппен 1:24",
+      "description": "Литая модель Red Bull RB20 Макса Ферстаппена, сезон 2024, масштаб 1:24. Доставка по России."
+    }
+  },
+  {
+    "slug": "redbull-rb21-tsunoda-1-43",
+    "status": "draft",
+    "title": "Red Bull RB21 · Цунода",
+    "subtitle": "Юки Цунода #22 · сезон 2025",
+    "category": "model",
+    "kind": "ready",
+    "team": "redbull",
+    "year": 2025,
+    "driver": "Юки Цунода",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1590,
+    "oldPrice": null,
+    "popularity": 86,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "redbull-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#1B2A5C",
+        "#E3263B",
+        "#FFD200"
+      ],
+      "number": "22"
+    },
+    "description": {
+      "lead": "Red Bull RB21 Юки Цуноды в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Red Bull RB21, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Юки Цунода, #22"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Red Bull RB21 Цунода 1:43",
+      "description": "Литая модель Red Bull RB21 Юки Цуноды, сезон 2025, масштаб 1:43. Доставка по России."
+    }
+  },
+  {
+    "slug": "redbull-rb21-tsunoda-white-1-43",
+    "status": "draft",
+    "title": "Red Bull RB21 · Цунода",
+    "subtitle": "Юки Цунода #22 · сезон 2025 · белая, ГП Японии",
+    "category": "model",
+    "kind": "ready",
+    "team": "redbull",
+    "year": 2025,
+    "driver": "Юки Цунода",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1590,
+    "oldPrice": null,
+    "popularity": 88,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "redbull-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#F4F4F4",
+        "#1B2A5C",
+        "#E3263B"
+      ],
+      "number": "22"
+    },
+    "description": {
+      "lead": "Red Bull RB21 Юки Цуноды в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Белая ливрея, в которой Red Bull выступила на Гран-при Японии 2025 года — в честь 60 лет первой победы Honda в Формуле 1.",
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Red Bull RB21, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Юки Цунода, #22"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "белая, ГП Японии"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Red Bull RB21 Цунода 1:43 — белая, ГП Японии",
+      "description": "Литая модель Red Bull RB21 Юки Цуноды, сезон 2025, масштаб 1:43, белая, ГП Японии. Доставка по России."
+    }
+  },
+  {
+    "slug": "redbull-rb21-verstappen-1-43",
+    "status": "draft",
+    "title": "Red Bull RB21 · Ферстаппен",
+    "subtitle": "Макс Ферстаппен #1 · сезон 2025",
+    "category": "model",
+    "kind": "ready",
+    "team": "redbull",
+    "year": 2025,
+    "driver": "Макс Ферстаппен",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1790,
+    "oldPrice": null,
+    "popularity": 78,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "redbull-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#1B2A5C",
+        "#E3263B",
+        "#FFD200"
+      ],
+      "number": "1"
+    },
+    "description": {
+      "lead": "Red Bull RB21 Макса Ферстаппена в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Red Bull RB21, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Макс Ферстаппен, #1"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "основная ливрея сезона"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Red Bull RB21 Ферстаппен 1:43",
+      "description": "Литая модель Red Bull RB21 Макса Ферстаппена, сезон 2025, масштаб 1:43. Доставка по России."
+    }
+  },
+  {
+    "slug": "redbull-rb21-verstappen-white-1-43",
+    "status": "draft",
+    "title": "Red Bull RB21 · Ферстаппен",
+    "subtitle": "Макс Ферстаппен #1 · сезон 2025 · белая, ГП Японии",
+    "category": "model",
+    "kind": "ready",
+    "team": "redbull",
+    "year": 2025,
+    "driver": "Макс Ферстаппен",
+    "scale": "1:43",
+    "brand": "литая модель",
+    "licensed": false,
+    "price": 1590,
+    "oldPrice": null,
+    "popularity": 88,
+    "delivery": [
+      12,
+      22
+    ],
+    "story": "redbull-2025",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#F4F4F4",
+        "#1B2A5C",
+        "#E3263B"
+      ],
+      "number": "1"
+    },
+    "description": {
+      "lead": "Red Bull RB21 Макса Ферстаппена в масштабе 1:43 — модель длиной около 13 см.",
+      "body": [
+        "Белая ливрея, в которой Red Bull выступила на Гран-при Японии 2025 года — в честь 60 лет первой победы Honda в Формуле 1.",
+        "Литая модель: металлический корпус и пластиковые аэродинамические детали. Удобный размер, чтобы собрать на одной полке весь пелотон сезона."
+      ],
+      "inBox": [
+        "Модель Red Bull RB21, масштаб 1:43",
+        "Заводская коробка"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Пилот",
+        "value": "Макс Ферстаппен, #1"
+      },
+      {
+        "label": "Сезон",
+        "value": "2025"
+      },
+      {
+        "label": "Ливрея",
+        "value": "белая, ГП Японии"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+, коллекционная модель"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Red Bull RB21 Ферстаппен 1:43 — белая, ГП Японии",
+      "description": "Литая модель Red Bull RB21 Макса Ферстаппена, сезон 2025, масштаб 1:43, белая, ГП Японии. Доставка по России."
     }
   }
 ]

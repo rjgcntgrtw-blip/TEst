@@ -1,0 +1,18 @@
+{
+  "lot": "https://aliexpress.ru/item/1005010633502926.html",
+  "variant": "1-24 2025 AMR25-18",
+  "cost_rub": 2401,
+  "orders": 78,
+  "rating": 4.9,
+  "backup": [
+    {
+      "lot": "https://aliexpress.ru/item/1005009397158416.html",
+      "cost_rub": 2430
+    },
+    {
+      "lot": "https://aliexpress.ru/item/1005009081001375.html",
+      "cost_rub": 2522
+    }
+  ],
+  "checked": "2026-09-25"
+}

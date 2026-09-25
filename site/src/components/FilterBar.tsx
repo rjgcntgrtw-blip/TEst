@@ -57,7 +57,7 @@ export default function FilterBar({ filters, onChange, count }: Props) {
     <div ref={ref} className="flex flex-col items-center gap-3">
       <div className="no-scrollbar flex max-w-full items-center gap-1.5 overflow-x-auto px-3 md:gap-3">
         <Pill active={filters.category === "merch"} onClick={() => toggleCategory("merch")}>
-          Одежда
+          Мерч
         </Pill>
         <Pill active={filters.category === "model"} onClick={() => toggleCategory("model")}>
           Модели

@@ -1,5 +1,6 @@
 // Команды, истории сезонов и фильтры. Сами товары лежат в content/products/.
 import productsData from "./products.json";
+import storiesData from "./stories.json";
 
 export type TeamId =
   | "redbull"
@@ -39,7 +40,7 @@ export const teamById = (id: TeamId) => TEAMS.find((t) => t.id === id)!;
 
 export type Category = "model" | "merch";
 export type ModelKind = "ready" | "kit";
-export type MerchKind = "tshirt" | "sweatshirt" | "cap";
+export type MerchKind = "tshirt" | "sweatshirt" | "cap" | "poster";
 
 export const SUBFILTERS: Record<Category, { id: ModelKind | MerchKind; label: string }[]> = {
   model: [
@@ -50,10 +51,11 @@ export const SUBFILTERS: Record<Category, { id: ModelKind | MerchKind; label: st
     { id: "tshirt", label: "Футболки" },
     { id: "sweatshirt", label: "Кофты" },
     { id: "cap", label: "Кепки" },
+    { id: "poster", label: "Постеры" },
   ],
 };
 
-export type ArtType = "car" | "kit" | "tshirt" | "hoodie" | "cap" | "case";
+export type ArtType = "car" | "kit" | "tshirt" | "hoodie" | "cap" | "case" | "poster";
 
 export type Art = {
   type: ArtType;
@@ -107,10 +109,12 @@ export type Product = {
   colors?: ColorOption[];
   sizes?: string[];
   sizeChart?: SizeChart;
+  /** Цена по размерам (постеры). Тогда price — минимальная, на карточке «от». */
+  sizePrices?: Record<string, number>;
   images?: ProductImages;
 };
 
-export const STORIES: Record<string, Story> = {
+const BASE_STORIES: Record<string, Story> = {
   "redbull-2023": {
     heading: "Сезон 2023",
     steps: [
@@ -233,6 +237,9 @@ export const STORIES: Record<string, Story> = {
   },
 };
 
+// Истории сезонов и машин: базовые — выше, остальные — в stories.json.
+export const STORIES: Record<string, Story> = { ...BASE_STORIES, ...(storiesData as unknown as Record<string, Story>) };
+
 // Товары собираются из content/products/*/product.json командой `npm run catalog`.
 export const PRODUCTS = productsData as unknown as Product[];
 
@@ -265,3 +272,7 @@ export const replicaNote = (product: Product) => REPLICA_NOTES[product.category]
 
 export const formatPrice = (value: number) =>
   new Intl.NumberFormat("ru-RU").format(value) + " ₽";
+
+/** Цена для карточки: у товаров с ценой по размерам — «от …». */
+export const priceLabel = (product: Product) =>
+  (product.sizePrices ? "от " : "") + formatPrice(product.price);

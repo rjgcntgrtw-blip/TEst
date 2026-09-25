@@ -4,7 +4,7 @@ import { useState } from "react";
 import { createPortal } from "react-dom";
 import { AnimatePresence, motion } from "motion/react";
 import { Package, Ruler, ShoppingBag, Truck, X } from "lucide-react";
-import { formatPrice, replicaNote, type Product } from "@/data/catalog";
+import { formatPrice, priceLabel, replicaNote, type Product } from "@/data/catalog";
 
 export type CartOptions = { size?: string; color?: string };
 
@@ -24,6 +24,7 @@ export default function BuyBox({
   const [color, setColor] = useState<string | undefined>(colors[0]?.id);
   const [details, setDetails] = useState<"about" | "sizes" | null>(null);
   const needsSize = sizes.length > 1 && !size;
+  const sizePrice = size && product.sizePrices?.[size];
 
   return (
     <div className="flex flex-col gap-3">
@@ -82,7 +83,13 @@ export default function BuyBox({
         className="flex h-12 cursor-pointer items-center justify-center gap-2 rounded-full bg-paper-ink px-6 text-sm font-semibold text-white transition-transform hover:scale-[1.02] active:scale-[0.98] disabled:cursor-default disabled:bg-black/25 disabled:hover:scale-100"
       >
         <ShoppingBag className="size-4" />
-        {needsSize ? "Выбери размер" : compact ? `В корзину · ${product.delivery[0]}–${product.delivery[1]} дней` : "В корзину"}
+        {needsSize
+          ? "Выбери размер"
+          : sizePrice
+            ? `В корзину · ${formatPrice(sizePrice)}`
+            : compact
+              ? `В корзину · ${product.delivery[0]}–${product.delivery[1]} дней`
+              : "В корзину"}
       </button>
 
       <button
@@ -150,7 +157,7 @@ function ProductDetails({ product, open, onClose }: { product: Product; open: "a
                         {p}
                       </p>
                     ))}
-                    <p className="font-display text-2xl">{formatPrice(product.price)}</p>
+                    <p className="font-display text-2xl">{priceLabel(product)}</p>
                   </section>
 
                   {product.description.inBox.length > 0 && (

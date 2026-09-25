@@ -18,6 +18,7 @@ const VIEWS: Record<Art["type"], string[]> = {
   hoodie: ["0 0 400 400", "110 130 180 180", "0 0 400 400"],
   cap: ["0 0 400 300", "60 40 220 170", "0 0 400 300"],
   case: ["0 0 400 300", "60 90 280 170", "0 0 400 300"],
+  poster: ["0 0 400 400", "90 110 220 180", "0 0 400 400"],
 };
 
 export const viewCount = (art: Art) => VIEWS[art.type].length;
@@ -42,6 +43,7 @@ export default function ProductArt({ art, view = 0, className, title }: Props) {
       {art.type === "hoodie" && <Hoodie c1={c1} c2={c2} c3={c3} print={art.print} back={back} />}
       {art.type === "cap" && <Cap c1={c1} c2={c2} c3={c3} />}
       {art.type === "case" && <Case c1={c1} c2={c2} />}
+      {art.type === "poster" && <Poster c1={c1} c2={c2} c3={c3} print={art.print} number={art.number} />}
     </svg>
   );
 }
@@ -193,6 +195,24 @@ function Cap({ c1, c2, c3 }: C) {
       <path d="M92 196 L318 196" stroke={c2} strokeWidth="10" />
       <circle cx="214" cy="72" r="7" fill={c2} />
       <path d="M150 150 L250 150" stroke={c3} strokeWidth="6" strokeLinecap="round" opacity="0.9" />
+    </g>
+  );
+}
+
+function Poster({ c1, c2, c3, print, number }: C & { print?: string; number?: string }) {
+  // Заглушка постера: холст с болидом в цветах машины и подписью.
+  return (
+    <g>
+      <ellipse cx="200" cy="378" rx="120" ry="7" fill="#000" opacity="0.18" />
+      <rect x="84" y="24" width="232" height="344" rx="4" fill="#F4F1EA" stroke="#0b0b0d" strokeOpacity="0.12" />
+      <rect x="100" y="40" width="200" height="250" fill={c2} opacity="0.18" />
+      <g transform="translate(106 128) scale(0.295)">
+        <Car c1={c1} c2={c2} c3={c3} number={number} />
+      </g>
+      <text x="200" y="322" textAnchor="middle" fontSize="20" fontWeight="900" fill="#0b0b0d" fontFamily="Arial Narrow, Arial, sans-serif">
+        {print}
+      </text>
+      <rect x="160" y="336" width="80" height="4" rx="2" fill={c1} />
     </g>
   );
 }

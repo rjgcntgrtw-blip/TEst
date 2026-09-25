@@ -17,7 +17,7 @@ import {
   EMPTY_FILTERS,
   STORIES,
   applyFilters,
-  formatPrice,
+  priceLabel,
   teamById,
   type Filters,
   type Product,
@@ -343,7 +343,7 @@ export default function Stage({ initialSlug, onAdd }: Props) {
             <div className="min-w-0 text-center">
               <p className="truncate font-display text-xl uppercase tracking-wide md:text-2xl">{current.title}</p>
               <p className="text-sm text-ink/60">
-                {current.subtitle} · {formatPrice(current.price)}
+                {current.subtitle} · {priceLabel(current)}
               </p>
             </div>
             <NavButton label="Следующий товар" disabled={active >= items.length - 1} onClick={() => rotate(1)}>
@@ -513,7 +513,7 @@ function ArcItem({
     <motion.button
       type="button"
       onClick={onClick}
-      aria-label={`${product.title}, ${formatPrice(product.price)}`}
+      aria-label={`${product.title}, ${priceLabel(product)}`}
       tabIndex={offset === 0 ? 0 : -1}
       className="absolute cursor-pointer outline-none"
       style={{
@@ -576,7 +576,7 @@ function ProductInfo({ product, onAdd }: { product: Product; onAdd: (p: Product,
         <h2 className="font-display text-4xl font-bold uppercase leading-[0.95] lg:text-5xl">{product.title}</h2>
         <p className="mt-2 text-paper-muted">{product.subtitle}</p>
       </div>
-      <p className="font-display text-3xl">{formatPrice(product.price)}</p>
+      <p className="font-display text-3xl">{priceLabel(product)}</p>
       <p className="text-sm leading-relaxed text-paper-ink/80">{product.description.lead}</p>
       <ul className="flex flex-col gap-1.5 text-sm">
         {product.scale && (
@@ -665,7 +665,7 @@ function MobileDetail({
             {product.scale ? ` · ${product.scale}` : ""}
           </p>
         </div>
-        <p className="shrink-0 font-display text-2xl">{formatPrice(product.price)}</p>
+        <p className="shrink-0 font-display text-2xl">{priceLabel(product)}</p>
       </div>
       <div className={`rounded-2xl bg-black/[0.04] ${compactStory ? "px-4 py-3" : "p-4"}`}>
         <div className="flex items-center justify-between text-xs font-semibold uppercase tracking-[0.2em] text-paper-muted">
