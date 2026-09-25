@@ -119,6 +119,7 @@ function KitBox({ c1, c2, c3, number }: C & { number?: string }) {
 }
 
 function Tee({ c1, c2, c3, print, back }: C & { print?: string; back?: boolean }) {
+  // Заглушка в стиле командной формы: кокетка и боковые полосы цвета команды, номер и абстрактные плашки спонсоров.
   return (
     <g>
       <ellipse cx="200" cy="378" rx="130" ry="8" fill="#000" opacity="0.2" />
@@ -126,23 +127,27 @@ function Tee({ c1, c2, c3, print, back }: C & { print?: string; back?: boolean }
         d="M140 40 C160 58 240 58 260 40 L350 82 L322 150 L292 138 L292 364 L108 364 L108 138 L78 150 L50 82 Z"
         fill={c1}
       />
-      <path d="M140 40 C160 62 240 62 260 40" fill="none" stroke={c3} strokeWidth="5" opacity="0.5" />
+      <path d="M140 40 C160 58 240 58 260 40 L350 82 L338 112 L262 84 L138 84 L62 112 L50 82 Z" fill={c2} />
+      <rect x="108" y="150" width="12" height="214" fill={c2} />
+      <rect x="280" y="150" width="12" height="214" fill={c2} />
+      <path d="M140 40 C160 62 240 62 260 40" fill="none" stroke={c3} strokeWidth="5" opacity="0.6" />
       {!back ? (
-        <g>
-          {[0, 1, 2, 3, 4].map((i) => (
-            <circle key={i} cx={152 + i * 24} cy="170" r="9" fill={c2} />
-          ))}
-          <text x="200" y="222" textAnchor="middle" fontSize="30" fontWeight="900" fill={c3} fontFamily="Arial Narrow, Arial, sans-serif">
+        <g fill={c3}>
+          <rect x="136" y="118" width="34" height="22" rx="4" />
+          <text x="252" y="140" textAnchor="middle" fontSize="28" fontWeight="900" fontFamily="Arial Narrow, Arial, sans-serif">
             {print}
           </text>
-          <text x="200" y="248" textAnchor="middle" fontSize="12" letterSpacing="4" fill={c3} opacity="0.7" fontFamily="Arial, sans-serif">
-            AND AWAY WE GO
-          </text>
+          <rect x="140" y="182" width="120" height="16" rx="3" opacity="0.9" />
+          <rect x="160" y="210" width="80" height="10" rx="3" opacity="0.6" />
+          <rect x="170" y="230" width="60" height="10" rx="3" opacity="0.6" />
         </g>
       ) : (
-        <text x="200" y="190" textAnchor="middle" fontSize="40" fontWeight="900" fill={c3} fontFamily="Arial Narrow, Arial, sans-serif">
-          TMFF
-        </text>
+        <g fill={c3}>
+          <rect x="150" y="104" width="100" height="14" rx="3" opacity="0.8" />
+          <text x="200" y="230" textAnchor="middle" fontSize="96" fontWeight="900" fontFamily="Arial Narrow, Arial, sans-serif">
+            {print}
+          </text>
+        </g>
       )}
     </g>
   );
@@ -156,13 +161,25 @@ function Hoodie({ c1, c2, c3, print, back }: C & { print?: string; back?: boolea
         d="M150 60 C150 22 250 22 250 60 L346 104 L330 330 L296 330 L292 370 L108 370 L104 330 L70 330 L54 104 Z"
         fill={c1}
       />
+      <path d="M346 104 L330 330 L312 330 L326 100 Z M54 104 L70 330 L88 330 L74 100 Z" fill={c2} />
       <path d="M156 64 C170 100 230 100 244 64" fill="none" stroke="#000" strokeWidth="6" opacity="0.35" />
-      <line x1="186" y1="96" x2="182" y2="150" stroke={c3} strokeWidth="3" />
-      <line x1="214" y1="96" x2="218" y2="150" stroke={c3} strokeWidth="3" />
-      <rect x="140" y="270" width="120" height="50" rx="10" fill="#000" opacity="0.18" />
-      <text x="200" y={back ? 200 : 214} textAnchor="middle" fontSize={back ? 44 : 34} fontWeight="900" fill={back ? c3 : c2} fontFamily="Arial Narrow, Arial, sans-serif">
-        {back ? "TMFF" : print}
-      </text>
+      {!back && (
+        <g>
+          <line x1="186" y1="96" x2="182" y2="150" stroke={c3} strokeWidth="3" />
+          <line x1="214" y1="96" x2="218" y2="150" stroke={c3} strokeWidth="3" />
+          <rect x="140" y="270" width="120" height="50" rx="10" fill="#000" opacity="0.18" />
+          <rect x="124" y="160" width="34" height="22" rx="4" fill={c3} />
+          <text x="256" y="182" textAnchor="middle" fontSize="28" fontWeight="900" fill={c2} fontFamily="Arial Narrow, Arial, sans-serif">
+            {print}
+          </text>
+          <rect x="146" y="206" width="108" height="14" rx="3" fill={c3} opacity="0.85" />
+        </g>
+      )}
+      {back && (
+        <text x="200" y="250" textAnchor="middle" fontSize="96" fontWeight="900" fill={c2} fontFamily="Arial Narrow, Arial, sans-serif">
+          {print}
+        </text>
+      )}
     </g>
   );
 }

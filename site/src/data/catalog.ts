@@ -231,47 +231,6 @@ export const STORIES: Record<string, Story> = {
       },
     ],
   },
-  "tmff-lights": {
-    heading: "TMFF Original",
-    steps: [
-      {
-        label: "Идея",
-        title: "Lights out",
-        text: "Пять красных огней загораются по одному и гаснут вместе — так стартует каждая гонка Формулы 1.",
-      },
-      {
-        label: "Фраза",
-        title: "And away we go",
-        text: "«It's lights out and away we go!» — фраза комментаторов, которую знает каждый фанат.",
-      },
-      {
-        label: "Вещь",
-        title: "Своя коллекция",
-        text: "Собственный дизайн TMFF: без чужих логотипов, плотный хлопок, печать, которая не трескается.",
-      },
-    ],
-  },
-  "tmff-boxbox": {
-    heading: "TMFF Original",
-    steps: [
-      {
-        label: "Идея",
-        title: "Box, box",
-        text: "Команда по радио, которая зовёт пилота на пит-стоп. Самые нервные две секунды гонки.",
-      },
-      {
-        label: "Дизайн",
-        title: "Для своих",
-        text: "Поймут только те, кто смотрит гонки. Остальные спросят — и тоже начнут смотреть.",
-      },
-      {
-        label: "Вещь",
-        title: "Тёплое худи",
-        text: "Худи оверсайз с капюшоном, принт на груди и спине.",
-      },
-    ],
-  },
-
 };
 
 // Товары собираются из content/products/*/product.json командой `npm run catalog`.
@@ -296,8 +255,13 @@ export function applyFilters(filters: Filters, skip?: keyof Filters): Product[] 
   ).sort((a, b) => b.popularity - a.popularity);
 }
 
-export const REPLICA_NOTE =
-  "Реплика. Конструктор не выпущен компанией LEGO и не лицензирован командой. Совместимость с деталями других производителей не гарантируется.";
+const REPLICA_NOTES: Record<Category, string> = {
+  model:
+    "Реплика. Конструктор не выпущен компанией LEGO и не лицензирован командой. Совместимость с деталями других производителей не гарантируется.",
+  merch: "Реплика в стиле командной формы. Вещь не выпущена командой и не лицензирована ею.",
+};
+
+export const replicaNote = (product: Product) => REPLICA_NOTES[product.category];
 
 export const formatPrice = (value: number) =>
   new Intl.NumberFormat("ru-RU").format(value) + " ₽";

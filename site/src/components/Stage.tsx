@@ -592,7 +592,7 @@ function ProductInfo({ product, onAdd }: { product: Product; onAdd: (p: Product,
         {product.replica && (
           <li className="flex items-start gap-2">
             <span className="shrink-0 rounded-full bg-paper-ink px-2 py-0.5 text-xs font-semibold text-white">Реплика</span>
-            <span className="text-paper-muted">не LEGO и не лицензия команды</span>
+            <span className="text-paper-muted">{product.category === "model" ? "не LEGO и не лицензия команды" : "не лицензия команды"}</span>
           </li>
         )}
         <li className="flex items-center gap-2">
