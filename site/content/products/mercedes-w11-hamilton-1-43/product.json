@@ -1,0 +1,81 @@
+{
+  "slug": "mercedes-w11-hamilton-1-43",
+  "status": "placeholder",
+  "title": "Mercedes W11",
+  "subtitle": "Льюис Хэмилтон · 2020",
+  "category": "model",
+  "kind": "ready",
+  "team": "mercedes",
+  "year": 2020,
+  "driver": "Льюис Хэмилтон",
+  "scale": "1:43",
+  "brand": "Bburago",
+  "licensed": true,
+  "price": 2290,
+  "oldPrice": null,
+  "popularity": 90,
+  "delivery": [
+    12,
+    20
+  ],
+  "story": "mercedes-2020",
+  "art": {
+    "type": "car",
+    "colors": [
+      "#1A1A1D",
+      "#00C8B4",
+      "#C9CDD2"
+    ],
+    "number": "44"
+  },
+  "description": {
+    "lead": "Чёрная Mercedes, на которой Льюис Хэмилтон взял седьмой титул и обошёл Шумахера по числу побед.",
+    "body": [
+      "Литая модель Bburago в масштабе 1:43 — около 13 см в длину, в чёрной ливрее сезона 2020.",
+      "Корпус из металла, мелкие детали из пластика. Официальная лицензия команды."
+    ],
+    "inBox": [
+      "Модель Mercedes W11, масштаб 1:43",
+      "Заводская коробка Bburago"
+    ]
+  },
+  "specs": [
+    {
+      "label": "Масштаб",
+      "value": "1:43"
+    },
+    {
+      "label": "Длина",
+      "value": "≈ 13 см"
+    },
+    {
+      "label": "Материал",
+      "value": "металл (diecast) и пластик"
+    },
+    {
+      "label": "Производитель",
+      "value": "Bburago"
+    },
+    {
+      "label": "Лицензия",
+      "value": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+      "label": "Возраст",
+      "value": "14+"
+    },
+    {
+      "label": "Упаковка",
+      "value": "заводская коробка"
+    }
+  ],
+  "seo": {
+    "title": "Модель Mercedes W11 Хэмилтон 1:43 Bburago",
+    "description": "Литая модель Mercedes W11 Льюиса Хэмилтона, сезон 2020, масштаб 1:43. Болид седьмого титула. Доставка по России."
+  },
+  "verify": [
+    "Страна производства",
+    "Комплектация (подставка, бокс)",
+    "Длина — по карточке продавца"
+  ]
+}

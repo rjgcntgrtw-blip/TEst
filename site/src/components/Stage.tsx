@@ -12,7 +12,7 @@ import {
   useTransform,
   type MotionValue,
 } from "motion/react";
-import { ArrowLeft, ChevronDown, ChevronLeft, ChevronRight, ShieldCheck, ShoppingBag, Truck } from "lucide-react";
+import { ArrowLeft, ChevronDown, ChevronLeft, ChevronRight, ShieldCheck, Truck } from "lucide-react";
 import {
   EMPTY_FILTERS,
   STORIES,
@@ -24,7 +24,8 @@ import {
 } from "@/data/catalog";
 import FilterBar from "./FilterBar";
 import Gallery from "./Gallery";
-import ProductArt from "./ProductArt";
+import BuyBox, { type CartOptions } from "./BuyBox";
+import ProductVisual from "./ProductVisual";
 
 /** Сколько товаров рисуем с каждой стороны от центрального — остальные не создаются. */
 const VISIBLE = 4;
@@ -94,7 +95,7 @@ function useGeometry(): Geometry {
 
 type Props = {
   initialSlug?: string;
-  onAdd: (product: Product) => void;
+  onAdd: (product: Product, options: CartOptions) => void;
 };
 
 export default function Stage({ initialSlug, onAdd }: Props) {
@@ -440,7 +441,7 @@ export default function Stage({ initialSlug, onAdd }: Props) {
                       i === active ? "bg-white shadow ring-2 ring-paper-ink" : "opacity-40 grayscale"
                     }`}
                   >
-                    <ProductArt art={p.art} className="h-full w-full" />
+                    <ProductVisual product={p} thumb sizes="48px" />
                   </span>
                 ),
               )}
@@ -529,7 +530,12 @@ function ArcItem({
         zIndex: 10 - Math.abs(offset),
       }}
     >
-      <ProductArt art={product.art} className="pointer-events-none h-full w-full drop-shadow-[0_16px_14px_rgba(0,0,0,0.45)]" />
+      <ProductVisual
+        product={product}
+        sizes="(max-width: 767px) 60vw, 380px"
+        priority={Math.abs(offset) <= 1}
+        className="pointer-events-none drop-shadow-[0_16px_14px_rgba(0,0,0,0.45)]"
+      />
     </motion.button>
   );
 }
@@ -558,10 +564,10 @@ function NavButton({
   );
 }
 
-function ProductInfo({ product, onAdd }: { product: Product; onAdd: (p: Product) => void }) {
+function ProductInfo({ product, onAdd }: { product: Product; onAdd: (p: Product, o: CartOptions) => void }) {
   const team = product.team ? teamById(product.team) : null;
   return (
-    <div className="flex flex-col gap-5">
+    <div className="flex flex-col gap-4">
       <div className="flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.2em] text-paper-muted">
         {team && <span className="size-2.5 rounded-full" style={{ background: team.colors[0] }} />}
         {team ? team.name : product.brand} · {product.year}
@@ -571,17 +577,13 @@ function ProductInfo({ product, onAdd }: { product: Product; onAdd: (p: Product)
         <p className="mt-2 text-paper-muted">{product.subtitle}</p>
       </div>
       <p className="font-display text-3xl">{formatPrice(product.price)}</p>
-      <dl className="grid grid-cols-2 gap-x-4 gap-y-2 text-sm">
+      <p className="text-sm leading-relaxed text-paper-ink/80">{product.description.lead}</p>
+      <ul className="flex flex-col gap-1.5 text-sm">
         {product.scale && (
-          <>
-            <dt className="text-paper-muted">Масштаб</dt>
-            <dd>{product.scale}</dd>
-          </>
+          <li className="text-paper-muted">
+            Масштаб <span className="text-paper-ink">{product.scale}</span> · {product.brand}
+          </li>
         )}
-        <dt className="text-paper-muted">Производитель</dt>
-        <dd>{product.brand}</dd>
-      </dl>
-      <ul className="flex flex-col gap-2 text-sm">
         {product.licensed && (
           <li className="flex items-center gap-2">
             <ShieldCheck className="size-4" /> Официальная лицензия
@@ -591,13 +593,7 @@ function ProductInfo({ product, onAdd }: { product: Product; onAdd: (p: Product)
           <Truck className="size-4" /> Доставка {product.delivery[0]}–{product.delivery[1]} дней
         </li>
       </ul>
-      <button
-        type="button"
-        onClick={() => onAdd(product)}
-        className="flex h-12 cursor-pointer items-center justify-center gap-2 rounded-full bg-paper-ink px-6 text-sm font-semibold text-white transition-transform hover:scale-[1.02] active:scale-[0.98]"
-      >
-        <ShoppingBag className="size-4" /> В корзину
-      </button>
+      <BuyBox key={product.slug} product={product} onAdd={onAdd} />
     </div>
   );
 }
@@ -639,18 +635,24 @@ function MobileDetail({
   step: number;
   opacity: MotionValue<number>;
   interactive: boolean;
-  onAdd: (p: Product) => void;
+  onAdd: (p: Product, o: CartOptions) => void;
 }) {
   const story = STORIES[product.story];
   const s = story.steps[step];
+  // У одежды внизу ещё выбор размера — историю сезона показываем одной строкой, чтобы не наезжать на фото.
+  const compactStory = (product.sizes?.length ?? 0) > 1;
   return (
     <motion.div
-      className="absolute bottom-0 left-0 right-0 z-20 flex flex-col gap-4 px-5 pb-6 text-paper-ink"
+      className="absolute bottom-0 left-0 right-0 z-20 flex flex-col gap-3 px-5 pb-5 text-paper-ink"
       style={{ opacity, pointerEvents: interactive ? "auto" : "none" }}
     >
       <div className="flex items-end justify-between gap-4">
         <div className="min-w-0">
-          <h2 className="font-display text-3xl font-bold uppercase leading-none">{product.title}</h2>
+          <h2
+            className={`font-display font-bold uppercase leading-none ${product.title.length > 16 ? "text-2xl" : "text-3xl"}`}
+          >
+            {product.title}
+          </h2>
           <p className="mt-1 truncate text-sm text-paper-muted">
             {product.subtitle}
             {product.scale ? ` · ${product.scale}` : ""}
@@ -658,7 +660,7 @@ function MobileDetail({
         </div>
         <p className="shrink-0 font-display text-2xl">{formatPrice(product.price)}</p>
       </div>
-      <div className="rounded-2xl bg-black/[0.04] p-4">
+      <div className={`rounded-2xl bg-black/[0.04] ${compactStory ? "px-4 py-3" : "p-4"}`}>
         <div className="flex items-center justify-between text-xs font-semibold uppercase tracking-[0.2em] text-paper-muted">
           <span>
             {story.heading} · {s.label}
@@ -677,18 +679,12 @@ function MobileDetail({
             exit={{ opacity: 0, y: -10 }}
             transition={{ duration: 0.24 }}
           >
-            <h3 className="mt-2 font-display text-xl font-bold uppercase">{s.title}</h3>
-            <p className="mt-1 text-sm leading-relaxed text-paper-ink/80">{s.text}</p>
+            <h3 className={`font-display font-bold uppercase ${compactStory ? "mt-1 text-base" : "mt-2 text-xl"}`}>{s.title}</h3>
+            {!compactStory && <p className="mt-1 text-sm leading-relaxed text-paper-ink/80">{s.text}</p>}
           </motion.div>
         </AnimatePresence>
       </div>
-      <button
-        type="button"
-        onClick={() => onAdd(product)}
-        className="flex h-12 cursor-pointer items-center justify-center gap-2 rounded-full bg-paper-ink text-sm font-semibold text-white active:scale-[0.98]"
-      >
-        <ShoppingBag className="size-4" /> В корзину · {product.delivery[0]}–{product.delivery[1]} дней
-      </button>
+      <BuyBox key={product.slug} product={product} onAdd={onAdd} compact />
     </motion.div>
   );
 }

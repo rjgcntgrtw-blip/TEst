@@ -5,6 +5,7 @@ import Link from "next/link";
 import { AnimatePresence, motion, useReducedMotion } from "motion/react";
 import { Search, ShoppingBag } from "lucide-react";
 import type { Product } from "@/data/catalog";
+import type { CartOptions } from "./BuyBox";
 import Hero from "./Hero";
 import Stage from "./Stage";
 
@@ -14,9 +15,9 @@ export default function Shop({ initialSlug }: { initialSlug?: string }) {
   const [toast, setToast] = useState<string | null>(null);
   const toastTimer = useRef<ReturnType<typeof setTimeout>>(undefined);
 
-  const add = (product: Product) => {
+  const add = (product: Product, options: CartOptions = {}) => {
     setCart((c) => [...c, product]);
-    setToast(`«${product.title}» в корзине`);
+    setToast(`«${product.title}»${options.size && product.sizes && product.sizes.length > 1 ? `, ${options.size}` : ""} в корзине`);
     clearTimeout(toastTimer.current);
     toastTimer.current = setTimeout(() => setToast(null), 2200);
   };
@@ -63,7 +64,7 @@ export default function Shop({ initialSlug }: { initialSlug?: string }) {
             <div>
               <p className="font-display text-4xl font-bold">TMFF</p>
               <p className="mt-2 max-w-sm text-sm text-paper-muted">
-                Прототип главной страницы. Товары, цены и фото — заглушки.
+                Прототип. Товары и цены — примеры, вместо фото — 3D-макеты. Реальные фото пройдут ту же обработку.
               </p>
             </div>
             <ul className="grid grid-cols-2 gap-x-10 gap-y-2 text-sm text-paper-muted">

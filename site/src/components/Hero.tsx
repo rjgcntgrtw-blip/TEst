@@ -2,7 +2,7 @@
 
 import { motion, useReducedMotion } from "motion/react";
 import { ArrowDown } from "lucide-react";
-import { Car } from "./ProductArt";
+import Image from "next/image";
 
 const LETTERS = ["T", "M", "F", "F"];
 const DRIVERS = ["Verstappen", "Leclerc", "Norris", "Hamilton", "Piastri", "Russell"];
@@ -100,11 +100,18 @@ export default function Hero({ onEnter }: { onEnter: () => void }) {
         initial={reduce ? false : { x: "-18vw", opacity: 0, filter: "blur(14px)" }}
         animate={{ x: 0, opacity: 1, filter: "blur(0px)" }}
         transition={{ delay: LIGHTS_OUT, duration: 0.9, ease: [0.16, 1, 0.3, 1] }}
-        className="absolute top-[56%] left-1/2 z-20 w-[min(92vw,980px)] -translate-x-1/2 md:top-[54%]"
+        className="absolute top-[52%] left-1/2 z-20 w-[min(96vw,900px)] -translate-x-1/2 md:top-[50%]"
       >
-        <svg viewBox="0 20 640 190" className="w-full drop-shadow-[0_30px_40px_rgba(0,0,0,0.6)]">
-          <Car c1="#15161b" c2="#2e3038" c3="#d7ff3c" number="26" />
-        </svg>
+        {/* Заглушка: 3D-рендер. Заменить на картинку болида из Higgsfield (3/4 спереди, без фона). */}
+        <Image
+          src="/hero-car.webp"
+          alt=""
+          width={1193}
+          height={444}
+          priority
+          sizes="(max-width: 767px) 96vw, 900px"
+          className="h-auto w-full drop-shadow-[0_30px_40px_rgba(0,0,0,0.6)]"
+        />
       </motion.div>
 
       {/* низ экрана */}

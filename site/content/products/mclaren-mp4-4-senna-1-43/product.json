@@ -1,0 +1,74 @@
+{
+  "slug": "mclaren-mp4-4-senna-1-43",
+  "status": "placeholder",
+  "title": "McLaren MP4/4",
+  "subtitle": "Айртон Сенна · 1988",
+  "category": "model",
+  "kind": "ready",
+  "team": "mclaren",
+  "year": 1988,
+  "driver": "Айртон Сенна",
+  "scale": "1:43",
+  "brand": "Minichamps",
+  "licensed": true,
+  "price": 8990,
+  "oldPrice": null,
+  "popularity": 88,
+  "delivery": [
+    14,
+    24
+  ],
+  "story": "mclaren-1988",
+  "art": {
+    "type": "car",
+    "colors": [
+      "#F4F4F4",
+      "#E4002B",
+      "#F2C200"
+    ],
+    "number": "12"
+  },
+  "description": {
+    "lead": "Легенда: 15 побед в 16 гонках и первый чемпионский титул Айртона Сенны.",
+    "body": [
+      "Коллекционная модель Minichamps в масштабе 1:43 — около 10 см в длину. Для тех, кто собирает историю Формулы 1.",
+      "Высокая детализация, характерная для коллекционной серии Minichamps."
+    ],
+    "inBox": [
+      "Модель McLaren MP4/4, масштаб 1:43",
+      "Заводская упаковка Minichamps"
+    ]
+  },
+  "specs": [
+    {
+      "label": "Масштаб",
+      "value": "1:43"
+    },
+    {
+      "label": "Длина",
+      "value": "≈ 10 см"
+    },
+    {
+      "label": "Производитель",
+      "value": "Minichamps"
+    },
+    {
+      "label": "Возраст",
+      "value": "14+"
+    },
+    {
+      "label": "Упаковка",
+      "value": "заводская"
+    }
+  ],
+  "seo": {
+    "title": "Модель McLaren MP4/4 Сенна 1:43 Minichamps",
+    "description": "Коллекционная модель McLaren MP4/4 Айртона Сенны, сезон 1988, масштаб 1:43, Minichamps. Доставка по России."
+  },
+  "verify": [
+    "Оригинал Minichamps, а не копия",
+    "Материал (металл или смола)",
+    "Комплектация",
+    "Страна производства"
+  ]
+}

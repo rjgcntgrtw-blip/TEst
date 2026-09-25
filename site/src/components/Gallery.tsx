@@ -1,10 +1,13 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import { AnimatePresence, motion } from "motion/react";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight, Package } from "lucide-react";
 import type { Product } from "@/data/catalog";
 import ProductArt, { viewCount } from "./ProductArt";
+
+type Slide = { key: string; src?: string; view?: number; box?: boolean; alt: string };
 
 const slide = {
   enter: (dir: number) => ({ x: dir > 0 ? "55%" : "-55%", opacity: 0 }),
@@ -12,11 +15,29 @@ const slide = {
   exit: (dir: number) => ({ x: dir > 0 ? "-55%" : "55%", opacity: 0 }),
 };
 
+function slidesFor(product: Product): Slide[] {
+  const img = product.images;
+  if (img?.main) {
+    const list: Slide[] = [{ key: "main", src: img.main, alt: product.title }];
+    img.gallery.forEach((src, i) => list.push({ key: `g${i}`, src, alt: `${product.title}, фото ${i + 2}` }));
+    if (img.withBox) list.push({ key: "with-box", src: img.withBox, box: true, alt: `${product.title} и коробка` });
+    if (img.box) list.push({ key: "box", src: img.box, box: true, alt: `Коробка ${product.title}` });
+    return list;
+  }
+  return Array.from({ length: viewCount(product.art) }, (_, i) => ({
+    key: `art${i}`,
+    view: i,
+    alt: `${product.title}, фото ${i + 1}`,
+  }));
+}
+
 /** Фото товара: листаются свайпом, стрелками или точками. */
 export default function Gallery({ product, interactive }: { product: Product; interactive: boolean }) {
+  const slides = slidesFor(product);
   const [[page, dir], setPage] = useState<[number, number]>([0, 0]);
-  const count = viewCount(product.art);
+  const count = slides.length;
   const index = ((page % count) + count) % count;
+  const current = slides[index];
   const paginate = (d: number) => setPage([page + d, d]);
 
   return (
@@ -45,14 +66,25 @@ export default function Gallery({ product, interactive }: { product: Product; in
             className="absolute inset-0 flex cursor-grab items-center justify-center active:cursor-grabbing"
             style={{ touchAction: "pan-y" }}
           >
-            <ProductArt
-              art={product.art}
-              view={index}
-              title={`${product.title}, фото ${index + 1} из ${count}`}
-              className="pointer-events-none h-full w-full"
-            />
+            {current.src ? (
+              <Image
+                src={current.src}
+                alt={current.alt}
+                fill
+                sizes="(max-width: 767px) 90vw, 40vw"
+                draggable={false}
+                className="pointer-events-none object-contain"
+              />
+            ) : (
+              <ProductArt art={product.art} view={current.view} title={current.alt} className="pointer-events-none h-full w-full" />
+            )}
           </motion.div>
         </AnimatePresence>
+        {current.box && (
+          <span className="absolute top-3 left-3 flex items-center gap-1.5 rounded-full bg-paper-ink px-3 py-1.5 text-xs font-semibold text-white">
+            <Package className="size-3.5" /> В этой коробке приедет
+          </span>
+        )}
       </div>
 
       <button
@@ -72,17 +104,21 @@ export default function Gallery({ product, interactive }: { product: Product; in
         <ChevronRight className="size-5" />
       </button>
 
-      <div className="absolute -bottom-7 left-0 right-0 flex justify-center gap-2">
-        {Array.from({ length: count }).map((_, i) => (
+      <div className="absolute -bottom-7 left-0 right-0 flex justify-center gap-1">
+        {slides.map((s, i) => (
           <button
-            key={i}
+            key={s.key}
             type="button"
-            aria-label={`Фото ${i + 1}`}
+            aria-label={s.key === "box" ? "Фото коробки" : s.key === "with-box" ? "Модель с коробкой" : `Фото ${i + 1}`}
             aria-current={i === index}
             onClick={() => setPage([page + (i - index), i > index ? 1 : -1])}
             className="flex size-6 cursor-pointer items-center justify-center"
           >
-            <span className={`block h-1.5 rounded-full transition-all ${i === index ? "w-6 bg-paper-ink" : "w-1.5 bg-black/25"}`} />
+            <span
+              className={`block h-1.5 rounded-full transition-all ${
+                i === index ? "w-6 bg-paper-ink" : s.box ? "w-1.5 bg-accent ring-1 ring-black/30" : "w-1.5 bg-black/25"
+              }`}
+            />
           </button>
         ))}
       </div>

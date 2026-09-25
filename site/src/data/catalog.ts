@@ -1,4 +1,5 @@
-// Прототипные данные: цены, популярность и цвета — заглушки до реального каталога.
+// Команды, истории сезонов и фильтры. Сами товары лежат в content/products/.
+import productsData from "./products.json";
 
 export type TeamId =
   | "redbull"
@@ -38,7 +39,7 @@ export const teamById = (id: TeamId) => TEAMS.find((t) => t.id === id)!;
 
 export type Category = "model" | "merch";
 export type ModelKind = "ready" | "kit";
-export type MerchKind = "tshirt" | "hoodie" | "cap" | "accessory";
+export type MerchKind = "tshirt" | "sweatshirt" | "cap";
 
 export const SUBFILTERS: Record<Category, { id: ModelKind | MerchKind; label: string }[]> = {
   model: [
@@ -47,9 +48,8 @@ export const SUBFILTERS: Record<Category, { id: ModelKind | MerchKind; label: st
   ],
   merch: [
     { id: "tshirt", label: "Футболки" },
-    { id: "hoodie", label: "Худи" },
+    { id: "sweatshirt", label: "Кофты" },
     { id: "cap", label: "Кепки" },
-    { id: "accessory", label: "Аксессуары" },
   ],
 };
 
@@ -66,22 +66,46 @@ export type Art = {
 export type StoryStep = { label: string; title: string; text: string };
 export type Story = { heading: string; steps: [StoryStep, StoryStep, StoryStep] };
 
+export type ProductImages = {
+  /** Главное фото для витрины: модель 3/4 спереди, без фона. */
+  main: string | null;
+  thumb: string | null;
+  gallery: string[];
+  /** Коробка, в которой товар приедет, и кадр «модель + коробка». */
+  box: string | null;
+  withBox: string | null;
+};
+
+export type ColorOption = { id: string; name: string; hex: string };
+export type SizeChart = { columns: string[]; rows: string[][]; note?: string };
+
 export type Product = {
   slug: string;
+  status: "placeholder" | "draft" | "published" | "hidden";
   title: string;
   subtitle: string;
   category: Category;
   kind: ModelKind | MerchKind;
-  team?: TeamId;
+  team?: TeamId | null;
   year: number;
+  driver?: string;
   scale?: string;
   brand: string;
   licensed: boolean;
   price: number;
+  oldPrice?: number | null;
   popularity: number;
   delivery: [number, number];
   art: Art;
   story: string;
+  description: { lead: string; body: string[]; inBox: string[] };
+  specs: { label: string; value: string }[];
+  seo: { title: string; description: string };
+  /** Только для одежды */
+  colors?: ColorOption[];
+  sizes?: string[];
+  sizeChart?: SizeChart;
+  images?: ProductImages;
 };
 
 export const STORIES: Record<string, Story> = {
@@ -245,226 +269,11 @@ export const STORIES: Record<string, Story> = {
       },
     ],
   },
-  "tmff-case": {
-    heading: "Для коллекции",
-    steps: [
-      {
-        label: "Зачем",
-        title: "Без пыли",
-        text: "Пыль — главный враг моделей. В боксе модель остаётся как новая годами.",
-      },
-      {
-        label: "Как",
-        title: "Масштаб 1:43",
-        text: "Прозрачный акрил и чёрное основание — модель видно со всех сторон.",
-      },
-      {
-        label: "Совет",
-        title: "Витрина сезона",
-        text: "Соберите весь пелотон одного сезона в одинаковых боксах — смотрится как музей.",
-      },
-    ],
-  },
+
 };
 
-export const PRODUCTS: Product[] = [
-  {
-    slug: "red-bull-rb19-verstappen-1-43",
-    title: "Red Bull RB19",
-    subtitle: "Макс Ферстаппен · 2023",
-    category: "model",
-    kind: "ready",
-    team: "redbull",
-    year: 2023,
-    scale: "1:43",
-    brand: "Bburago",
-    licensed: true,
-    price: 2490,
-    popularity: 98,
-    delivery: [12, 20],
-    art: { type: "car", colors: ["#1B2A5C", "#E3263B", "#F2C200"], number: "1" },
-    story: "redbull-2023",
-  },
-  {
-    slug: "mclaren-mcl38-norris-1-43",
-    title: "McLaren MCL38",
-    subtitle: "Ландо Норрис · 2024",
-    category: "model",
-    kind: "ready",
-    team: "mclaren",
-    year: 2024,
-    scale: "1:43",
-    brand: "Bburago",
-    licensed: true,
-    price: 2490,
-    popularity: 97,
-    delivery: [12, 20],
-    art: { type: "car", colors: ["#FF7A00", "#2B2B2E", "#4FC3F7"], number: "4" },
-    story: "mclaren-2024",
-  },
-  {
-    slug: "ferrari-sf-24-leclerc-1-18",
-    title: "Ferrari SF-24",
-    subtitle: "Шарль Леклер · 2024",
-    category: "model",
-    kind: "ready",
-    team: "ferrari",
-    year: 2024,
-    scale: "1:18",
-    brand: "Bburago",
-    licensed: true,
-    price: 7990,
-    popularity: 95,
-    delivery: [14, 22],
-    art: { type: "car", colors: ["#C80000", "#FFD200", "#111111"], number: "16" },
-    story: "ferrari-2024",
-  },
-  {
-    slug: "rastar-red-bull-rb19-1-8",
-    title: "Red Bull RB19 · 1:8",
-    subtitle: "Конструктор, ~2 500 деталей",
-    category: "model",
-    kind: "kit",
-    team: "redbull",
-    year: 2023,
-    scale: "1:8",
-    brand: "Rastar",
-    licensed: true,
-    price: 14990,
-    popularity: 92,
-    delivery: [14, 24],
-    art: { type: "kit", colors: ["#1B2A5C", "#E3263B", "#F2C200"], number: "1" },
-    story: "redbull-2023",
-  },
-  {
-    slug: "mercedes-w11-hamilton-1-43",
-    title: "Mercedes W11",
-    subtitle: "Льюис Хэмилтон · 2020",
-    category: "model",
-    kind: "ready",
-    team: "mercedes",
-    year: 2020,
-    scale: "1:43",
-    brand: "Bburago",
-    licensed: true,
-    price: 2290,
-    popularity: 90,
-    delivery: [12, 20],
-    art: { type: "car", colors: ["#1A1A1D", "#00C8B4", "#C9CDD2"], number: "44" },
-    story: "mercedes-2020",
-  },
-  {
-    slug: "lego-technic-ferrari-sf-24",
-    title: "Ferrari SF-24 Technic",
-    subtitle: "Конструктор · 2024",
-    category: "model",
-    kind: "kit",
-    team: "ferrari",
-    year: 2024,
-    brand: "LEGO",
-    licensed: true,
-    price: 19990,
-    popularity: 89,
-    delivery: [14, 24],
-    art: { type: "kit", colors: ["#C80000", "#FFD200", "#111111"], number: "16" },
-    story: "ferrari-2024",
-  },
-  {
-    slug: "mclaren-mp4-4-senna-1-43",
-    title: "McLaren MP4/4",
-    subtitle: "Айртон Сенна · 1988",
-    category: "model",
-    kind: "ready",
-    team: "mclaren",
-    year: 1988,
-    scale: "1:43",
-    brand: "Minichamps",
-    licensed: true,
-    price: 8990,
-    popularity: 88,
-    delivery: [14, 24],
-    art: { type: "car", colors: ["#F4F4F4", "#E4002B", "#F2C200"], number: "12" },
-    story: "mclaren-1988",
-  },
-  {
-    slug: "ferrari-f2004-schumacher-1-18",
-    title: "Ferrari F2004",
-    subtitle: "Михаэль Шумахер · 2004",
-    category: "model",
-    kind: "ready",
-    team: "ferrari",
-    year: 2004,
-    scale: "1:18",
-    brand: "Bburago",
-    licensed: true,
-    price: 8490,
-    popularity: 85,
-    delivery: [14, 22],
-    art: { type: "car", colors: ["#C80000", "#FFFFFF", "#111111"], number: "1" },
-    story: "ferrari-2004",
-  },
-  {
-    slug: "tmff-tee-lights-out",
-    title: "Футболка «Lights Out»",
-    subtitle: "TMFF Original",
-    category: "merch",
-    kind: "tshirt",
-    year: 2026,
-    brand: "TMFF",
-    licensed: false,
-    price: 2990,
-    popularity: 80,
-    delivery: [10, 18],
-    art: { type: "tshirt", colors: ["#111114", "#E3263B", "#F4F4F4"], print: "LIGHTS OUT" },
-    story: "tmff-lights",
-  },
-  {
-    slug: "mclaren-cap-2024",
-    title: "Кепка McLaren 2024",
-    subtitle: "Официальная лицензия",
-    category: "merch",
-    kind: "cap",
-    team: "mclaren",
-    year: 2024,
-    brand: "McLaren",
-    licensed: true,
-    price: 3990,
-    popularity: 75,
-    delivery: [12, 20],
-    art: { type: "cap", colors: ["#FF7A00", "#2B2B2E", "#FFFFFF"] },
-    story: "mclaren-2024",
-  },
-  {
-    slug: "tmff-hoodie-box-box",
-    title: "Худи «Box Box»",
-    subtitle: "TMFF Original",
-    category: "merch",
-    kind: "hoodie",
-    year: 2026,
-    brand: "TMFF",
-    licensed: false,
-    price: 5490,
-    popularity: 70,
-    delivery: [10, 18],
-    art: { type: "hoodie", colors: ["#2A2D34", "#D7FF3C", "#F4F4F4"], print: "BOX BOX" },
-    story: "tmff-boxbox",
-  },
-  {
-    slug: "acrylic-case-1-43",
-    title: "Акриловый бокс 1:43",
-    subtitle: "Для моделей 1:43",
-    category: "merch",
-    kind: "accessory",
-    year: 2026,
-    brand: "TMFF",
-    licensed: false,
-    price: 990,
-    popularity: 60,
-    delivery: [10, 18],
-    art: { type: "case", colors: ["#1B2A5C", "#E3263B", "#111111"] },
-    story: "tmff-case",
-  },
-];
+// Товары собираются из content/products/*/product.json командой `npm run catalog`.
+export const PRODUCTS = productsData as unknown as Product[];
 
 export type Filters = {
   category: Category | null;

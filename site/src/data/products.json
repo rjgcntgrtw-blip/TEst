@@ -1,0 +1,977 @@
+[
+  {
+    "slug": "ferrari-f2004-schumacher-1-18",
+    "status": "placeholder",
+    "title": "Ferrari F2004",
+    "subtitle": "Михаэль Шумахер · 2004",
+    "category": "model",
+    "kind": "ready",
+    "team": "ferrari",
+    "year": 2004,
+    "driver": "Михаэль Шумахер",
+    "scale": "1:18",
+    "brand": "Bburago",
+    "licensed": true,
+    "price": 8490,
+    "oldPrice": null,
+    "popularity": 85,
+    "delivery": [
+      14,
+      22
+    ],
+    "story": "ferrari-2004",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#C80000",
+        "#FFFFFF",
+        "#111111"
+      ],
+      "number": "1"
+    },
+    "description": {
+      "lead": "Ferrari, на которой Михаэль Шумахер выиграл 13 гонок за сезон и седьмой титул.",
+      "body": [
+        "Масштаб 1:18 — около 25 см в длину. Крупная модель одной из самых успешных машин в истории Формулы 1.",
+        "Литой металлический корпус, аэродинамика из пластика. Официальная лицензия Ferrari."
+      ],
+      "inBox": [
+        "Модель Ferrari F2004, масштаб 1:18",
+        "Заводская коробка Bburago"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:18"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 25 см"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Производитель",
+        "value": "Bburago"
+      },
+      {
+        "label": "Лицензия",
+        "value": "Scuderia Ferrari"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Ferrari F2004 Шумахер 1:18 Bburago",
+      "description": "Литая модель Ferrari F2004 Михаэля Шумахера, сезон 2004, масштаб 1:18. Болид седьмого титула. Доставка по России."
+    },
+    "images": {
+      "main": "/products/ferrari-f2004-schumacher-1-18/main.webp",
+      "thumb": "/products/ferrari-f2004-schumacher-1-18/thumb.webp",
+      "gallery": [
+        "/products/ferrari-f2004-schumacher-1-18/01.webp",
+        "/products/ferrari-f2004-schumacher-1-18/02.webp",
+        "/products/ferrari-f2004-schumacher-1-18/03.webp"
+      ],
+      "box": "/products/ferrari-f2004-schumacher-1-18/box.webp",
+      "withBox": "/products/ferrari-f2004-schumacher-1-18/with-box.webp"
+    }
+  },
+  {
+    "slug": "ferrari-sf-24-leclerc-1-18",
+    "status": "placeholder",
+    "title": "Ferrari SF-24",
+    "subtitle": "Шарль Леклер · 2024",
+    "category": "model",
+    "kind": "ready",
+    "team": "ferrari",
+    "year": 2024,
+    "driver": "Шарль Леклер",
+    "scale": "1:18",
+    "brand": "Bburago",
+    "licensed": true,
+    "price": 7990,
+    "oldPrice": null,
+    "popularity": 95,
+    "delivery": [
+      14,
+      22
+    ],
+    "story": "ferrari-2024",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#C80000",
+        "#FFD200",
+        "#111111"
+      ],
+      "number": "16"
+    },
+    "description": {
+      "lead": "Ferrari, с которой Шарль Леклер выиграл домашний Гран-при Монако — первым из монегасков с 1931 года.",
+      "body": [
+        "Масштаб 1:18 — около 31 см в длину. Крупная модель: на ней хорошо видны антикрылья, подвеска и детали ливреи.",
+        "Литой металлический корпус, аэродинамика из пластика. Официальная лицензия Scuderia Ferrari."
+      ],
+      "inBox": [
+        "Модель Ferrari SF-24, масштаб 1:18",
+        "Заводская коробка Bburago"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:18"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 31 см"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Производитель",
+        "value": "Bburago"
+      },
+      {
+        "label": "Лицензия",
+        "value": "Scuderia Ferrari"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Ferrari SF-24 Леклер 1:18 Bburago",
+      "description": "Литая модель Ferrari SF-24 Шарля Леклера, сезон 2024, масштаб 1:18, около 31 см. Официальная лицензия. Доставка по России."
+    },
+    "images": {
+      "main": "/products/ferrari-sf-24-leclerc-1-18/main.webp",
+      "thumb": "/products/ferrari-sf-24-leclerc-1-18/thumb.webp",
+      "gallery": [
+        "/products/ferrari-sf-24-leclerc-1-18/01.webp",
+        "/products/ferrari-sf-24-leclerc-1-18/02.webp",
+        "/products/ferrari-sf-24-leclerc-1-18/03.webp"
+      ],
+      "box": "/products/ferrari-sf-24-leclerc-1-18/box.webp",
+      "withBox": "/products/ferrari-sf-24-leclerc-1-18/with-box.webp"
+    }
+  },
+  {
+    "slug": "lego-technic-ferrari-sf-24",
+    "status": "placeholder",
+    "title": "Ferrari SF-24 · LEGO Technic",
+    "subtitle": "Набор 42207 · 2024",
+    "category": "model",
+    "kind": "kit",
+    "team": "ferrari",
+    "year": 2024,
+    "driver": "Шарль Леклер",
+    "scale": "≈ 1:8",
+    "brand": "LEGO",
+    "licensed": true,
+    "price": 19990,
+    "oldPrice": null,
+    "popularity": 89,
+    "delivery": [
+      14,
+      24
+    ],
+    "story": "ferrari-2024",
+    "art": {
+      "type": "kit",
+      "colors": [
+        "#C80000",
+        "#FFD200",
+        "#111111"
+      ],
+      "number": "16"
+    },
+    "description": {
+      "lead": "Официальный набор LEGO Technic 42207: 1 361 деталь и болид Ferrari длиной около 61 см.",
+      "body": [
+        "Внутри — рабочее рулевое управление, двухступенчатая коробка передач и регулируемое заднее антикрыло.",
+        "Набор для взрослых фанатов: собирается вдумчиво, а потом занимает на полке место главного экспоната."
+      ],
+      "inBox": [
+        "Детали LEGO Technic (1 361 шт.)",
+        "Инструкция по сборке",
+        "Коробка LEGO"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Набор",
+        "value": "LEGO Technic 42207"
+      },
+      {
+        "label": "Деталей",
+        "value": "1 361"
+      },
+      {
+        "label": "Длина в сборе",
+        "value": "≈ 61 см"
+      },
+      {
+        "label": "Возраст",
+        "value": "18+"
+      },
+      {
+        "label": "Производитель",
+        "value": "LEGO"
+      }
+    ],
+    "seo": {
+      "title": "LEGO Technic Ferrari SF-24 42207",
+      "description": "Оригинальный набор LEGO Technic 42207 Ferrari SF-24: 1 361 деталь, длина около 61 см, для взрослых 18+. Доставка по России."
+    },
+    "images": {
+      "main": "/products/lego-technic-ferrari-sf-24/main.webp",
+      "thumb": "/products/lego-technic-ferrari-sf-24/thumb.webp",
+      "gallery": [
+        "/products/lego-technic-ferrari-sf-24/01.webp",
+        "/products/lego-technic-ferrari-sf-24/02.webp",
+        "/products/lego-technic-ferrari-sf-24/03.webp"
+      ],
+      "box": "/products/lego-technic-ferrari-sf-24/box.webp",
+      "withBox": "/products/lego-technic-ferrari-sf-24/with-box.webp"
+    }
+  },
+  {
+    "slug": "mclaren-cap-2024",
+    "status": "placeholder",
+    "title": "Кепка McLaren 2024",
+    "subtitle": "Официальная лицензия",
+    "category": "merch",
+    "kind": "cap",
+    "team": "mclaren",
+    "year": 2024,
+    "brand": "McLaren",
+    "licensed": true,
+    "price": 3990,
+    "oldPrice": null,
+    "popularity": 75,
+    "delivery": [
+      12,
+      20
+    ],
+    "story": "mclaren-2024",
+    "art": {
+      "type": "cap",
+      "colors": [
+        "#FF7A00",
+        "#2B2B2E",
+        "#FFFFFF"
+      ]
+    },
+    "colors": [
+      {
+        "id": "papaya",
+        "name": "Папайя",
+        "hex": "#FF7A00"
+      }
+    ],
+    "sizes": [
+      "Один размер"
+    ],
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Обхват головы, см"
+      ],
+      "rows": [
+        [
+          "Один размер",
+          "56–60, регулируется"
+        ]
+      ],
+      "note": "Застёжка сзади регулирует обхват."
+    },
+    "description": {
+      "lead": "Кепка в цветах McLaren сезона, когда команда вернула себе Кубок конструкторов.",
+      "body": [
+        "Лицензионная командная кепка: папайя и антрацит, изогнутый козырёк, регулируемая застёжка."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Размер",
+        "value": "один, регулируется"
+      },
+      {
+        "label": "Лицензия",
+        "value": "McLaren Formula 1 Team"
+      }
+    ],
+    "seo": {
+      "title": "Кепка McLaren 2024 — официальная лицензия",
+      "description": "Лицензионная кепка McLaren сезона 2024 в фирменной папайе. Регулируемый размер. Доставка по России."
+    }
+  },
+  {
+    "slug": "mclaren-mcl38-norris-1-43",
+    "status": "placeholder",
+    "title": "McLaren MCL38",
+    "subtitle": "Ландо Норрис · 2024",
+    "category": "model",
+    "kind": "ready",
+    "team": "mclaren",
+    "year": 2024,
+    "driver": "Ландо Норрис",
+    "scale": "1:43",
+    "brand": "Bburago",
+    "licensed": true,
+    "price": 2490,
+    "oldPrice": null,
+    "popularity": 97,
+    "delivery": [
+      12,
+      20
+    ],
+    "story": "mclaren-2024",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#FF7A00",
+        "#2B2B2E",
+        "#4FC3F7"
+      ],
+      "number": "4"
+    },
+    "description": {
+      "lead": "Машина, на которой Ландо Норрис одержал первую победу в карьере, а McLaren впервые с 1998 года выиграла Кубок конструкторов.",
+      "body": [
+        "Литая модель Bburago в масштабе 1:43 — около 13 см в длину, в фирменной папайе McLaren.",
+        "Корпус из металла, мелкие детали из пластика. Официальная лицензия команды."
+      ],
+      "inBox": [
+        "Модель McLaren MCL38, масштаб 1:43",
+        "Заводская коробка Bburago"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Производитель",
+        "value": "Bburago"
+      },
+      {
+        "label": "Лицензия",
+        "value": "McLaren Formula 1 Team"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель McLaren MCL38 Норрис 1:43 Bburago",
+      "description": "Литая модель McLaren MCL38 Ландо Норриса, сезон 2024, масштаб 1:43. Болид, вернувший McLaren Кубок конструкторов. Доставка по России."
+    },
+    "images": {
+      "main": "/products/mclaren-mcl38-norris-1-43/main.webp",
+      "thumb": "/products/mclaren-mcl38-norris-1-43/thumb.webp",
+      "gallery": [
+        "/products/mclaren-mcl38-norris-1-43/01.webp",
+        "/products/mclaren-mcl38-norris-1-43/02.webp",
+        "/products/mclaren-mcl38-norris-1-43/03.webp"
+      ],
+      "box": "/products/mclaren-mcl38-norris-1-43/box.webp",
+      "withBox": "/products/mclaren-mcl38-norris-1-43/with-box.webp"
+    }
+  },
+  {
+    "slug": "mclaren-mp4-4-senna-1-43",
+    "status": "placeholder",
+    "title": "McLaren MP4/4",
+    "subtitle": "Айртон Сенна · 1988",
+    "category": "model",
+    "kind": "ready",
+    "team": "mclaren",
+    "year": 1988,
+    "driver": "Айртон Сенна",
+    "scale": "1:43",
+    "brand": "Minichamps",
+    "licensed": true,
+    "price": 8990,
+    "oldPrice": null,
+    "popularity": 88,
+    "delivery": [
+      14,
+      24
+    ],
+    "story": "mclaren-1988",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#F4F4F4",
+        "#E4002B",
+        "#F2C200"
+      ],
+      "number": "12"
+    },
+    "description": {
+      "lead": "Легенда: 15 побед в 16 гонках и первый чемпионский титул Айртона Сенны.",
+      "body": [
+        "Коллекционная модель Minichamps в масштабе 1:43 — около 10 см в длину. Для тех, кто собирает историю Формулы 1.",
+        "Высокая детализация, характерная для коллекционной серии Minichamps."
+      ],
+      "inBox": [
+        "Модель McLaren MP4/4, масштаб 1:43",
+        "Заводская упаковка Minichamps"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 10 см"
+      },
+      {
+        "label": "Производитель",
+        "value": "Minichamps"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская"
+      }
+    ],
+    "seo": {
+      "title": "Модель McLaren MP4/4 Сенна 1:43 Minichamps",
+      "description": "Коллекционная модель McLaren MP4/4 Айртона Сенны, сезон 1988, масштаб 1:43, Minichamps. Доставка по России."
+    },
+    "images": {
+      "main": "/products/mclaren-mp4-4-senna-1-43/main.webp",
+      "thumb": "/products/mclaren-mp4-4-senna-1-43/thumb.webp",
+      "gallery": [
+        "/products/mclaren-mp4-4-senna-1-43/01.webp",
+        "/products/mclaren-mp4-4-senna-1-43/02.webp",
+        "/products/mclaren-mp4-4-senna-1-43/03.webp"
+      ],
+      "box": "/products/mclaren-mp4-4-senna-1-43/box.webp",
+      "withBox": "/products/mclaren-mp4-4-senna-1-43/with-box.webp"
+    }
+  },
+  {
+    "slug": "mercedes-w11-hamilton-1-43",
+    "status": "placeholder",
+    "title": "Mercedes W11",
+    "subtitle": "Льюис Хэмилтон · 2020",
+    "category": "model",
+    "kind": "ready",
+    "team": "mercedes",
+    "year": 2020,
+    "driver": "Льюис Хэмилтон",
+    "scale": "1:43",
+    "brand": "Bburago",
+    "licensed": true,
+    "price": 2290,
+    "oldPrice": null,
+    "popularity": 90,
+    "delivery": [
+      12,
+      20
+    ],
+    "story": "mercedes-2020",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#1A1A1D",
+        "#00C8B4",
+        "#C9CDD2"
+      ],
+      "number": "44"
+    },
+    "description": {
+      "lead": "Чёрная Mercedes, на которой Льюис Хэмилтон взял седьмой титул и обошёл Шумахера по числу побед.",
+      "body": [
+        "Литая модель Bburago в масштабе 1:43 — около 13 см в длину, в чёрной ливрее сезона 2020.",
+        "Корпус из металла, мелкие детали из пластика. Официальная лицензия команды."
+      ],
+      "inBox": [
+        "Модель Mercedes W11, масштаб 1:43",
+        "Заводская коробка Bburago"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Производитель",
+        "value": "Bburago"
+      },
+      {
+        "label": "Лицензия",
+        "value": "Mercedes-AMG Petronas F1 Team"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Mercedes W11 Хэмилтон 1:43 Bburago",
+      "description": "Литая модель Mercedes W11 Льюиса Хэмилтона, сезон 2020, масштаб 1:43. Болид седьмого титула. Доставка по России."
+    },
+    "images": {
+      "main": "/products/mercedes-w11-hamilton-1-43/main.webp",
+      "thumb": "/products/mercedes-w11-hamilton-1-43/thumb.webp",
+      "gallery": [
+        "/products/mercedes-w11-hamilton-1-43/01.webp",
+        "/products/mercedes-w11-hamilton-1-43/02.webp",
+        "/products/mercedes-w11-hamilton-1-43/03.webp"
+      ],
+      "box": "/products/mercedes-w11-hamilton-1-43/box.webp",
+      "withBox": "/products/mercedes-w11-hamilton-1-43/with-box.webp"
+    }
+  },
+  {
+    "slug": "rastar-red-bull-rb19-1-8",
+    "status": "placeholder",
+    "title": "Red Bull RB19 · 1:8",
+    "subtitle": "Конструктор, ≈ 2 500 деталей",
+    "category": "model",
+    "kind": "kit",
+    "team": "redbull",
+    "year": 2023,
+    "driver": "Макс Ферстаппен",
+    "scale": "1:8",
+    "brand": "Rastar",
+    "licensed": true,
+    "price": 14990,
+    "oldPrice": null,
+    "popularity": 92,
+    "delivery": [
+      14,
+      24
+    ],
+    "story": "redbull-2023",
+    "art": {
+      "type": "kit",
+      "colors": [
+        "#1B2A5C",
+        "#E3263B",
+        "#F2C200"
+      ],
+      "number": "1"
+    },
+    "description": {
+      "lead": "Собери RB19 своими руками: около 2 500 деталей и болид длиной около 70 см — главный экспонат любой коллекции.",
+      "body": [
+        "Официально лицензированный набор Rastar в масштабе 1:8. Статичная версия, без мотора — для витрины.",
+        "Сборка займёт не один вечер. Отличный проект на выходные и подарок фанату, который любит собирать сам."
+      ],
+      "inBox": [
+        "Детали конструктора (≈ 2 500 шт.)",
+        "Инструкция по сборке",
+        "Наклейки ливреи",
+        "Заводская коробка Rastar"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:8"
+      },
+      {
+        "label": "Деталей",
+        "value": "≈ 2 500"
+      },
+      {
+        "label": "Длина в сборе",
+        "value": "≈ 70 см (по масштабу)"
+      },
+      {
+        "label": "Производитель",
+        "value": "Rastar"
+      },
+      {
+        "label": "Лицензия",
+        "value": "Oracle Red Bull Racing"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Конструктор Red Bull RB19 1:8 Rastar",
+      "description": "Лицензированный конструктор Rastar Red Bull RB19 в масштабе 1:8: около 2 500 деталей, длина около 70 см. Доставка по России."
+    },
+    "images": {
+      "main": "/products/rastar-red-bull-rb19-1-8/main.webp",
+      "thumb": "/products/rastar-red-bull-rb19-1-8/thumb.webp",
+      "gallery": [
+        "/products/rastar-red-bull-rb19-1-8/01.webp",
+        "/products/rastar-red-bull-rb19-1-8/02.webp",
+        "/products/rastar-red-bull-rb19-1-8/03.webp"
+      ],
+      "box": "/products/rastar-red-bull-rb19-1-8/box.webp",
+      "withBox": "/products/rastar-red-bull-rb19-1-8/with-box.webp"
+    }
+  },
+  {
+    "slug": "red-bull-rb19-verstappen-1-43",
+    "status": "placeholder",
+    "title": "Red Bull RB19",
+    "subtitle": "Макс Ферстаппен · 2023",
+    "category": "model",
+    "kind": "ready",
+    "team": "redbull",
+    "year": 2023,
+    "driver": "Макс Ферстаппен",
+    "scale": "1:43",
+    "brand": "Bburago",
+    "licensed": true,
+    "price": 2490,
+    "oldPrice": null,
+    "popularity": 98,
+    "delivery": [
+      12,
+      20
+    ],
+    "story": "redbull-2023",
+    "art": {
+      "type": "car",
+      "colors": [
+        "#1B2A5C",
+        "#E3263B",
+        "#F2C200"
+      ],
+      "number": "1"
+    },
+    "description": {
+      "lead": "Болид, который выиграл 21 гонку из 22. На RB19 Макс Ферстаппен взял третий титул подряд, а Red Bull провела самый доминирующий сезон в истории Формулы 1.",
+      "body": [
+        "Литая модель Bburago в масштабе 1:43 — около 13 см в длину. Удобный размер, чтобы собрать на одной полке весь пелотон сезона.",
+        "Корпус из металла, тонкие аэродинамические элементы из пластика. Модель продаётся по официальной лицензии команды."
+      ],
+      "inBox": [
+        "Модель Red Bull RB19, масштаб 1:43",
+        "Заводская коробка Bburago"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:43"
+      },
+      {
+        "label": "Длина",
+        "value": "≈ 13 см"
+      },
+      {
+        "label": "Материал",
+        "value": "металл (diecast) и пластик"
+      },
+      {
+        "label": "Производитель",
+        "value": "Bburago"
+      },
+      {
+        "label": "Лицензия",
+        "value": "Oracle Red Bull Racing"
+      },
+      {
+        "label": "Возраст",
+        "value": "14+"
+      },
+      {
+        "label": "Упаковка",
+        "value": "заводская коробка"
+      }
+    ],
+    "seo": {
+      "title": "Модель Red Bull RB19 Ферстаппен 1:43 Bburago",
+      "description": "Литая модель Red Bull RB19 Макса Ферстаппена, сезон 2023, масштаб 1:43, Bburago. Официальная лицензия. Доставка по России."
+    },
+    "images": {
+      "main": "/products/red-bull-rb19-verstappen-1-43/main.webp",
+      "thumb": "/products/red-bull-rb19-verstappen-1-43/thumb.webp",
+      "gallery": [
+        "/products/red-bull-rb19-verstappen-1-43/01.webp",
+        "/products/red-bull-rb19-verstappen-1-43/02.webp",
+        "/products/red-bull-rb19-verstappen-1-43/03.webp"
+      ],
+      "box": "/products/red-bull-rb19-verstappen-1-43/box.webp",
+      "withBox": "/products/red-bull-rb19-verstappen-1-43/with-box.webp"
+    }
+  },
+  {
+    "slug": "tmff-hoodie-box-box",
+    "status": "placeholder",
+    "title": "Худи «Box Box»",
+    "subtitle": "TMFF Original",
+    "category": "merch",
+    "kind": "sweatshirt",
+    "team": null,
+    "year": 2026,
+    "brand": "TMFF",
+    "licensed": false,
+    "price": 5490,
+    "oldPrice": null,
+    "popularity": 70,
+    "delivery": [
+      10,
+      18
+    ],
+    "story": "tmff-boxbox",
+    "art": {
+      "type": "hoodie",
+      "colors": [
+        "#2A2D34",
+        "#D7FF3C",
+        "#F4F4F4"
+      ],
+      "print": "BOX BOX"
+    },
+    "colors": [
+      {
+        "id": "graphite",
+        "name": "Графит",
+        "hex": "#2A2D34"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Ширина груди, см",
+        "Длина, см",
+        "Длина рукава, см"
+      ],
+      "rows": [
+        [
+          "S",
+          "58",
+          "68",
+          "58"
+        ],
+        [
+          "M",
+          "61",
+          "70",
+          "59"
+        ],
+        [
+          "L",
+          "64",
+          "72",
+          "60"
+        ],
+        [
+          "XL",
+          "67",
+          "74",
+          "61"
+        ],
+        [
+          "XXL",
+          "70",
+          "76",
+          "62"
+        ]
+      ],
+      "note": "Крой оверсайз: если любишь по фигуре — бери на размер меньше."
+    },
+    "description": {
+      "lead": "«Box, box» — команда по радио, после которой начинаются самые нервные две секунды гонки.",
+      "body": [
+        "Тёплое худи оверсайз с капюшоном и карманом-кенгуру. Принт на груди, TMFF на спине.",
+        "Поймут только те, кто смотрит гонки. Остальные спросят — и тоже начнут смотреть."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Состав",
+        "value": "хлопок с начёсом"
+      },
+      {
+        "label": "Крой",
+        "value": "оверсайз"
+      },
+      {
+        "label": "Уход",
+        "value": "стирка 30°, наизнанку"
+      }
+    ],
+    "seo": {
+      "title": "Худи Box Box — TMFF",
+      "description": "Худи TMFF «Box Box» оверсайз с капюшоном. Для тех, кто слышит пит-стоп по радио. Размеры S–XXL. Доставка по России."
+    }
+  },
+  {
+    "slug": "tmff-tee-lights-out",
+    "status": "placeholder",
+    "title": "Футболка «Lights Out»",
+    "subtitle": "TMFF Original",
+    "category": "merch",
+    "kind": "tshirt",
+    "team": null,
+    "year": 2026,
+    "brand": "TMFF",
+    "licensed": false,
+    "price": 2990,
+    "oldPrice": null,
+    "popularity": 80,
+    "delivery": [
+      10,
+      18
+    ],
+    "story": "tmff-lights",
+    "art": {
+      "type": "tshirt",
+      "colors": [
+        "#111114",
+        "#E3263B",
+        "#F4F4F4"
+      ],
+      "print": "LIGHTS OUT"
+    },
+    "colors": [
+      {
+        "id": "black",
+        "name": "Чёрный",
+        "hex": "#111114"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": {
+      "columns": [
+        "Размер",
+        "Ширина груди, см",
+        "Длина, см",
+        "Рост, см"
+      ],
+      "rows": [
+        [
+          "S",
+          "50",
+          "70",
+          "165–172"
+        ],
+        [
+          "M",
+          "53",
+          "72",
+          "172–178"
+        ],
+        [
+          "L",
+          "56",
+          "74",
+          "178–184"
+        ],
+        [
+          "XL",
+          "59",
+          "76",
+          "184–190"
+        ],
+        [
+          "XXL",
+          "62",
+          "78",
+          "190–196"
+        ]
+      ],
+      "note": "Меряй свою любимую футболку, разложив её ровно: ширина — от подмышки до подмышки."
+    },
+    "description": {
+      "lead": "Пять красных огней загораются по одному и гаснут вместе. Футболка для тех, у кого в этот момент замирает сердце.",
+      "body": [
+        "Собственный дизайн TMFF, без чужих логотипов. Свободный крой, плотный хлопок.",
+        "Спереди — стартовые огни и «LIGHTS OUT», на спине — TMFF."
+      ],
+      "inBox": []
+    },
+    "specs": [
+      {
+        "label": "Состав",
+        "value": "100% хлопок"
+      },
+      {
+        "label": "Крой",
+        "value": "свободный"
+      },
+      {
+        "label": "Печать",
+        "value": "спереди и на спине"
+      },
+      {
+        "label": "Уход",
+        "value": "стирка 30°, наизнанку, не гладить по принту"
+      }
+    ],
+    "seo": {
+      "title": "Футболка Lights Out — TMFF",
+      "description": "Футболка TMFF «Lights Out» со стартовыми огнями. 100% хлопок, свободный крой, размеры S–XXL. Доставка по России."
+    }
+  }
+]

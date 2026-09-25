@@ -1,0 +1,72 @@
+{
+  "slug": "lego-technic-ferrari-sf-24",
+  "status": "placeholder",
+  "title": "Ferrari SF-24 · LEGO Technic",
+  "subtitle": "Набор 42207 · 2024",
+  "category": "model",
+  "kind": "kit",
+  "team": "ferrari",
+  "year": 2024,
+  "driver": "Шарль Леклер",
+  "scale": "≈ 1:8",
+  "brand": "LEGO",
+  "licensed": true,
+  "price": 19990,
+  "oldPrice": null,
+  "popularity": 89,
+  "delivery": [
+    14,
+    24
+  ],
+  "story": "ferrari-2024",
+  "art": {
+    "type": "kit",
+    "colors": [
+      "#C80000",
+      "#FFD200",
+      "#111111"
+    ],
+    "number": "16"
+  },
+  "description": {
+    "lead": "Официальный набор LEGO Technic 42207: 1 361 деталь и болид Ferrari длиной около 61 см.",
+    "body": [
+      "Внутри — рабочее рулевое управление, двухступенчатая коробка передач и регулируемое заднее антикрыло.",
+      "Набор для взрослых фанатов: собирается вдумчиво, а потом занимает на полке место главного экспоната."
+    ],
+    "inBox": [
+      "Детали LEGO Technic (1 361 шт.)",
+      "Инструкция по сборке",
+      "Коробка LEGO"
+    ]
+  },
+  "specs": [
+    {
+      "label": "Набор",
+      "value": "LEGO Technic 42207"
+    },
+    {
+      "label": "Деталей",
+      "value": "1 361"
+    },
+    {
+      "label": "Длина в сборе",
+      "value": "≈ 61 см"
+    },
+    {
+      "label": "Возраст",
+      "value": "18+"
+    },
+    {
+      "label": "Производитель",
+      "value": "LEGO"
+    }
+  ],
+  "seo": {
+    "title": "LEGO Technic Ferrari SF-24 42207",
+    "description": "Оригинальный набор LEGO Technic 42207 Ferrari SF-24: 1 361 деталь, длина около 61 см, для взрослых 18+. Доставка по России."
+  },
+  "verify": [
+    "Продавец отправляет оригинал LEGO, а не копию (коробка, номер набора, отзывы с фото)"
+  ]
+}

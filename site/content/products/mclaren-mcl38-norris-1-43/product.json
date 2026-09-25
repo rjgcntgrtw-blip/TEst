@@ -1,0 +1,81 @@
+{
+  "slug": "mclaren-mcl38-norris-1-43",
+  "status": "placeholder",
+  "title": "McLaren MCL38",
+  "subtitle": "Ландо Норрис · 2024",
+  "category": "model",
+  "kind": "ready",
+  "team": "mclaren",
+  "year": 2024,
+  "driver": "Ландо Норрис",
+  "scale": "1:43",
+  "brand": "Bburago",
+  "licensed": true,
+  "price": 2490,
+  "oldPrice": null,
+  "popularity": 97,
+  "delivery": [
+    12,
+    20
+  ],
+  "story": "mclaren-2024",
+  "art": {
+    "type": "car",
+    "colors": [
+      "#FF7A00",
+      "#2B2B2E",
+      "#4FC3F7"
+    ],
+    "number": "4"
+  },
+  "description": {
+    "lead": "Машина, на которой Ландо Норрис одержал первую победу в карьере, а McLaren впервые с 1998 года выиграла Кубок конструкторов.",
+    "body": [
+      "Литая модель Bburago в масштабе 1:43 — около 13 см в длину, в фирменной папайе McLaren.",
+      "Корпус из металла, мелкие детали из пластика. Официальная лицензия команды."
+    ],
+    "inBox": [
+      "Модель McLaren MCL38, масштаб 1:43",
+      "Заводская коробка Bburago"
+    ]
+  },
+  "specs": [
+    {
+      "label": "Масштаб",
+      "value": "1:43"
+    },
+    {
+      "label": "Длина",
+      "value": "≈ 13 см"
+    },
+    {
+      "label": "Материал",
+      "value": "металл (diecast) и пластик"
+    },
+    {
+      "label": "Производитель",
+      "value": "Bburago"
+    },
+    {
+      "label": "Лицензия",
+      "value": "McLaren Formula 1 Team"
+    },
+    {
+      "label": "Возраст",
+      "value": "14+"
+    },
+    {
+      "label": "Упаковка",
+      "value": "заводская коробка"
+    }
+  ],
+  "seo": {
+    "title": "Модель McLaren MCL38 Норрис 1:43 Bburago",
+    "description": "Литая модель McLaren MCL38 Ландо Норриса, сезон 2024, масштаб 1:43. Болид, вернувший McLaren Кубок конструкторов. Доставка по России."
+  },
+  "verify": [
+    "Страна производства",
+    "Комплектация (подставка, бокс)",
+    "Длина — по карточке продавца"
+  ]
+}

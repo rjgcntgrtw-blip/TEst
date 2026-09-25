@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "catalog": "node tools/build-catalog.mjs",
+    "images": "python3 tools/images/process.py",
+    "predev": "npm run catalog",
     "dev": "next dev",
+    "prebuild": "npm run catalog",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
