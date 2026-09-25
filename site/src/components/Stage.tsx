@@ -13,6 +13,7 @@ import {
   type MotionValue,
 } from "motion/react";
 import { ArrowLeft, ChevronDown, ChevronLeft, ChevronRight, ShieldCheck, Truck } from "lucide-react";
+import Image from "next/image";
 import {
   EMPTY_FILTERS,
   STORIES,
@@ -21,6 +22,7 @@ import {
   teamById,
   type Filters,
   type Product,
+  type TeamId,
 } from "@/data/catalog";
 import FilterBar from "./FilterBar";
 import Gallery from "./Gallery";
@@ -93,12 +95,18 @@ function useGeometry(): Geometry {
   }, [size]);
 }
 
+/** Что витрина умеет по команде снаружи — например, из поиска. */
+export type StageApi = { open: (slug: string) => void };
+
 type Props = {
   initialSlug?: string;
   onAdd: (product: Product, options: CartOptions) => void;
+  apiRef?: React.RefObject<StageApi | null>;
+  /** Фоны команд из Higgsfield (public/teams/<id>.webp). Если нет — градиент в цветах команды. */
+  teamBackgrounds?: Partial<Record<TeamId, string>>;
 };
 
-export default function Stage({ initialSlug, onAdd }: Props) {
+export default function Stage({ initialSlug, onAdd, apiRef, teamBackgrounds = {} }: Props) {
   const reduce = useReducedMotion() ?? false;
   const geo = useGeometry();
   const [filters, setFilters] = useState<Filters>(EMPTY_FILTERS);
@@ -151,17 +159,34 @@ export default function Stage({ initialSlug, onAdd }: Props) {
   };
   const back = useCallback(() => scrollToProgress(0), [scrollToProgress]);
 
-  // Ссылка на товар вида ?p=slug открывает сразу карточку.
+  // Ссылка на товар (/p/slug или ?p=slug) открывает сразу карточку.
   useEffect(() => {
     if (initialSlug) scrollToProgress(DETAIL_AT, true);
   }, [initialSlug, scrollToProgress]);
 
-  // В адресе — открытый товар, чтобы им можно было поделиться.
+  // Открыть товар снаружи (поиск): сбросить фильтры, поставить товар в центр и сразу показать карточку.
+  useEffect(() => {
+    if (!apiRef) return;
+    apiRef.current = {
+      open: (slug) => {
+        const i = ALL_ORDERED.findIndex((p) => p.slug === slug);
+        if (i < 0) return;
+        setFilters(EMPTY_FILTERS);
+        setActive(i);
+        requestAnimationFrame(() => scrollToProgress(DETAIL_AT, true));
+      },
+    };
+    return () => {
+      apiRef.current = null;
+    };
+  }, [apiRef, scrollToProgress]);
+
+  // В адресе — открытый товар (/p/slug), чтобы им можно было поделиться.
   useEffect(() => {
     const url = new URL(window.location.href);
-    if (phase === "detail" && current) url.searchParams.set("p", current.slug);
-    else url.searchParams.delete("p");
-    window.history.replaceState(window.history.state, "", url);
+    url.searchParams.delete("p");
+    url.pathname = phase === "detail" && current ? `/p/${current.slug}` : "/";
+    if (url.href !== window.location.href) window.history.replaceState(window.history.state, "", url);
   }, [phase, current]);
 
   useEffect(() => {
@@ -228,6 +253,12 @@ export default function Stage({ initialSlug, onAdd }: Props) {
                 background: `radial-gradient(ellipse 75% 65% at 50% 58%, ${team.colors[0]}ee 0%, ${team.colors[0]}88 38%, #050507 82%)`,
               }}
             >
+              {teamBackgrounds[team.id] && (
+                <>
+                  <Image src={teamBackgrounds[team.id]!} alt="" fill sizes="100vw" className="object-cover" priority />
+                  <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/10 to-black/70" />
+                </>
+              )}
               <div
                 className="absolute inset-0"
                 style={{

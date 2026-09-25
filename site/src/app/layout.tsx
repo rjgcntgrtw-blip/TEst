@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Manrope, Oswald } from "next/font/google";
+import { SITE_URL } from "@/lib/assets";
 import "./globals.css";
 
 const display = Oswald({
@@ -14,9 +15,14 @@ const body = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "TMFF — модели болидов и мерч для фанатов гонок",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "TMFF — модели болидов и мерч для фанатов гонок",
+    template: "%s · TMFF",
+  },
   description:
-    "Коллекционные модели болидов, конструкторы и одежда для фанатов автогонок. Доставка по России.",
+    "Коллекционные модели болидов, конструкторы и одежда в стиле командной формы. Доставка по России.",
+  openGraph: { siteName: "TMFF", locale: "ru_RU", type: "website" },
 };
 
 export const viewport: Viewport = {

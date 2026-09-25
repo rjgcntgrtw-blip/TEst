@@ -43,9 +43,12 @@ body {
   color: #000;
 }
 
-:focus-visible {
-  outline: 2px solid var(--accent);
-  outline-offset: 3px;
+/* В слое base, чтобы утилиты вроде outline-none могли его переопределить */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
 }
 
 .no-scrollbar {

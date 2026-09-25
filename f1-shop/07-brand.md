@@ -78,10 +78,9 @@
 3. *Silhouette of an open-wheel race car speeding through a tunnel of light streaks,
    motion blur, dark background, minimal, no logos, no text, seamless loop.*
 
-Сделай по 2–3 варианта каждого промпта и выбери лучший. Готовые файлы загрузи на GitHub
-в папку `f1-shop/assets/video/` этой ветки (Add file → Upload files) или пришли ссылку
-на скачивание. Готового коннектора Higgsfield для этой сессии нет, поэтому генерацию
-я запустить не могу, но обработаю и встрою готовые файлы.
+Полное задание для генерации — с путями, форматами, фоном команд и болидом для интро — в
+[higgsfield-task.md](higgsfield-task.md). Его можно целиком отдать сессии Claude с доступом к Higgsfield:
+она сгенерирует файлы и запушит их в эту ветку, а сайт подхватит их при сборке.
 
 ### Где искать референсы
 
