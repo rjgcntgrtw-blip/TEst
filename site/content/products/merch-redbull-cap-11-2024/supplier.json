@@ -1,16 +1,12 @@
 {
-  "lot": "https://www.aliexpress.us/item/3256812852478104.html",
+  "lot": "https://www.aliexpress.us/item/3256805874195736.html",
   "variant": "цвет и размер покупателя",
-  "cost_rub": 1661,
-  "cost_usd": 19.73,
+  "cost_rub": 588,
+  "cost_usd": 6.98,
   "price_note": "верхняя оценка: зачёркнутая цена, реальная может быть до двух раз ниже; aliexpress.com, курс 84,2",
-  "orders": 76,
+  "orders": 33,
   "rating": null,
   "sizeMap": {},
-  "backup": [
-    {
-      "lot": "https://www.aliexpress.us/item/3256811449048467.html"
-    }
-  ],
+  "backup": [],
   "checked": "2026-09-25"
 }
