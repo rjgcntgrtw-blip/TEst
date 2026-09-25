@@ -476,6 +476,136 @@
     }
   },
   {
+    "slug": "cada-alpine-a525-1-24",
+    "status": "draft",
+    "title": "BWT Alpine A525 · CaDA",
+    "subtitle": "Конструктор 1:24 · официальная лицензия",
+    "category": "model",
+    "kind": "kit",
+    "team": "alpine",
+    "year": 2025,
+    "scale": "1:24",
+    "brand": "CaDA",
+    "licensed": true,
+    "price": 7290,
+    "oldPrice": null,
+    "popularity": 69,
+    "delivery": [
+      14,
+      24
+    ],
+    "story": "alpine-2025",
+    "art": {
+      "type": "kit",
+      "colors": [
+        "#0A5DA8",
+        "#F25CBA",
+        "#FFFFFF"
+      ],
+      "number": "43"
+    },
+    "description": {
+      "lead": "Конструктор BWT Alpine A525 в масштабе 1:24 от CaDA — по официальной лицензии команды.",
+      "body": [
+        "Собирается за вечер: хороший подарок фанату и первый шаг к большим моделям 1:8.",
+        "Приезжает в фирменной коробке CaDA с инструкцией."
+      ],
+      "inBox": [
+        "Детали конструктора",
+        "Инструкция по сборке",
+        "Наклейки",
+        "Коробка CaDA"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:24"
+      },
+      {
+        "label": "Производитель",
+        "value": "CaDA"
+      },
+      {
+        "label": "Лицензия",
+        "value": "BWT Alpine F1 Team"
+      },
+      {
+        "label": "Возраст",
+        "value": "уточнить по коробке"
+      }
+    ],
+    "seo": {
+      "title": "Конструктор CaDA BWT Alpine A525 1:24 — официальная лицензия",
+      "description": "Конструктор CaDA BWT Alpine A525 в масштабе 1:24 по официальной лицензии команды. Доставка по России."
+    }
+  },
+  {
+    "slug": "cada-sauber-c44-1-24",
+    "status": "draft",
+    "title": "Kick Sauber C44 · CaDA",
+    "subtitle": "Конструктор 1:24 · официальная лицензия",
+    "category": "model",
+    "kind": "kit",
+    "team": "audi",
+    "year": 2024,
+    "scale": "1:24",
+    "brand": "CaDA",
+    "licensed": true,
+    "price": 10690,
+    "oldPrice": null,
+    "popularity": 71,
+    "delivery": [
+      14,
+      24
+    ],
+    "story": "audi-2024",
+    "art": {
+      "type": "kit",
+      "colors": [
+        "#52E252",
+        "#111111",
+        "#FFFFFF"
+      ],
+      "number": "24"
+    },
+    "description": {
+      "lead": "Конструктор Kick Sauber C44 в масштабе 1:24 от CaDA — по официальной лицензии команды.",
+      "body": [
+        "Собирается за вечер: хороший подарок фанату и первый шаг к большим моделям 1:8.",
+        "Приезжает в фирменной коробке CaDA с инструкцией."
+      ],
+      "inBox": [
+        "Детали конструктора",
+        "Инструкция по сборке",
+        "Наклейки",
+        "Коробка CaDA"
+      ]
+    },
+    "specs": [
+      {
+        "label": "Масштаб",
+        "value": "1:24"
+      },
+      {
+        "label": "Производитель",
+        "value": "CaDA"
+      },
+      {
+        "label": "Лицензия",
+        "value": "Stake F1 Team Kick Sauber"
+      },
+      {
+        "label": "Возраст",
+        "value": "уточнить по коробке"
+      }
+    ],
+    "seo": {
+      "title": "Конструктор CaDA Kick Sauber C44 1:24 — официальная лицензия",
+      "description": "Конструктор CaDA Kick Sauber C44 в масштабе 1:24 по официальной лицензии команды. Доставка по России."
+    }
+  },
+  {
     "slug": "ferrari-sf-24-leclerc-1-24",
     "status": "draft",
     "title": "Ferrari SF-24 · Леклер",
