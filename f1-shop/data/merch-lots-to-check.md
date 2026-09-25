@@ -9,6 +9,10 @@
 
 - https://aliexpress.ru/item/1_672792682.html?sku_id=5000003438087973
 - https://aliexpress.ru/item/1_674952136.html?sku_id=5000003444200901
+- https://aliexpress.ru/item/1005012482845307.html?sku_id=12000058522860772
+- https://aliexpress.ru/item/1_771108234.html?sku_id=5000003810013240
+- также посмотреть — страницы, с которых владелец перешёл на лоты выше:
+  https://aliexpress.ru/item/1_594497165.html и https://aliexpress.ru/item/1_770920985.html
 
 Новые ссылки владелец будет дописывать сюда же.
 
