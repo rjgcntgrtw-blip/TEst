@@ -24,6 +24,7 @@
 | [11-aliexpress-research.md](11-aliexpress-research.md) | Исследование AliExpress: что брать — цена, заказы, прибыль, стартовый набор из 18 позиций |
 | [higgsfield-task.md](higgsfield-task.md) | Задание для Higgsfield: видео на главную, болид для интро, фоны команд — пути и форматы |
 | [12-merch-research.md](12-merch-research.md) | Мерч: одежда в стиле командной формы — 17 вещей по 8 командам, цены, что проверить |
+| [pipeline/](pipeline/README.md) | Рабочие скрипты и сырые данные: скрейперы AliExpress, разбор выдачи, сборка таблицы и карточек сайта |
 
 ## Инструменты
 
