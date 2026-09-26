@@ -7,3 +7,5 @@ out/
 .env.*
 !.env.example
 .DS_Store
+f1-shop/pipeline/r3d/node_modules/
+f1-shop/pipeline/r3d/out/

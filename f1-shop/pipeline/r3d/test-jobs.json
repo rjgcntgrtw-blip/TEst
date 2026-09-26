@@ -1,0 +1,5 @@
+[
+ {"spec": {"kind":"car","view":"main","studio":"#e9e9ec","c1":"#1B2A5C","c2":"#E3263B","c3":"#F2C200","number":"1"}, "out": "out/test-main.jpg"},
+ {"spec": {"kind":"car","view":"01","studio":"#e9e9ec","c1":"#1B2A5C","c2":"#E3263B","c3":"#F2C200","number":"1"}, "out": "out/test-01.jpg"},
+ {"spec": {"kind":"box","view":"box","studio":"#e9e9ec","c1":"#1B2A5C","c2":"#E3263B","c3":"#F2C200","title":"RB19","label":"МОДЕЛЬ 1:43"}, "out": "out/test-box.jpg"}
+]

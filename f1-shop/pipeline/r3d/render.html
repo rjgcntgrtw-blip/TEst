@@ -1,0 +1,234 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>html,body{margin:0;background:transparent}canvas{display:block}</style>
+<script type="importmap">
+{ "imports": {
+  "three": "./node_modules/three/build/three.module.js",
+  "three/addons/": "./node_modules/three/examples/jsm/"
+} }
+</script>
+</head>
+<body>
+<script type="module">
+import * as THREE from "three";
+import { RoomEnvironment } from "three/addons/environments/RoomEnvironment.js";
+import { RoundedBoxGeometry } from "three/addons/geometries/RoundedBoxGeometry.js";
+
+const W = 1600, H = 1200;
+const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true, preserveDrawingBuffer: true });
+renderer.setPixelRatio(1);
+renderer.setSize(W, H);
+renderer.shadowMap.enabled = true;
+renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1.0;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+document.body.appendChild(renderer.domElement);
+
+const pmrem = new THREE.PMREMGenerator(renderer);
+const envTex = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
+
+// Тапер-бокс: x — длина (от x0 к x1), ширина и высота меняются вдоль длины.
+function taper(x0, x1, w0, w1, yb0, yt0, yb1, yt1) {
+  const v = [
+    [x0, yb0, -w0 / 2], [x0, yb0, w0 / 2], [x0, yt0, w0 / 2], [x0, yt0, -w0 / 2],
+    [x1, yb1, -w1 / 2], [x1, yb1, w1 / 2], [x1, yt1, w1 / 2], [x1, yt1, -w1 / 2],
+  ];
+  const f = [[0,1,2],[0,2,3],[4,6,5],[4,7,6],[0,4,5],[0,5,1],[3,2,6],[3,6,7],[1,5,6],[1,6,2],[0,3,7],[0,7,4]];
+  const pos = [];
+  for (const tri of f) for (const i of tri) pos.push(...v[i]);
+  const g = new THREE.BufferGeometry();
+  g.setAttribute("position", new THREE.Float32BufferAttribute(pos, 3));
+  g.computeVertexNormals();
+  return g;
+}
+
+function paint(color, opts = {}) {
+  return new THREE.MeshPhysicalMaterial({ color, metalness: 0.25, roughness: 0.32, clearcoat: 1, clearcoatRoughness: 0.12, envMapIntensity: 1.1, ...opts });
+}
+
+function textTexture(lines, bg, fg, w = 1024, h = 512) {
+  const c = document.createElement("canvas");
+  c.width = w; c.height = h;
+  const x = c.getContext("2d");
+  x.fillStyle = bg; x.fillRect(0, 0, w, h);
+  for (const l of lines) {
+    x.fillStyle = l.color || fg;
+    x.font = `${l.weight || 800} ${l.size}px Arial, sans-serif`;
+    x.textAlign = l.align || "left";
+    x.fillText(l.text, l.x, l.y);
+  }
+  for (const r of lines.filter(l => l.rect)) { x.fillStyle = r.color; x.fillRect(...r.rect); }
+  const t = new THREE.CanvasTexture(c);
+  t.colorSpace = THREE.SRGBColorSpace;
+  t.anisotropy = 8;
+  return t;
+}
+
+function buildCar({ c1, c2, c3, number }) {
+  const car = new THREE.Group();
+  const body = paint(c1), second = paint(c2), accent = paint(c3);
+  const carbon = new THREE.MeshStandardMaterial({ color: 0x15161a, roughness: 0.45, metalness: 0.3, envMapIntensity: 0.8 });
+  const tyre = new THREE.MeshStandardMaterial({ color: 0x111113, roughness: 0.85 });
+  const rim = new THREE.MeshStandardMaterial({ color: 0x2b2c31, roughness: 0.3, metalness: 0.9 });
+  const add = (geo, mat, cast = true) => { const m = new THREE.Mesh(geo, mat); m.castShadow = cast; m.receiveShadow = true; car.add(m); return m; };
+
+  // пол и днище
+  add(taper(-2.3, 1.05, 1.45, 1.1, 0.05, 0.1, 0.05, 0.1), carbon);
+  // нос
+  add(taper(1.05, 2.55, 0.42, 0.2, 0.2, 0.52, 0.17, 0.3), body);
+  // монокок / кокпит
+  add(taper(-0.35, 1.08, 0.82, 0.44, 0.12, 0.66, 0.16, 0.54), body);
+  // капот двигателя и воздухозаборник
+  add(taper(-2.05, -0.3, 0.3, 0.8, 0.14, 0.52, 0.12, 0.92), body);
+  const airbox = add(new RoundedBoxGeometry(0.34, 0.3, 0.32, 3, 0.1), body);
+  airbox.position.set(-0.42, 0.98, 0);
+  add(taper(-0.55, -0.25, 0.16, 0.2, 0.9, 0.94, 0.9, 1.08), carbon);
+  // плавник
+  add(taper(-2.05, -0.6, 0.03, 0.03, 0.4, 0.62, 0.8, 0.92), second);
+  // понтоны
+  for (const s of [-1, 1]) {
+    const pod = add(taper(-1.65, 0.62, 0.36, 0.44, 0.1, 0.34, 0.12, 0.56), second);
+    pod.position.z = s * 0.52;
+    const inlet = add(taper(0.6, 0.66, 0.38, 0.38, 0.14, 0.52, 0.14, 0.52), carbon);
+    inlet.position.z = s * 0.52;
+  }
+  // полоса ливреи
+  for (const s of [-1, 1]) {
+    const stripe = add(taper(-1.9, 1.0, 0.02, 0.02, 0.44, 0.5, 0.5, 0.56), accent, false);
+    stripe.position.z = s * 0.415;
+  }
+  // номер на носу
+  if (number) {
+    const tex = textTexture([{ text: number, size: 300, x: 256, y: 330, align: "center", color: "#ffffff" }], "rgba(0,0,0,0)", "#fff", 512, 512);
+    const plane = new THREE.Mesh(new THREE.PlaneGeometry(0.28, 0.28), new THREE.MeshBasicMaterial({ map: tex, transparent: true }));
+    plane.rotation.x = -Math.PI / 2 + 0.12;
+    plane.rotation.z = -Math.PI / 2;
+    plane.position.set(1.75, 0.46, 0);
+    car.add(plane);
+  }
+  // переднее антикрыло
+  add(taper(2.35, 2.85, 1.95, 1.95, 0.08, 0.12, 0.07, 0.1), second);
+  add(taper(2.3, 2.55, 1.8, 1.8, 0.14, 0.18, 0.15, 0.2), body);
+  for (const s of [-1, 1]) {
+    const ep = add(taper(2.25, 2.85, 0.03, 0.03, 0.06, 0.3, 0.06, 0.22), accent);
+    ep.position.z = s * 0.97;
+  }
+  // заднее антикрыло
+  add(taper(-2.55, -2.2, 1.05, 1.05, 0.86, 0.95, 0.9, 0.98), body);
+  add(taper(-2.45, -2.25, 1.05, 1.05, 1.02, 1.08, 1.05, 1.1), second);
+  for (const s of [-1, 1]) {
+    const ep = add(taper(-2.6, -2.15, 0.03, 0.03, 0.4, 1.12, 0.4, 1.12), accent);
+    ep.position.z = s * 0.54;
+  }
+  add(taper(-2.4, -2.3, 0.06, 0.06, 0.4, 0.88, 0.4, 0.9), carbon);
+  // гало
+  const halo = add(new THREE.TorusGeometry(0.34, 0.035, 12, 40, Math.PI), carbon);
+  halo.rotation.y = Math.PI / 2;
+  halo.scale.set(1, 0.55, 1.3);
+  halo.position.set(0.28, 0.66, 0);
+  const pillar = add(new THREE.CylinderGeometry(0.03, 0.03, 0.26, 10), carbon);
+  pillar.position.set(0.72, 0.72, 0);
+  pillar.rotation.z = 0.5;
+  // шлем
+  const helmet = add(new THREE.SphereGeometry(0.15, 24, 16), accent);
+  helmet.position.set(0.12, 0.74, 0);
+  // зеркала
+  for (const s of [-1, 1]) {
+    const m = add(new RoundedBoxGeometry(0.1, 0.07, 0.16, 2, 0.02), body);
+    m.position.set(0.55, 0.72, s * 0.5);
+  }
+  // колёса и подвеска
+  const wheels = [[1.72, 0.8, 0.36, 0.38], [-1.78, 0.78, 0.36, 0.44]];
+  for (const [x, zOff, r, w] of wheels) {
+    for (const s of [-1, 1]) {
+      const g = new THREE.Group();
+      const t = new THREE.Mesh(new THREE.CylinderGeometry(r, r, w, 48, 1), tyre);
+      t.castShadow = true;
+      const rimOuter = new THREE.Mesh(new THREE.CylinderGeometry(r * 0.68, r * 0.68, w + 0.01, 48, 1), rim);
+      const cap = new THREE.Mesh(new THREE.CylinderGeometry(r * 0.2, r * 0.2, w + 0.03, 24, 1), accent);
+      g.add(t, rimOuter, cap);
+      g.rotation.x = Math.PI / 2;
+      g.position.set(x, r, s * zOff);
+      car.add(g);
+      for (const yy of [0.22, 0.4]) {
+        const arm = add(new THREE.CylinderGeometry(0.018, 0.018, zOff - 0.25, 8), carbon);
+        arm.rotation.x = Math.PI / 2;
+        arm.position.set(x, yy, s * (zOff / 2 + 0.1));
+      }
+    }
+  }
+  return car;
+}
+
+function buildBox({ c1, c2, c3, title, label }) {
+  const g = new THREE.Group();
+  const front = textTexture([
+    { rect: [0, 0, 1024, 90], color: c1 },
+    { rect: [0, 422, 1024, 90], color: c2 },
+    { text: label, size: 54, x: 40, y: 64, color: "#ffffff" },
+    { text: title, size: 96, x: 40, y: 250, color: "#ffffff" },
+    { text: "ОБРАЗЕЦ УПАКОВКИ", size: 40, x: 40, y: 330, color: c3, weight: 600 },
+  ], "#141418", "#fff");
+  const side = textTexture([{ rect: [0, 0, 1024, 90], color: c1 }, { text: label, size: 60, x: 40, y: 300, color: "#ffffff" }], "#1b1b20", "#fff");
+  const plain = new THREE.MeshStandardMaterial({ color: 0x1b1b20, roughness: 0.6 });
+  const mats = [
+    new THREE.MeshStandardMaterial({ map: side, roughness: 0.55 }),
+    new THREE.MeshStandardMaterial({ map: side, roughness: 0.55 }),
+    plain, plain,
+    new THREE.MeshStandardMaterial({ map: front, roughness: 0.5 }),
+    new THREE.MeshStandardMaterial({ map: front, roughness: 0.5 }),
+  ];
+  const box = new THREE.Mesh(new THREE.BoxGeometry(3.2, 1.6, 1.2), mats);
+  box.position.y = 0.8;
+  box.castShadow = true;
+  g.add(box);
+  return g;
+}
+
+const VIEWS = {
+  main: { pos: [4.6, 1.5, 5.4], target: [0.1, 0.42, 0] },      // 3/4 спереди — лицом к покупателю
+  "01": { pos: [0.2, 1.1, 8.2], target: [0, 0.45, 0] },        // сбоку
+  "02": { pos: [-5.2, 2.3, 4.2], target: [-0.2, 0.5, 0] },     // 3/4 сзади
+  "03": { pos: [3.2, 3.6, 1.6], target: [0.9, 0.4, 0] },       // сверху, кокпит и нос
+  box:  { pos: [3.6, 2.2, 5.6], target: [0, 0.8, 0] },
+};
+
+window.renderShot = (spec) => {
+  const scene = new THREE.Scene();
+  scene.environment = envTex;
+  if (spec.studio) scene.background = new THREE.Color(spec.studio);
+  const hemi = new THREE.HemisphereLight(0xffffff, 0x888888, 0.6);
+  const key = new THREE.DirectionalLight(0xffffff, 2.2);
+  key.position.set(4, 8, 5);
+  key.castShadow = true;
+  key.shadow.mapSize.set(2048, 2048);
+  Object.assign(key.shadow.camera, { left: -5, right: 5, top: 5, bottom: -5 });
+  key.shadow.radius = 6;
+  const rimL = new THREE.DirectionalLight(0xffffff, 1.2);
+  rimL.position.set(-6, 4, -4);
+  scene.add(hemi, key, rimL);
+  const ground = new THREE.Mesh(new THREE.PlaneGeometry(40, 40), new THREE.ShadowMaterial({ opacity: 0.22 }));
+  ground.rotation.x = -Math.PI / 2;
+  ground.receiveShadow = true;
+  scene.add(ground);
+
+  const obj = spec.kind === "box" ? buildBox(spec) : buildCar(spec);
+  scene.add(obj);
+  const v = VIEWS[spec.view];
+  const camera = new THREE.PerspectiveCamera(28, W / H, 0.1, 100);
+  // Камера смотрит с заданной стороны и отъезжает так, чтобы объект целиком влез в кадр.
+  const sphere = new THREE.Box3().setFromObject(obj).getBoundingSphere(new THREE.Sphere());
+  const dir = new THREE.Vector3(...v.pos).sub(new THREE.Vector3(...v.target)).normalize();
+  const dist = (sphere.radius / Math.sin(THREE.MathUtils.degToRad(camera.fov / 2))) * (spec.zoom || 1.0);
+  camera.position.copy(sphere.center).addScaledVector(dir, dist);
+  camera.lookAt(sphere.center);
+  renderer.render(scene, camera);
+  return renderer.domElement.toDataURL(spec.studio ? "image/jpeg" : "image/png", 0.9);
+};
+window.ready = true;
+</script>
+</body>
+</html>

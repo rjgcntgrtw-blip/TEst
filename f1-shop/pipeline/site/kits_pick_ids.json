@@ -1,0 +1,9 @@
+[
+ {"id": "3256812495260677", "car": "Red Bull RB21", "team": "redbull", "year": 2025, "pcs": 1900, "number": "1", "variant": "RB21 White, 1900+ деталей", "backup": ["3256812310056041"]},
+ {"id": "3256812722545307", "car": "Ferrari SF-25", "team": "ferrari", "year": 2025, "pcs": 1915, "number": "16", "variant": "SF-25, 1915 деталей", "backup": ["3256812682211506"]},
+ {"id": "3256811400880844", "car": "McLaren MCL39", "team": "mclaren", "year": 2025, "pcs": 1675, "number": "4", "variant": "MCL39, 1675 деталей", "note": "Многовариантный лот: цена в выдаче — самого дешёвого варианта, MCL39 может стоить дороже."},
+ {"id": "3256811400880844", "car": "Ferrari SF-24", "team": "ferrari", "year": 2024, "pcs": 1361, "number": "16", "variant": "SF-24, 1361 деталь", "backup": ["3256812748054401"]},
+ {"id": "3256811400880844", "car": "Red Bull RB20", "team": "redbull", "year": 2024, "pcs": 1639, "number": "1", "variant": "RB20, 1639 деталей", "backup": ["3256812748054401"]},
+ {"id": "3256812982547966", "car": "Mercedes W14", "team": "mercedes", "year": 2023, "pcs": 1642, "number": "44", "variant": "W14 E, 1642 детали", "backup": ["3256812921806170"]},
+ {"id": "3256812956829803", "car": "Aston Martin AMR25", "team": "aston", "year": 2025, "pcs": 1912, "number": "14", "variant": "Mould King MK6022, 1912 деталей", "backup": ["3256812501309634"]}
+]
